@@ -43,7 +43,7 @@ region_dict = {
 }
 
 # 웹드라이브 설치
-# service = ChromeService(executable_path=ChromeDriverManager().install())
+service = ChromeService(executable_path=ChromeDriverManager().install())
 
 # 각 지역에 대한 정보를 가져와서 파일로 저장
 for region in region_dict:
