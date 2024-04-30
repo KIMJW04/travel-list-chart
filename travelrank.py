@@ -57,6 +57,8 @@ for region in region_dict:
 
     # 웹드라이버 초기화
     browser = webdriver.Chrome(service=service, options=options)
+    options.add_argument("--headless")
+    browser = webdriver.Chrome(options=options)
     browser.get(url)
 
     # 페이지가 완전히 로드될 때까지 대기
@@ -84,5 +86,3 @@ for region in region_dict:
     # 데이터를 JSON 파일로 저장
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(travel_data, f, ensure_ascii=False, indent=4)
-    # 브라우저 종료
-    browser.quit()
