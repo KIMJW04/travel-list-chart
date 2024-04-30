@@ -29,6 +29,7 @@ jobs:
 
     - name: library install
       run: |
+        pip install requests
         pip install pandas
         pip install beautifulsoup4
         pip install lxml

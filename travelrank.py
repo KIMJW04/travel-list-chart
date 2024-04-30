@@ -43,8 +43,7 @@ region_dict = {
 }
 
 # 웹드라이브 설치
-options = ChromeOptions()
-service = ChromeService(executable_path=ChromeDriverManager().install())
+# service = ChromeService(executable_path=ChromeDriverManager().install())
 
 # 각 지역에 대한 정보를 가져와서 파일로 저장
 for region in region_dict:
@@ -56,9 +55,9 @@ for region in region_dict:
     filename = f"chart_travel_{region_en}-{current_date}.json"
 
     # 웹드라이버 초기화
-    browser = webdriver.Chrome(service=service, options=options)
+    options = ChromeOptions()
     options.add_argument("--headless")
-    browser = webdriver.Chrome(options=options)
+    browser = webdriver.Chrome(service=service, options=options)
     browser.get(url)
 
     # 페이지가 완전히 로드될 때까지 대기
