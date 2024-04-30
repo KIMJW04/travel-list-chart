@@ -50,7 +50,6 @@ service = ChromeService(executable_path=ChromeDriverManager().install())
 for region in region_dict:
     # 영어 지역명 가져오기
     region_en = region_dict[region]
-    print(region)
 
     # 지역명을 URL에 포함하여 URL 생성
     url = f"https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query={region}+여행"

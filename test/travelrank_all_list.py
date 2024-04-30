@@ -287,7 +287,8 @@ service = ChromeService(executable_path=ChromeDriverManager().install())
 for kaul in korean_administrative_units_list:
     print(kaul)
     for region in korean_administrative_units_list[kaul]:
-        print(region)
+        region_en = ragion
+        print(region, region_en)
 
 
 # 각 지역에 대한 정보를 가져와서 파일로 저장
