@@ -61,15 +61,15 @@
     },
     {
         "ranking": "11",
-        "title": "코타브레드",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240116_143%2F1705331567540Ms0Fq_JPEG%2F%25BC%25F6%25C1%25A4%25B5%25CA_1-4087-2_%25282%2529.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1917010147"
-    },
-    {
-        "ranking": "12",
         "title": "라라브레드 공릉점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190410_212%2F1554870778439DWFM5_JPEG%2FpkYFd2V-Mi481kN4h5OkFkzW.JPG.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1062761073"
+    },
+    {
+        "ranking": "12",
+        "title": "코타브레드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240116_143%2F1705331567540Ms0Fq_JPEG%2F%25BC%25F6%25C1%25A4%25B5%25CA_1-4087-2_%25282%2529.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1917010147"
     },
     {
         "ranking": "13",

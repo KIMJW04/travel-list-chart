@@ -67,33 +67,33 @@
     },
     {
         "ranking": "12",
-        "title": "문화역서울284",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201014_282%2F1602644413712rgYby_JPEG%2FuTzj3XJa04RV7YkJPs3vCei0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/20757885"
-    },
-    {
-        "ranking": "13",
         "title": "공간갑",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210820_184%2F1629432280312yxh2Q_JPEG%2FUuWYISVR47gu08_pqiflKOPd.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1053282197"
     },
     {
-        "ranking": "14",
-        "title": "동대문디자인플라자뮤지엄",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190731_178%2F1564575656003UGgO3_JPEG%2FJ3x9UQQXDZRlpJKBRyPkx30Q.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/34574132"
+        "ranking": "13",
+        "title": "문화역서울284",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201014_282%2F1602644413712rgYby_JPEG%2FuTzj3XJa04RV7YkJPs3vCei0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/20757885"
     },
     {
-        "ranking": "15",
+        "ranking": "14",
         "title": "서울광장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_278%2F1441039546609pfreY_JPEG%2F116065565079888_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11796247"
     },
     {
-        "ranking": "16",
+        "ranking": "15",
         "title": "덕수궁 리에제와플",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240216_79%2F1708049035449F9PlB_JPEG%2FKakaoTalk_20230119_101507652.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/21627288"
+    },
+    {
+        "ranking": "16",
+        "title": "동대문디자인플라자뮤지엄",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190731_178%2F1564575656003UGgO3_JPEG%2FJ3x9UQQXDZRlpJKBRyPkx30Q.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/34574132"
     },
     {
         "ranking": "17",
@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "커피앤시가렛",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210928_37%2F1632796888350ajTMh_JPEG%2FCHo553O8_yHWf2c4dG7Kd-hz.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1547453593"
-    },
-    {
-        "ranking": "19",
         "title": "피크닉",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_180%2F1712663199307VAWG2_JPEG%2FDSC09659%2528facade%2529.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1017034682"
+    },
+    {
+        "ranking": "19",
+        "title": "커피앤시가렛",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210928_37%2F1632796888350ajTMh_JPEG%2FCHo553O8_yHWf2c4dG7Kd-hz.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1547453593"
     },
     {
         "ranking": "20",
