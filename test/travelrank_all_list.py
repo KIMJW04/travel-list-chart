@@ -282,7 +282,6 @@ korean_administrative_units_list = {
 }
 
 # 웹드라이브 설치
-options = ChromeOptions()
 service = ChromeService(executable_path=ChromeDriverManager().install())
 
 for kaul in korean_administrative_units_list:
@@ -303,6 +302,8 @@ for kaul in korean_administrative_units_list:
         filename = f"chart_travel_{region_en}-{current_date}.json"
 
         # 웹드라이버 초기화
+        options = ChromeOptions()
+        options.add_argument("--headless")
         browser = webdriver.Chrome(service=service, options=options)
         browser.get(url)
 
