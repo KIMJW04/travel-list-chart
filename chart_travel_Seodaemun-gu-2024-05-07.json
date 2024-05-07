@@ -19,15 +19,15 @@
     },
     {
         "ranking": "4",
-        "title": "서대문독립공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_3%2F1441026347235onyDv_JPEG%2F116363517879766_4.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13351769"
-    },
-    {
-        "ranking": "5",
         "title": "카페폭포",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230922_120%2F1695347318938z6KXD_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1472283292"
+    },
+    {
+        "ranking": "5",
+        "title": "서대문독립공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_3%2F1441026347235onyDv_JPEG%2F116363517879766_4.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13351769"
     },
     {
         "ranking": "6",
@@ -97,26 +97,26 @@
     },
     {
         "ranking": "17",
+        "title": "앤트러사이트 연희점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200811_163%2F1597126134587st3LQ_JPEG%2F1pYevOARUicPyW0E_lXlI2Q1.JPG.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1485444554"
+    },
+    {
+        "ranking": "18",
+        "title": "크레페마스터",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240412_260%2F1712923106929hoJdx_PNG%2FKakaoTalk_20240226_224536605.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19796689"
+    },
+    {
+        "ranking": "19",
         "title": "라이카시네마",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220829_51%2F1661759691486K6BYX_JPEG%2F_MG_8965-Edit.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1156408497"
     },
     {
-        "ranking": "18",
+        "ranking": "20",
         "title": "리히트",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_211%2F1714730619341fAIe1_JPEG%2F20240503_140609.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/35751361"
-    },
-    {
-        "ranking": "19",
-        "title": "마더린러 베이글",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220605_190%2F165440104674125reL_JPEG%2F6A014AB0-502B-4929-B9B6-136E3554F7FC.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37637684"
-    },
-    {
-        "ranking": "20",
-        "title": "앤트러사이트 연희점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200811_163%2F1597126134587st3LQ_JPEG%2F1pYevOARUicPyW0E_lXlI2Q1.JPG.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1485444554"
     }
 ]

@@ -7,21 +7,21 @@
     },
     {
         "ranking": "2",
+        "title": "국립항공박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201120_257%2F1605854850079eD8Vf_JPEG%2Fcg3nA9RA2gA9A1zjDInCZISY.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/983063944"
+    },
+    {
+        "ranking": "3",
         "title": "LG아트센터 서울",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220621_125%2F1655784935828QYSV6_JPEG%2F20220621510467.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11576168"
     },
     {
-        "ranking": "3",
+        "ranking": "4",
         "title": "베이글리스트",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230714_199%2F1689293831272NIviF_JPEG%2Fooj-113-min.JPG&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1075532553"
-    },
-    {
-        "ranking": "4",
-        "title": "국립항공박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201120_257%2F1605854850079eD8Vf_JPEG%2Fcg3nA9RA2gA9A1zjDInCZISY.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/983063944"
     },
     {
         "ranking": "5",
@@ -43,27 +43,27 @@
     },
     {
         "ranking": "8",
+        "title": "카페 우드진",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180725_117%2F1532481430052N5sqD_JPEG%2FSqpxXzPu8LmCY7td8Zqm43fZ.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1745761834"
+    },
+    {
+        "ranking": "9",
         "title": "베이커리 룬",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220928_157%2F1664335633612rXPYa_JPEG%2FEAEC46DC-B1EB-48FB-9FC2-49696D014BD4.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1018513593"
     },
     {
-        "ranking": "9",
+        "ranking": "10",
         "title": "프레베리 케이크",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240501_249%2F1714558001531MChSr_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-05-01_%25BF%25C0%25C8%25C4_7.06.05.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1754841765"
     },
     {
-        "ranking": "10",
+        "ranking": "11",
         "title": "오지오커피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230504_232%2F1683167192317laHl2_JPEG%2Fimage.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1720696591"
-    },
-    {
-        "ranking": "11",
-        "title": "카페 우드진",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180725_117%2F1532481430052N5sqD_JPEG%2FSqpxXzPu8LmCY7td8Zqm43fZ.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1745761834"
     },
     {
         "ranking": "12",
@@ -79,15 +79,15 @@
     },
     {
         "ranking": "14",
-        "title": "더 왓에버",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220504_151%2F1651595662497PrPy3_JPEG%2F6FE6EC2E-2E3C-46B7-8FD4-BD4550D91F3E.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1275204644"
-    },
-    {
-        "ranking": "15",
         "title": "깅꼬서울",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240322_282%2F1711087505769xV7fk_JPEG%2F20240322_112503.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1732725764"
+    },
+    {
+        "ranking": "15",
+        "title": "더 왓에버",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220504_151%2F1651595662497PrPy3_JPEG%2F6FE6EC2E-2E3C-46B7-8FD4-BD4550D91F3E.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1275204644"
     },
     {
         "ranking": "16",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "브런치나인",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230117_155%2F1673945084541UjPBG_JPEG%2F1.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1603750363"
+        "title": "빵쌤 마곡점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210401_247%2F1617263702265tbhop_JPEG%2FTdwfAi1tyuESCbjgR72kmSnO.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1156508242"
     }
 ]

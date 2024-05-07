@@ -43,15 +43,15 @@
     },
     {
         "ranking": "8",
-        "title": "정월",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190510_203%2F1557479953024HXRbs_JPEG%2FYgCUkP5yKk_14_nnud0w0WyY.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1478381424"
-    },
-    {
-        "ranking": "9",
         "title": "미뉴트 빠삐용 청담점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221228_230%2F1672194839251kmu6N_PNG%2FMP_%25B8%25DE%25C0%25CE_%25C3%25BB%25B4%25E3%25C1%25A1.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1867823297"
+    },
+    {
+        "ranking": "9",
+        "title": "정월",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190510_203%2F1557479953024HXRbs_JPEG%2FYgCUkP5yKk_14_nnud0w0WyY.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1478381424"
     },
     {
         "ranking": "10",
@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "투아투아",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230920_245%2F1695214725773h5WCQ_JPEG%2FIMG_8734.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1175794841"
-    },
-    {
-        "ranking": "16",
         "title": "현대 모터스튜디오 서울",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220323_231%2F1648014280243S4dIG_JPEG%2F%25BC%25AD%25BF%25EF_1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/34745051"
+    },
+    {
+        "ranking": "16",
+        "title": "투아투아",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230920_245%2F1695214725773h5WCQ_JPEG%2FIMG_8734.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1175794841"
     },
     {
         "ranking": "17",
