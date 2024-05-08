@@ -40,7 +40,7 @@ jobs:
     - name: Find generated folders
       id: find_folders
       run: |
-        folders=$(find ./travelrank -type d -name "$(date +'%Y-%m-%d')")
+        folders=$(find ./travelrank_list -type d -name "$(date +'%Y-%m-%d')")
         echo "Found folder: $folders"
         echo "FOLDERS=$folders" >> $GITHUB_ENV
     
