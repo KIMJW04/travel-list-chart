@@ -16,7 +16,7 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 한글 지역명과 영어 지역명 대응하는 딕셔너리 생성
 korean_administrative_units_list = {
-    "seoul": {
+    "Seoul": {
         "강남구": "Gangnam-gu",
         "강동구": "Gangdong-gu",
         "강북구": "Gangbuk-gu",
@@ -281,7 +281,7 @@ korean_administrative_units_list = {
 }
 
 # 현재 날짜로 된 폴더 생성
-folder_path = os.path.join(os.getcwd(), current_date)
+folder_path = os.path.join(os.getcwd(),"travelrank_list", current_date)
 os.makedirs(folder_path, exist_ok=True)
 
 # 웹드라이브 설치
