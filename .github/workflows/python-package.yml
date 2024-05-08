@@ -37,6 +37,19 @@ jobs:
       run: |
         python3 travelrank.py
 
+    - name: Find generated folders
+      id: find_folders
+      run: |
+        folders=$(find . -type d -name "$(date +'%Y-%m-%d')")
+        echo "Found folder: $folders"
+        echo "FOLDERS=$folders" >> $GITHUB_ENV
+    
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: my_artifact
+        path: ${{ env.FOLDERS }}
+
     - name: Configure Git
       run: |
         git config --global user.email "kjw040416@gmail.com"
