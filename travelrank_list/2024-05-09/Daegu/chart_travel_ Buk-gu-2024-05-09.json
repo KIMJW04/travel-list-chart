@@ -7,15 +7,15 @@
     },
     {
         "ranking": "2",
-        "title": "히어로플레이파크 대구침산점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230519_22%2F16844620362471KSk5_JPEG%2F%25C8%25F7%25BE%25EE%25B7%25CE%25C7%25C3%25B7%25B9%25C0%25CC%25C6%25C4%25C5%25A9_%25BD%25BD%25B7%25CE%25B0%25C7.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1401076830"
-    },
-    {
-        "ranking": "3",
         "title": "함지근린공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODEwMzBfMjQx%2FMDAxNTQwODg1NTA5OTUy.h2KtVhNRJprUJQWin3tdKUxYhHMcn57me_n56cSnjnUg.OipHFslUbhXMtZB8S4KL34xQWuqwtvKEd3dkj-jEAg0g.JPEG.shinsun74%2F20181030_141240.jpg%23740x555&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/16348171"
+    },
+    {
+        "ranking": "3",
+        "title": "히어로플레이파크 대구침산점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230519_22%2F16844620362471KSk5_JPEG%2F%25C8%25F7%25BE%25EE%25B7%25CE%25C7%25C3%25B7%25B9%25C0%25CC%25C6%25C4%25C5%25A9_%25BD%25BD%25B7%25CE%25B0%25C7.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1401076830"
     },
     {
         "ranking": "4",
@@ -25,15 +25,15 @@
     },
     {
         "ranking": "5",
-        "title": "로에베 플로레스",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231231_209%2F17040018465704dbcG_JPEG%2F1000013419.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1604509099"
-    },
-    {
-        "ranking": "6",
         "title": "스테이블모먼트 반석점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220114_288%2F1642122679247gniOI_JPEG%2F2112FAF7-2B24-4F51-9DCA-B33D75E5D476.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1635597636"
+    },
+    {
+        "ranking": "6",
+        "title": "로에베 플로레스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231231_209%2F17040018465704dbcG_JPEG%2F1000013419.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1604509099"
     },
     {
         "ranking": "7",
@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
-        "title": "침산공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA1MDVfMTc2%2FMDAxNDkzOTY2MzkxMzA1.E7h4x5raRecCKw4UdRoB2ASLr7wpn8eiQyY4ywXnbR0g.9WZHXhCv5BN_YkxE_ZkVQpHdpVhb7ovvcc5OCCAmdDAg.JPEG.soobin553%2FDSC01773.jpg%236000x4000&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/16333081"
-    },
-    {
-        "ranking": "10",
         "title": "구암서원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210616_250%2F1623831201110fLyJC_JPEG%2F9ecBtxel16F18yYWdHjwHt4r.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37609864"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "비움",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220110_122%2F1641754543399GlJ6F_JPEG%2FIMG_20220101_154643_869.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1818980407"
+    },
+    {
+        "ranking": "11",
+        "title": "침산공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA1MDVfMTc2%2FMDAxNDkzOTY2MzkxMzA1.E7h4x5raRecCKw4UdRoB2ASLr7wpn8eiQyY4ywXnbR0g.9WZHXhCv5BN_YkxE_ZkVQpHdpVhb7ovvcc5OCCAmdDAg.JPEG.soobin553%2FDSC01773.jpg%236000x4000&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/16333081"
     },
     {
         "ranking": "12",

@@ -7,27 +7,27 @@
     },
     {
         "ranking": "2",
-        "title": "가평양떼목장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_122%2F1713930259855V9agK_JPEG%2F20210629_040834.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1225532960"
-    },
-    {
-        "ranking": "3",
         "title": "에델바이스 스위스 테마파크",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191211_48%2F1576050574334q6fa2_JPEG%2Fbanner3.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/34559812"
     },
     {
-        "ranking": "4",
-        "title": "스카이라인 짚와이어",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210415_165%2F1618453226381H0V3v_JPEG%2FKakaoTalk_20210415_111902867_12.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13583902"
+        "ranking": "3",
+        "title": "가평양떼목장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_122%2F1713930259855V9agK_JPEG%2F20210629_040834.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1225532960"
     },
     {
-        "ranking": "5",
+        "ranking": "4",
         "title": "아침고요가족동물원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220712_100%2F1657598613808bGqHt_JPEG%2F1656374044027-4.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/38590803"
+    },
+    {
+        "ranking": "5",
+        "title": "스카이라인 짚와이어",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210415_165%2F1618453226381H0V3v_JPEG%2FKakaoTalk_20210415_111902867_12.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13583902"
     },
     {
         "ranking": "6",
@@ -49,15 +49,15 @@
     },
     {
         "ranking": "9",
-        "title": "자잠157",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_232%2F1712293628836bcemy_JPEG%2F2.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1179815516"
-    },
-    {
-        "ranking": "10",
         "title": "쁘띠프랑스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_43%2F1708922495759Wek04_JPEG%2F%25BF%25C0%25B8%25A3%25B0%25F1%25B5%25BF%25C8%25AD_%25C0%25A5%25BA%25A3%25B3%25CA.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/12913212"
+    },
+    {
+        "ranking": "10",
+        "title": "자잠157",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_232%2F1712293628836bcemy_JPEG%2F2.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1179815516"
     },
     {
         "ranking": "11",
@@ -91,15 +91,15 @@
     },
     {
         "ranking": "16",
-        "title": "코미호미",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_49%2F1702967334897zTxC7_JPEG%2FIMG_2145.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1149381150"
-    },
-    {
-        "ranking": "17",
         "title": "가평달맞이빵",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220720_51%2F16582951373856Eh6s_JPEG%2F20220624_105847.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1430115222"
+    },
+    {
+        "ranking": "17",
+        "title": "코미호미",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_49%2F1702967334897zTxC7_JPEG%2FIMG_2145.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1149381150"
     },
     {
         "ranking": "18",

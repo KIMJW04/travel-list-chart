@@ -73,9 +73,9 @@
     },
     {
         "ranking": "13",
-        "title": "강천섬유원지",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA2MjhfMjAx%2FMDAxNjI0ODUxMDQ2NzA1.4zoPQhzD0mFBupswb6IHrZgyrod4Xeh4txJp1e2MT9Ig.AL7G33E1JRdq883JBLau770MySVs_-8XQIJ5TRozhaAg.JPEG.yeojuhangul%2F1.jpg%23693x520&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1682100116"
+        "title": "예크생물원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171130_23%2F1511984013499mphOo_JPEG%2F%25A5%25E5.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19997144"
     },
     {
         "ranking": "14",
@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "예크생물원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171130_23%2F1511984013499mphOo_JPEG%2F%25A5%25E5.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/19997144"
-    },
-    {
-        "ranking": "16",
         "title": "블루마린 오토캠핑장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230906_100%2F1693963834468Fxu1t_JPEG%2FKakaoTalk_20230905_183703136.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/32891453"
+    },
+    {
+        "ranking": "16",
+        "title": "강천섬유원지",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA2MjhfMjAx%2FMDAxNjI0ODUxMDQ2NzA1.4zoPQhzD0mFBupswb6IHrZgyrod4Xeh4txJp1e2MT9Ig.AL7G33E1JRdq883JBLau770MySVs_-8XQIJ5TRozhaAg.JPEG.yeojuhangul%2F1.jpg%23693x520&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1682100116"
     },
     {
         "ranking": "17",
@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "홀츠가르텐",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_77%2F1714723137801tYE3h_JPEG%2FFF4FE2BA-C4E1-410C-B563-A28811C0E8CA.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1309916043"
-    },
-    {
-        "ranking": "19",
         "title": "스타벅스 여주남한강DT점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1892503748"
+    },
+    {
+        "ranking": "19",
+        "title": "홀츠가르텐",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_77%2F1714723137801tYE3h_JPEG%2FFF4FE2BA-C4E1-410C-B563-A28811C0E8CA.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1309916043"
     },
     {
         "ranking": "20",

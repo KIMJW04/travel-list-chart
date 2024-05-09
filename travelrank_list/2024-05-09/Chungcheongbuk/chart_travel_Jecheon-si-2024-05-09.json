@@ -25,21 +25,21 @@
     },
     {
         "ranking": "5",
-        "title": "의림지역사박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231030_93%2F1698625561491juQ6t_JPEG%2F1533719671228_-_%25BA%25B9%25BB%25E7%25BA%25BB.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38615526"
-    },
-    {
-        "ranking": "6",
         "title": "청풍호반케이블카 물태리역",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200330_75%2F15855529443900wfWh_JPEG%2FJq9DCuqFsxvscLf8iWTINH68.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1483443156"
     },
     {
-        "ranking": "7",
+        "ranking": "6",
         "title": "의림지",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200407_130%2F15862540547865Eq3s_JPEG%2F27tdtydHXxnZQzWs0osy4lPX.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13400760"
+    },
+    {
+        "ranking": "7",
+        "title": "의림지역사박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231030_93%2F1698625561491juQ6t_JPEG%2F1533719671228_-_%25BA%25B9%25BB%25E7%25BA%25BB.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38615526"
     },
     {
         "ranking": "8",
@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "박달재자연휴양림",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_92%2F1440992204413XKiV3_JPEG%2F11491016_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11491016"
-    },
-    {
-        "ranking": "16",
         "title": "월악산",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_80%2F14409922750347euwC_JPEG%2F11491497_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11491497"
+    },
+    {
+        "ranking": "16",
+        "title": "박달재자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_92%2F1440992204413XKiV3_JPEG%2F11491016_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11491016"
     },
     {
         "ranking": "17",

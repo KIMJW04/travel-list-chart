@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "모악산",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_20%2F1441045587220YUPRn_JPEG%2F13491207_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491207"
-    },
-    {
-        "ranking": "19",
         "title": "카페 애드리브",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230401_229%2F1680327736332O0KjC_JPEG%2F39E6144D-9DD1-4508-8307-814A8EA1727C.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1783246351"
     },
     {
-        "ranking": "20",
+        "ranking": "19",
         "title": "소양한옥티롤",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA4MTRfMTcw%2FMDAxNjkyMDAyMTU0OTkx.yYoHOZ5zJVweJLfn6MxlxockJuuW9eOUnDzhaoKrHRQg.xS7ZmXVVwwjAR1RDkA9r7Nsu6LyotUq_o8lVOPHQoNIg.JPEG.kje158%2F20230812%25A3%25DF145146.jpg%23900x1093&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1418484817"
+    },
+    {
+        "ranking": "20",
+        "title": "모악산",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_20%2F1441045587220YUPRn_JPEG%2F13491207_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13491207"
     }
 ]

@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "인제캠핑타운",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220525_128%2F1653445603387I3zSS_JPEG%2F%25C0%25CE%25C1%25A6_%25C4%25B7%25C7%25CE%25C0%25E5_FD2.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/35457692"
-    },
-    {
-        "ranking": "13",
         "title": "인제군기적의도서관",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA0MjFfMjYw%2FMDAxNzEzNjgyNDYwNDIw.drnmA-yUY9ZbFEEf7i-I7JW--nUs2itXvQ2jD9X4UYYg.Fpmgja151wGOAD1-tVlVDL2OQmTp8EpZm9YYtUjG5kQg.JPEG%2F%25C0%25CE%25C1%25A6-%25B0%25A1%25BA%25BC%25B8%25B8%25C7%25D1%25B0%25F7-%25C0%25CE%25C1%25A6-%25B1%25E2%25C0%25FB%25C0%25C7%25B5%25B5%25BC%25AD%25B0%25FC-%25B9%25E9%25B4%25E3%25BB%25E7.jpg%23886x886&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1557686874"
+    },
+    {
+        "ranking": "13",
+        "title": "인제캠핑타운",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220525_128%2F1653445603387I3zSS_JPEG%2F%25C0%25CE%25C1%25A6_%25C4%25B7%25C7%25CE%25C0%25E5_FD2.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/35457692"
     },
     {
         "ranking": "14",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "갯골자연휴양림",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA3MjRfOTIg%2FMDAxNjkwMTY3MDQ0NjYz.aXGET6XZxzJfOlbkBs_KmohmMHEYGx5pEP1v7CQ5_bcg.4vgrDXXKdlLHqz-eIooYwf9l_IkfSCQmPdCffuIfIiQg.JPEG.fort40%2F20230723%25A3%25DF124558.jpg%23900x900&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1043668834"
-    },
-    {
-        "ranking": "19",
         "title": "진동리 국민여가캠핑장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210621_237%2F1624233500036vy0Dw_JPEG%2F0VXvmdoD-kivxdDXN0b7uZfr.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/962191920"
     },
     {
-        "ranking": "20",
+        "ranking": "19",
         "title": "커피홀베이커리 인제스테이점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210805_251%2F1628142187159RS0eV_JPEG%2Fux3kAO1rdwc_Fy0spxoRV3dB.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1992389474"
+    },
+    {
+        "ranking": "20",
+        "title": "박인환문학관",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA5MDZfMjU1%2FMDAxNTA0NzA2NzEyOTE0.soTRP8JTuguhKmH8I3DgeZ-jsAEXnDWby81P6rmByxcg.5uYl4Xg9z3SgovITDCs-pdi64WdAgQRNGGOR1Qcm3UMg.JPEG.ph_factory%2F20170906_124040.jpg%23600x600&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/20104134"
     }
 ]

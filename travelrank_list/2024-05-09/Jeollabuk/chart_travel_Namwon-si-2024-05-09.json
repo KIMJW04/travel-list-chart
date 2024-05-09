@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "카페 앤디스",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240219_113%2F1708340478361wdRGH_JPEG%2F4FC79634-52EF-4F60-A29B-3F6FA2BDF953.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1836172019"
-    },
-    {
-        "ranking": "19",
         "title": "지리산둘레길주천-운봉구간",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA0MTBfMjg0%2FMDAxNTIzMzE2Njk0MTkx.BfJDs9sRb8k6OPYE9_7ExU41ItuC5jBdQgaVgwicZBsg.fKD7DP_fy1onNGCosI5qI3xEtk0fEwVcaSD6rBORAm4g.JPEG.qlstndja%2F20180328_084323.jpg%234128x2322&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/17592420"
     },
     {
-        "ranking": "20",
+        "ranking": "19",
         "title": "잡학다식",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221103_275%2F1667472936783GkQPn_JPEG%2F186325F5-36C2-4B9A-B0D7-ABBC3DA6A94E.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1528474705"
+    },
+    {
+        "ranking": "20",
+        "title": "카페 앤디스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240219_113%2F1708340478361wdRGH_JPEG%2F4FC79634-52EF-4F60-A29B-3F6FA2BDF953.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1836172019"
     }
 ]

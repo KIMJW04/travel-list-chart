@@ -43,39 +43,39 @@
     },
     {
         "ranking": "8",
-        "title": "옥계폭포",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzExMjhfNjQg%2FMDAxNTExODM1OTkwMTA5.9mGqz8l_76RJWW4iwnXhGgoVJtzdBobi3sPGoBj3lTIg.wKFBuqBGL_yc9V19KMndNDKSOh9UH3IFSXjYSvWXQ6kg.JPEG.hmsjja%2F%25BF%25C1%25B0%25E8%25C6%25F8%25C6%25F7_6.JPG%233000x1686&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491086"
-    },
-    {
-        "ranking": "9",
         "title": "영동레인보우영화관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211027_229%2F1635307992962ShjJo_JPEG%2FHniTLwa7oMGUfuZ_OQOwhXiP.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1980024059"
     },
     {
-        "ranking": "10",
-        "title": "카페 해영",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220605_62%2F16544029918416e8Qd_JPEG%2F%25C0%25FC%25B0%25E6.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1553543140"
+        "ranking": "9",
+        "title": "옥계폭포",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzExMjhfNjQg%2FMDAxNTExODM1OTkwMTA5.9mGqz8l_76RJWW4iwnXhGgoVJtzdBobi3sPGoBj3lTIg.wKFBuqBGL_yc9V19KMndNDKSOh9UH3IFSXjYSvWXQ6kg.JPEG.hmsjja%2F%25BF%25C1%25B0%25E8%25C6%25F8%25C6%25F7_6.JPG%233000x1686&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13491086"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "강선대",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMjNfODgg%2FMDAxNzA2MDEwNTg1NzA0.OUKmCTfz0GtqQGIKk7nh1QpS7X2rGeVLSLk-4yaA45gg.a-onH4OD7MZaaL-nKWxOSScVXEQSnfMWKbXgH6p6SqEg.JPEG.quartz2%2FDSCF0020.JPG%236000x4000&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1656307764"
     },
     {
-        "ranking": "12",
+        "ranking": "11",
         "title": "루나마켓",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211029_266%2F1635492375588hLa49_JPEG%2F_tuwTPalynZk8c8ADrLtoxXa.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1897411374"
     },
     {
+        "ranking": "12",
+        "title": "카페 해영",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220605_62%2F16544029918416e8Qd_JPEG%2F%25C0%25FC%25B0%25E6.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1553543140"
+    },
+    {
         "ranking": "13",
-        "title": "민주지산자연휴양림",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_2%2F1423205516296LEhT0_JPEG%2F%25C3%25E6%25BA%25CF_%25BF%25B5%25B5%25BF%25B9%25CE%25C1%25D6%25C1%25F6%25BB%25EA%25C0%25DA%25BF%25AC%25C8%25DE%25BE%25E7%25B8%25B2_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11491015"
+        "title": "길등재",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230501_33%2F16828939626814j0pt_JPEG%2F20230421_072202.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1063678380"
     },
     {
         "ranking": "14",
@@ -85,9 +85,9 @@
     },
     {
         "ranking": "15",
-        "title": "길등재",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230501_33%2F16828939626814j0pt_JPEG%2F20230421_072202.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1063678380"
+        "title": "민주지산자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_2%2F1423205516296LEhT0_JPEG%2F%25C3%25E6%25BA%25CF_%25BF%25B5%25B5%25BF%25B9%25CE%25C1%25D6%25C1%25F6%25BB%25EA%25C0%25DA%25BF%25AC%25C8%25DE%25BE%25E7%25B8%25B2_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11491015"
     },
     {
         "ranking": "16",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "브레댄코 충북영동점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240202_57%2F17068384251395D9Wz_PNG%2F%25B5%25FE%25B1%25E2-%25C3%25E2%25BD%25C3.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1522275686"
+        "title": "투썸플레이스 영동군청점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200507_229%2F1588811068751YXon6_JPEG%2FqgzOzePgoF0rNhL4OQFHKFlU.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1237804413"
     },
     {
         "ranking": "20",
-        "title": "컬러즈",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230116_127%2F167385548275886fcg_JPEG%2FKakaoTalk_20230116_164334348.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1682313249"
+        "title": "브레댄코 충북영동점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240202_57%2F17068384251395D9Wz_PNG%2F%25B5%25FE%25B1%25E2-%25C3%25E2%25BD%25C3.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1522275686"
     }
 ]

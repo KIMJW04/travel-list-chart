@@ -13,15 +13,15 @@
     },
     {
         "ranking": "3",
-        "title": "구미에코랜드",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190318_253%2F1552892040951QTACo_JPEG%2Fs5cMdaOZh4HvKKgHI21vMKxl.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/607672684"
-    },
-    {
-        "ranking": "4",
         "title": "낙동강체육공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzEwMTlfMjc0%2FMDAxNTA4NDA1OTUwNjE0.arotha6gJaT_vvk84rj64UNiNZXqm53YzZI09lXIrPEg.ooH7ckbfDKqdTQrfJjnAU-ObU3uJetLPKM_1GXWe3e4g.JPEG.mgcostom10%2F%25B1%25B8%25B9%25CC%25C7%25CE%25C5%25A9%25B9%25C4%25B8%25AE.jpg%234939x3293&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/15557152"
+    },
+    {
+        "ranking": "4",
+        "title": "구미에코랜드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190318_253%2F1552892040951QTACo_JPEG%2Fs5cMdaOZh4HvKKgHI21vMKxl.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/607672684"
     },
     {
         "ranking": "5",
@@ -73,21 +73,21 @@
     },
     {
         "ranking": "13",
-        "title": "신라불교초전지",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200627_26%2F15932500934171RQR2_JPEG%2F-bGBcN9gXMgjxSCLPzlHG8UF.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1030048984"
-    },
-    {
-        "ranking": "14",
         "title": "페트리코",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191024_106%2F1571877065308wMtKA_JPEG%2Fz96ETONafJo7K9AvPrjOqtlO.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1562649052"
     },
     {
-        "ranking": "15",
+        "ranking": "14",
         "title": "지산샛강생태공원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20161014_248%2F1476418375410b137g_JPEG%2F176964534274_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/38695789"
+    },
+    {
+        "ranking": "15",
+        "title": "신라불교초전지",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200627_26%2F15932500934171RQR2_JPEG%2F-bGBcN9gXMgjxSCLPzlHG8UF.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1030048984"
     },
     {
         "ranking": "16",

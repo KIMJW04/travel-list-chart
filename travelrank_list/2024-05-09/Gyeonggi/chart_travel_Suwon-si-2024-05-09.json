@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "효원공원월화원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_42%2F1441038235924pSSuL_JPEG%2F116574557744156_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13447998"
-    },
-    {
-        "ranking": "16",
         "title": "수원시기후변화체험교육관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230217_206%2F1676594728306hiM2s_JPEG%2F%25C0%25FC%25B0%25E61.JPG&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/36668534"
+    },
+    {
+        "ranking": "16",
+        "title": "효원공원월화원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_42%2F1441038235924pSSuL_JPEG%2F116574557744156_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13447998"
     },
     {
         "ranking": "17",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "수달앤쥬 동물원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231114_223%2F1699938319728SetoJ_JPEG%2F%25C3%25D6%25C1%25BE%25C0%25FC%25B4%25DC%252811.14%2529jpg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1771456856"
-    },
-    {
-        "ranking": "19",
         "title": "화성행궁",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221102_258%2F1667391539529KdAyX_JPEG%2F1667391523140.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/31169145"
     },
     {
-        "ranking": "20",
+        "ranking": "19",
         "title": "수원화성",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_199%2F1441045629087c80Mg_JPEG%2F13491459_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491459"
+    },
+    {
+        "ranking": "20",
+        "title": "수달앤쥬 동물원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231114_223%2F1699938319728SetoJ_JPEG%2F%25C3%25D6%25C1%25BE%25C0%25FC%25B4%25DC%252811.14%2529jpg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1771456856"
     }
 ]

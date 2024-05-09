@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "고창읍성",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_43%2F1441002822189v4XhL_JPEG%2F106778508973698_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13177095"
-    },
-    {
-        "ranking": "14",
         "title": "고창 청농원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_248%2F17150704160169cv3q_PNG%2F002.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1181907711"
+    },
+    {
+        "ranking": "14",
+        "title": "고창읍성",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_43%2F1441002822189v4XhL_JPEG%2F106778508973698_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13177095"
     },
     {
         "ranking": "15",
@@ -91,15 +91,15 @@
     },
     {
         "ranking": "16",
-        "title": "백일후애",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230427_133%2F1682579007774V475d_JPEG%2FKakaoTalk_20230427_110821318_06.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1517817887"
-    },
-    {
-        "ranking": "17",
         "title": "구시포 노을캠핑장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210914_299%2F1631614825925cSqNI_JPEG%2FkCUyUvVgicVv9ne5f9688_Xl.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/36208932"
+    },
+    {
+        "ranking": "17",
+        "title": "백일후애",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230427_133%2F1682579007774V475d_JPEG%2FKakaoTalk_20230427_110821318_06.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1517817887"
     },
     {
         "ranking": "18",

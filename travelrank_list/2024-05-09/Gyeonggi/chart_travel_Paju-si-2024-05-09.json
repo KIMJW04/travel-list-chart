@@ -61,27 +61,27 @@
     },
     {
         "ranking": "11",
-        "title": "말똥도넛 디저트타운 파주점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211207_212%2F1638875776825aQfAC_JPEG%2FIMG_7058_2.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1942565846"
-    },
-    {
-        "ranking": "12",
-        "title": "율곡수목원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_199%2F1488241729795BAbMW_JPEG%2F186178495868.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/138778370"
-    },
-    {
-        "ranking": "13",
         "title": "운정호수공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzEwMTBfOTYg%2FMDAxNTA3NjM3Njc4NjQ5.k7uw-C7oLb3XiNv-UptKZKYn658k4TmMOSXhoy1SUzQg.idzIv2dcUJfW1_rxRKUr_f-YMSWFMxX2OcMCpqAVrfYg.JPEG.rikeyjy%2FDSC06976.jpg%23966x644&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/844357801"
     },
     {
-        "ranking": "14",
+        "ranking": "12",
+        "title": "말똥도넛 디저트타운 파주점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211207_212%2F1638875776825aQfAC_JPEG%2FIMG_7058_2.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1942565846"
+    },
+    {
+        "ranking": "13",
         "title": "가드너스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230203_284%2F1675409756616tF1Q9_JPEG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-001_%25282%2529.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1862799200"
+    },
+    {
+        "ranking": "14",
+        "title": "율곡수목원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_199%2F1488241729795BAbMW_JPEG%2F186178495868.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/138778370"
     },
     {
         "ranking": "15",
@@ -97,15 +97,15 @@
     },
     {
         "ranking": "17",
-        "title": "벽초지수목원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200516_115%2F1589620678218P2x6f_JPEG%2F2pMkkoME2VCKuWhVFxmnE3Fg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11631797"
-    },
-    {
-        "ranking": "18",
         "title": "흑사당",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230817_105%2F1692273334460FnHuk_JPEG%2FIMG_6597.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1924106591"
+    },
+    {
+        "ranking": "18",
+        "title": "벽초지수목원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200516_115%2F1589620678218P2x6f_JPEG%2F2pMkkoME2VCKuWhVFxmnE3Fg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11631797"
     },
     {
         "ranking": "19",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "오두산 통일전망대",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_40%2F1441005220364tcYsS_JPEG%2F12040092_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/12040092"
+        "title": "한국근현대사박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230905_186%2F1693876030894PHc0T_JPEG%2Fnaver_main.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11620618"
     }
 ]

@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "독도",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_244%2F1440992315684buPJm_JPEG%2F157155537223126_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11491872"
-    },
-    {
-        "ranking": "13",
         "title": "국민여가캠핑장",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMDRfMjk5%2FMDAxNzA2OTgxMTcwMTY3.lPStOcaOKv5zqc5OFBf1ZqkYiBeL9aj62dnP8gfGYnYg.wiTS3Yu8qf6rjb5zrti5OQzN5eQsZw5rKFMXGBdeGK0g.JPEG.rayam%2FDSC07117.JPG%231280x853&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/35425128"
+    },
+    {
+        "ranking": "13",
+        "title": "독도",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_244%2F1440992315684buPJm_JPEG%2F157155537223126_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11491872"
     },
     {
         "ranking": "14",
@@ -103,9 +103,9 @@
     },
     {
         "ranking": "18",
-        "title": "카페 래우",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221109_294%2F1667960761892GiOYI_PNG%2F1.PNG&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1408534260"
+        "title": "저동항",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_35%2F1441052176796SOzkT_JPEG%2F157155536955735_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13538071"
     },
     {
         "ranking": "19",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "저동항",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_35%2F1441052176796SOzkT_JPEG%2F157155536955735_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13538071"
+        "title": "울릉자생식물원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA2MjdfMjMy%2FMDAxNDk4NTY5MzY2MjMw.H1Sc4qRaJiZRA2ykAOp2pFoQB0uho0RDIr39xBdcWpUg.XZ5A8uVz9MdbE9emN4vtcKPAP_N7pdyMLRL8F85tGEMg.JPEG.ds1fus%2FDSC_9326.jpg%231024x683&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/31633182"
     }
 ]

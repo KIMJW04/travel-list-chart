@@ -55,15 +55,15 @@
     },
     {
         "ranking": "10",
-        "title": "부여왕릉원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_78%2F1441024482256uIqHM_JPEG%2F116281534376915_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13345809"
-    },
-    {
-        "ranking": "11",
         "title": "합송리 994",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190717_289%2F1563315157979AcQ9u_JPEG%2F5wCw7vKFuq4PR6QX9UTHuB6Q.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1795122074"
+    },
+    {
+        "ranking": "11",
+        "title": "부여왕릉원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_78%2F1441024482256uIqHM_JPEG%2F116281534376915_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13345809"
     },
     {
         "ranking": "12",

@@ -91,15 +91,15 @@
     },
     {
         "ranking": "16",
-        "title": "만대재",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230416_6%2F1681603565503jNR7g_JPEG%2FIMG_20230410_161413_102.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1046190252"
-    },
-    {
-        "ranking": "17",
         "title": "브런치 카페 소화",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240229_287%2F1709184098769bqyKi_PNG%2F123231.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1011875611"
+    },
+    {
+        "ranking": "17",
+        "title": "만대재",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230416_6%2F1681603565503jNR7g_JPEG%2FIMG_20230410_161413_102.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1046190252"
     },
     {
         "ranking": "18",

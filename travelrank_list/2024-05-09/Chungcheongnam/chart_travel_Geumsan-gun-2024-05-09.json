@@ -61,15 +61,15 @@
     },
     {
         "ranking": "11",
-        "title": "금산칠백의총",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_163%2F14410068691753BYuO_JPEG%2F116281533366989_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11620938"
-    },
-    {
-        "ranking": "12",
         "title": "아르체마레",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210908_187%2F1631099899162u199y_PNG%2Fi9bnFzV8X-4RY3rGXJbd3tSx.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1906591775"
+    },
+    {
+        "ranking": "12",
+        "title": "캐슬1477",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240330_86%2F1711800341918l8XmW_JPEG%2FD5715DBB-B256-4605-BB0D-B792AC0998FD.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1047284460"
     },
     {
         "ranking": "13",
@@ -79,9 +79,9 @@
     },
     {
         "ranking": "14",
-        "title": "캐슬1477",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240330_86%2F1711800341918l8XmW_JPEG%2FD5715DBB-B256-4605-BB0D-B792AC0998FD.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1047284460"
+        "title": "금산칠백의총",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_163%2F14410068691753BYuO_JPEG%2F116281533366989_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11620938"
     },
     {
         "ranking": "15",

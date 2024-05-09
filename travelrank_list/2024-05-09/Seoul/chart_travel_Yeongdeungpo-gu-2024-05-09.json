@@ -25,21 +25,21 @@
     },
     {
         "ranking": "5",
-        "title": "여의도 샛강생태공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_34%2F1441020274397niAij_JPEG%2F116172517443328_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13323260"
-    },
-    {
-        "ranking": "6",
         "title": "선유도공원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_198%2F1441015806377WHGbe_JPEG%2F12366522_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/12366522"
     },
     {
-        "ranking": "7",
+        "ranking": "6",
         "title": "SeaLaLa워터파크",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200215_19%2F1581724830750ngVvj_JPEG%2F600x600_01.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/12076240"
+    },
+    {
+        "ranking": "7",
+        "title": "여의도 샛강생태공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_34%2F1441020274397niAij_JPEG%2F116172517443328_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13323260"
     },
     {
         "ranking": "8",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "강변서재",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230921_41%2F1695279804701dvihJ_JPEG%2F3.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1489831691"
-    },
-    {
-        "ranking": "19",
         "title": "멜라 타임스퀘어점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_44%2F1710821947591uOykd_JPEG%2F1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1150077011"
     },
     {
+        "ranking": "19",
+        "title": "강변서재",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230921_41%2F1695279804701dvihJ_JPEG%2F3.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1489831691"
+    },
+    {
         "ranking": "20",
-        "title": "주렁주렁 영등포 타임스퀘어점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240430_189%2F1714467159867DFRdr_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C1%25B7%25CE%25C7%25CA_%25C5%25B8%25C0%25D3%25BD%25BA%25C4%25F9%25BE%25EE%25C1%25A1_%25BA%25B9%25BB%25E7.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1770068822"
+        "title": "코코로카라 더현대서울점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240301_72%2F17093003948118HR9S_JPEG%2FKakaoTalk_20240301_222745324_23.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1487001361"
     }
 ]

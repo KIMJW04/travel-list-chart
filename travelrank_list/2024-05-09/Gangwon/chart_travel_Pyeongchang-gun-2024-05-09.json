@@ -43,15 +43,15 @@
     },
     {
         "ranking": "8",
-        "title": "산너미목장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210412_139%2F16181912364553BeIT_PNG%2FWfTH7hqj7abkGk6_oCdHCgVU.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1066273967"
-    },
-    {
-        "ranking": "9",
         "title": "월정사",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_198%2F1441013614399W6jyA_JPEG%2F107158498751723_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11663919"
+    },
+    {
+        "ranking": "9",
+        "title": "산너미목장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210412_139%2F16181912364553BeIT_PNG%2FWfTH7hqj7abkGk6_oCdHCgVU.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1066273967"
     },
     {
         "ranking": "10",
@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "대관령 순수양떼목장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210419_152%2F1618800561921ElBdT_JPEG%2FpOFOs9MZkAewAUxwwCfzIImO.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/731111634"
-    },
-    {
-        "ranking": "16",
         "title": "국립조선왕조실록박물관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231110_248%2F1699581059596l5U9r_JPEG%2F1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1616367209"
+    },
+    {
+        "ranking": "16",
+        "title": "대관령 순수양떼목장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210419_152%2F1618800561921ElBdT_JPEG%2FpOFOs9MZkAewAUxwwCfzIImO.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/731111634"
     },
     {
         "ranking": "17",

@@ -25,15 +25,15 @@
     },
     {
         "ranking": "5",
-        "title": "안다미로라움",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230306_7%2F167811120253092TfI_JPEG%2FKakaoTalk_20230302_133011744_12.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1276478946"
-    },
-    {
-        "ranking": "6",
         "title": "세종공룡월드",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221226_216%2F1672040363987KM1Hx_PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-003_%25281%2529.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1331954682"
+    },
+    {
+        "ranking": "6",
+        "title": "안다미로라움",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230306_7%2F167811120253092TfI_JPEG%2FKakaoTalk_20230302_133011744_12.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1276478946"
     },
     {
         "ranking": "7",
@@ -55,9 +55,9 @@
     },
     {
         "ranking": "10",
-        "title": "국립어린이박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_151%2F17014131893225WEis_JPEG%2FDJI_0188_1.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1964087970"
+        "title": "플레져",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230831_50%2F1693448107273DYGsg_JPEG%2F_%25C7%25C3%25B7%25B9%25C1%25AE_%25C0%25CE%25BD%25BA%25C5%25B8%25BE%25F7%25B7%25CE%25B5%25E5%25BF%25EB-001.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1005440383"
     },
     {
         "ranking": "11",
@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "금강수목원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200325_95%2F1585136487571wPFp5_JPEG%2FUh7vjgId83p1AYtl35itdQj_.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491029"
+        "title": "국립어린이박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_151%2F17014131893225WEis_JPEG%2FDJI_0188_1.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1964087970"
     },
     {
         "ranking": "13",
-        "title": "플레져",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230831_50%2F1693448107273DYGsg_JPEG%2F_%25C7%25C3%25B7%25B9%25C1%25AE_%25C0%25CE%25BD%25BA%25C5%25B8%25BE%25F7%25B7%25CE%25B5%25E5%25BF%25EB-001.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1005440383"
+        "title": "금강수목원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200325_95%2F1585136487571wPFp5_JPEG%2FUh7vjgId83p1AYtl35itdQj_.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13491029"
     },
     {
         "ranking": "14",
@@ -109,9 +109,9 @@
     },
     {
         "ranking": "19",
-        "title": "카페용담",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200505_269%2F1588652827344HFkj9_JPEG%2FHnPPxRCMZT7U2OxJlQ_BX1Ee.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1925365652"
+        "title": "세종예술의전당",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220630_127%2F1656569004213OfPVF_JPEG%2FDSC09754.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/32408318"
     },
     {
         "ranking": "20",

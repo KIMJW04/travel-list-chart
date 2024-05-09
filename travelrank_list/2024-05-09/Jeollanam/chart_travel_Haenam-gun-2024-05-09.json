@@ -61,15 +61,15 @@
     },
     {
         "ranking": "11",
-        "title": "트윈브릿지",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210525_134%2F1621871403223q3ItB_JPEG%2Fcig8gdshzgykjQ-79X67wp64.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1222673011"
-    },
-    {
-        "ranking": "12",
         "title": "산이정원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_138%2F1702619251628rF6Ts_JPEG%2FDSC09528.JPG&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1701695600"
+    },
+    {
+        "ranking": "12",
+        "title": "트윈브릿지",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210525_134%2F1621871403223q3ItB_JPEG%2Fcig8gdshzgykjQ-79X67wp64.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1222673011"
     },
     {
         "ranking": "13",

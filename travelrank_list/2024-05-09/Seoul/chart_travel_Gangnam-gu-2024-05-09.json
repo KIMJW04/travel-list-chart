@@ -55,15 +55,15 @@
     },
     {
         "ranking": "10",
-        "title": "팀홀튼 신논현역점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_193%2F1702430178922loYfa_JPEG%2Fpos%25B4%25F5%25B9%25CC.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1790202634"
-    },
-    {
-        "ranking": "11",
         "title": "썸띵어바웃커피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200410_63%2F1586525835413cIJAS_JPEG%2FtgP2t6xLpFwDN_PCxDkLFXzU.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1081873068"
+    },
+    {
+        "ranking": "11",
+        "title": "팀홀튼 신논현역점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_193%2F1702430178922loYfa_JPEG%2Fpos%25B4%25F5%25B9%25CC.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1790202634"
     },
     {
         "ranking": "12",

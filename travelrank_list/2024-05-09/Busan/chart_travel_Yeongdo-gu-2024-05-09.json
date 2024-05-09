@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "헤일르",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_230%2F1700558313084CwyFu_JPEG%2F44A74D21-60D8-46D0-80F2-DAE4A51CD655.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1030034508"
-    },
-    {
-        "ranking": "16",
         "title": "카페 비블랙",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_267%2F1696609799714zqRcx_JPEG%2F1000014540.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1751220444"
+    },
+    {
+        "ranking": "16",
+        "title": "헤일르",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_230%2F1700558313084CwyFu_JPEG%2F44A74D21-60D8-46D0-80F2-DAE4A51CD655.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1030034508"
     },
     {
         "ranking": "17",

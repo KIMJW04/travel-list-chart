@@ -13,21 +13,21 @@
     },
     {
         "ranking": "3",
-        "title": "디피랑",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201029_197%2F1603945117311OA2aA_JPEG%2FiSX2-WoOhRt6jVh3Ises5d-R.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1243852931"
-    },
-    {
-        "ranking": "4",
         "title": "더카트인통영",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240102_299%2F1704157972168rt54Q_JPEG%2Fbanner_x.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1822462956"
     },
     {
-        "ranking": "5",
+        "ranking": "4",
         "title": "스카이라인루지 통영",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230920_207%2F1695171964450aownh_JPEG%2Fbanner6.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/585836377"
+    },
+    {
+        "ranking": "5",
+        "title": "디피랑",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201029_197%2F1603945117311OA2aA_JPEG%2FiSX2-WoOhRt6jVh3Ises5d-R.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1243852931"
     },
     {
         "ranking": "6",
@@ -43,21 +43,21 @@
     },
     {
         "ranking": "8",
+        "title": "이순신공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMDdfMjU2%2FMDAxNTE1MjU1NjU3MzA5.nz3vGiMNJYIS620E9ejZQbI5rb71h-opoYVFaNaDm3Qg.lzH2MabAhpkMhyS6R3PbzvKsIUy2IGX-zEYdI5jpk1Yg.JPEG.yungiyun7788%2FIMG_0109.JPG%232880x1920&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19589173"
+    },
+    {
+        "ranking": "9",
         "title": "소매물도",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_128%2F1440992318726OUCNi_JPEG%2F157155537240514_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11491896"
     },
     {
-        "ranking": "9",
+        "ranking": "10",
         "title": "클라우드힐",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191121_25%2F1574323280480RHILq_PNG%2FOqFG9oIDpk3UTo9wM65orO08.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1503762561"
-    },
-    {
-        "ranking": "10",
-        "title": "이순신공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMDdfMjU2%2FMDAxNTE1MjU1NjU3MzA5.nz3vGiMNJYIS620E9ejZQbI5rb71h-opoYVFaNaDm3Qg.lzH2MabAhpkMhyS6R3PbzvKsIUy2IGX-zEYdI5jpk1Yg.JPEG.yungiyun7788%2FIMG_0109.JPG%232880x1920&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/19589173"
     },
     {
         "ranking": "11",

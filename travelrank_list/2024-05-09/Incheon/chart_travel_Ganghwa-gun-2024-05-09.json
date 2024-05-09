@@ -25,39 +25,39 @@
     },
     {
         "ranking": "5",
-        "title": "더 라두",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240404_236%2F1712225540505fSDqL_JPEG%2F20230918_155551.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1715084069"
-    },
-    {
-        "ranking": "6",
         "title": "전등사",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180208_196%2F1518058637500vkUfv_JPEG%2FhJcjVUQx7LZcsLZLl6tgBWh4.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11664022"
     },
     {
+        "ranking": "6",
+        "title": "더 라두",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240404_236%2F1712225540505fSDqL_JPEG%2F20230918_155551.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1715084069"
+    },
+    {
         "ranking": "7",
-        "title": "케이131",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220530_127%2F16538931836936ofUE_JPEG%2F1.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1804965256"
-    },
-    {
-        "ranking": "8",
-        "title": "매화마름",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_45%2F17071993406340OoC3_JPEG%2FKakaoTalk_20240206_145644476.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13520996"
-    },
-    {
-        "ranking": "9",
         "title": "마호가니 강화점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_105%2F1712277217252CzxdB_PNG%2F20240405_093311.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1992213114"
     },
     {
-        "ranking": "10",
+        "ranking": "8",
+        "title": "케이131",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220530_127%2F16538931836936ofUE_JPEG%2F1.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1804965256"
+    },
+    {
+        "ranking": "9",
         "title": "카페109하우스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240429_162%2F1714373365603d4QFq_JPEG%2F110.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1128084164"
+    },
+    {
+        "ranking": "10",
+        "title": "매화마름",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_45%2F17071993406340OoC3_JPEG%2FKakaoTalk_20240206_145644476.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13520996"
     },
     {
         "ranking": "11",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "민머루해수욕장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190519_35%2F15582356211628zvqt_JPEG%2FykDpWTcPjZ4iUitun-ZTc15G.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11491705"
+        "title": "전등사 템플스테이",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_82%2F1488265651000wQHyV_JPEG%2FDSC_3159.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/96116817"
     },
     {
         "ranking": "20",
-        "title": "마니산",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_116%2F1441045573966Nt6q1_JPEG%2F13491129_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491129"
+        "title": "민머루해수욕장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190519_35%2F15582356211628zvqt_JPEG%2FykDpWTcPjZ4iUitun-ZTc15G.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11491705"
     }
 ]

@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
-        "title": "카페 마로치노",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220314_96%2F16472318355739mTdE_JPEG%2FResized_1647185688967-6.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1005299397"
-    },
-    {
-        "ranking": "10",
         "title": "레귤러리",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220622_219%2F1655866579271gSoU0_JPEG%2F64860E36-1E5E-4470-A7C8-82747358CBE3.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1661033745"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "훕훕베이글",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230529_33%2F1685327098475grWLW_JPEG%2F%25BC%25BC%25B7%25CE1000%25B2%25D9%25B9%25CC%25B1%25E2%25C5%25A9%25B8%25AE%25B9%25CC%25B9%25AB%25C8%25AD%25B0%25FA4.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/33626376"
+    },
+    {
+        "ranking": "11",
+        "title": "카페 마로치노",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220314_96%2F16472318355739mTdE_JPEG%2FResized_1647185688967-6.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1005299397"
     },
     {
         "ranking": "12",
@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "리틀치프플러스 광명점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240126_196%2F1706256358507iTNBY_JPEG%2F%25C6%25F7%25C5%25E4%25C1%25B8.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1058311565"
-    },
-    {
-        "ranking": "14",
         "title": "사과당 철산점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240107_34%2F17045544312623E2K2_JPEG%2F1000027296.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1757119648"
+    },
+    {
+        "ranking": "14",
+        "title": "리틀치프플러스 광명점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240126_196%2F1706256358507iTNBY_JPEG%2F%25C6%25F7%25C5%25E4%25C1%25B8.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1058311565"
     },
     {
         "ranking": "15",

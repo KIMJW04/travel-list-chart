@@ -97,21 +97,21 @@
     },
     {
         "ranking": "17",
-        "title": "북천시민공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEwMjZfMjcy%2FMDAxNjk4MjgyNTQzNjIy.6RjZsa8vLbRQmT1gVSR1apmqs63kCvAtiQIqcYFIYbEg.8BxXfJhLdzeoR6RRtqRQF8udvuiQ0A6jYqeylv2dfNEg.JPEG.greatsangju%2F%25BB%25E74.jpg%231333x1000&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/15368488"
-    },
-    {
-        "ranking": "18",
         "title": "무양주택",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220607_134%2F1654568522248UN2bz_JPEG%2FKakaoTalk_20220607_112137037_04.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1423679422"
     },
     {
-        "ranking": "19",
+        "ranking": "18",
         "title": "갑장산",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_282%2F14410149847381fdi2_JPEG%2F126266537075548_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/19777390"
+    },
+    {
+        "ranking": "19",
+        "title": "북천시민공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEwMjZfMjcy%2FMDAxNjk4MjgyNTQzNjIy.6RjZsa8vLbRQmT1gVSR1apmqs63kCvAtiQIqcYFIYbEg.8BxXfJhLdzeoR6RRtqRQF8udvuiQ0A6jYqeylv2dfNEg.JPEG.greatsangju%2F%25BB%25E74.jpg%231333x1000&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/15368488"
     },
     {
         "ranking": "20",

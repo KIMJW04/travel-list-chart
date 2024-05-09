@@ -13,15 +13,15 @@
     },
     {
         "ranking": "3",
-        "title": "충주호크루즈",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20231124_219%2F17007910292488ugrl_JPEG%2F%25C3%25E6%25C1%25D6%25C8%25A3_%2528%25B0%25F8%25BF%25EB%2529%25BD%25E6%25B3%25D7%25C0%25CF.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11731477"
-    },
-    {
-        "ranking": "4",
         "title": "중앙탑사적공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA4MTdfMTE2%2FMDAxNTAyODk2NDE2MzU3.sIZfVfIjqsvp25k2vOokgeQZ-ITNvCSQRfZtxblkGokg.CfCoghDLvVjxFstHcMG5bL1r6p8y9Z-LowKYw-Doc7Mg.JPEG.intersjh%2FIMG_9397.JPG%232880x1920&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/19699930"
+    },
+    {
+        "ranking": "4",
+        "title": "충주호크루즈",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20231124_219%2F17007910292488ugrl_JPEG%2F%25C3%25E6%25C1%25D6%25C8%25A3_%2528%25B0%25F8%25BF%25EB%2529%25BD%25E6%25B3%25D7%25C0%25CF.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11731477"
     },
     {
         "ranking": "5",
@@ -61,21 +61,21 @@
     },
     {
         "ranking": "11",
+        "title": "듀레베이커리 호암점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210427_104%2F1619509550366vY08j_JPEG%2F5_Kv98h9yCoa-l3tL-k1HMqz.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1273966958"
+    },
+    {
+        "ranking": "12",
         "title": "삼탄유원지",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_69%2F1441045619973GqBve_JPEG%2F13491404_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491404"
     },
     {
-        "ranking": "12",
+        "ranking": "13",
         "title": "충주탄금공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzEwMDJfMTQ1%2FMDAxNjk2MjAzMjMyODE5.w3UCEI7FQ0LrkspKL0zhnT0JIr9z4xX_rONJYBlW7dwg.iohrklMD-DuzW41iy0YhBs_pex2-rJxeZ1AJFR4B49kg.JPEG.jirungstyle%2FSNOW%25A3%25DF20231002%25A3%25DF081151%25A3%25DF740.jpg%233000x4000&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/20373587"
-    },
-    {
-        "ranking": "13",
-        "title": "듀레베이커리 호암점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210427_104%2F1619509550366vY08j_JPEG%2F5_Kv98h9yCoa-l3tL-k1HMqz.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1273966958"
     },
     {
         "ranking": "14",
@@ -91,27 +91,27 @@
     },
     {
         "ranking": "16",
-        "title": "충주커피박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210503_257%2F16200009081242ccED_JPEG%2F5V0kR7XdpqPU5HqJAd6vbHks.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36437503"
-    },
-    {
-        "ranking": "17",
         "title": "충주다목적댐 물 문화관",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAzMzFfMjQx%2FMDAxNzExODExNjE4MTIy.HCUCCLhNQhk08kZRdb7rwppUPTeSyqOLqbgchyQrNjIg.obC0G9c9HFBCn6dqpaz8C8RMhyBN_ha7S5LHRwUr4Gcg.JPEG%2Foutput_499180814.jpg%23900x600&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/94110890"
     },
     {
-        "ranking": "18",
-        "title": "우림정원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180723_212%2F1532338076366Meixz_JPEG%2FWawJ7wwHV-qkUxYgDwE4GI1h.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1120299159"
+        "ranking": "17",
+        "title": "충주커피박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210503_257%2F16200009081242ccED_JPEG%2F5V0kR7XdpqPU5HqJAd6vbHks.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/36437503"
     },
     {
-        "ranking": "19",
+        "ranking": "18",
         "title": "베이커리이와정",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240224_135%2F1708736886486UHFnS_JPEG%2F572B376E-9917-460E-8443-884BC567D5D2.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1190980151"
+    },
+    {
+        "ranking": "19",
+        "title": "우림정원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180723_212%2F1532338076366Meixz_JPEG%2FWawJ7wwHV-qkUxYgDwE4GI1h.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1120299159"
     },
     {
         "ranking": "20",

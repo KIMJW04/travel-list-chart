@@ -13,15 +13,15 @@
     },
     {
         "ranking": "3",
-        "title": "황지연못",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_140%2F14410146816380JiaH_JPEG%2F13289605_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13289605"
-    },
-    {
-        "ranking": "4",
         "title": "365세이프타운",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230530_70%2F1685413821145etBud_JPEG%2F%25C8%25AD%25B8%25E9_%25C4%25B8%25C3%25B3_2023-05-30_112854.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/31101993"
+    },
+    {
+        "ranking": "4",
+        "title": "황지연못",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_140%2F14410146816380JiaH_JPEG%2F13289605_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13289605"
     },
     {
         "ranking": "5",
@@ -61,33 +61,33 @@
     },
     {
         "ranking": "11",
-        "title": "구문소",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200125_13%2F1579878467603yC5As_JPEG%2FJL74XR3APl1mvcIQ7eeenMRd.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/15724468"
-    },
-    {
-        "ranking": "12",
         "title": "태백산국립공원 소도야영장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230718_8%2F1689668077805wYux7_JPEG%2FDJI_0638.JPG&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1968735037"
     },
     {
-        "ranking": "13",
+        "ranking": "12",
         "title": "드라마[태양의후예]촬영지",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMjNfMjcw%2FMDAxNTE2Njc1NDUyNDA5.xnFVEjg4Y87yJQ738C6x84RZ7Q_CNMeTtHiGRK7_NBkg.D4cXAd29f5r68PqEUY6EbAJqpgcVuOCwrtPlwdpl1BUg.JPEG.onhijini74%2F%25C5%25C2%25BE%25E7%25C0%25C7%25C8%25C4%25BF%25B9oohn74522.JPG%23900x600&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37829374"
     },
     {
-        "ranking": "14",
+        "ranking": "13",
         "title": "카페건널목",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20161223_104%2F1482466748916C6v59_PNG%2F_1.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/34598088"
     },
     {
-        "ranking": "15",
+        "ranking": "14",
         "title": "태백호텔 태백눈꽃야영장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230712_92%2F1689138887756lEMiJ_JPEG%2FIMG_9636.JPG&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1940704895"
+    },
+    {
+        "ranking": "15",
+        "title": "구문소",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200125_13%2F1579878467603yC5As_JPEG%2FJL74XR3APl1mvcIQ7eeenMRd.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/15724468"
     },
     {
         "ranking": "16",

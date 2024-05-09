@@ -61,15 +61,15 @@
     },
     {
         "ranking": "11",
-        "title": "앤티크커피 동탄점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240320_41%2F1710911221076zT803_JPEG%2F01.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1172192865"
-    },
-    {
-        "ranking": "12",
         "title": "동탄호수공원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190704_45%2F1562207314923xQQPB_JPEG%2FIT4arH54s39p9W6yNZ5LkxAe.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37282458"
+    },
+    {
+        "ranking": "12",
+        "title": "앤티크커피 동탄점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240320_41%2F1710911221076zT803_JPEG%2F01.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1172192865"
     },
     {
         "ranking": "13",
@@ -85,21 +85,21 @@
     },
     {
         "ranking": "15",
+        "title": "용주사",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_26%2F14410136296014O7S9_JPEG%2F107059636958005_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11663945"
+    },
+    {
+        "ranking": "16",
         "title": "할아버지 동물농장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220305_92%2F1646488130911DsvHU_JPEG%2F8ECBA4EE-E482-4A99-8638-77CD53F8487F.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1539816957"
     },
     {
-        "ranking": "16",
+        "ranking": "17",
         "title": "동탄여울공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMDFfNzQg%2FMDAxNzA2NzY3NDkyMDM5.1Yp7JXSH9ftCq7VoqGMScByKhvT-8BjUjVNGu83Nsfcg.MrohtcVDUpiAJAtvQbXWSzddABXbDQUsrqeUEJPA74Ug.JPEG.cjkang01%2FDSC09115.jpg%233504x2336&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1404623810"
-    },
-    {
-        "ranking": "17",
-        "title": "용주사",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_26%2F14410136296014O7S9_JPEG%2F107059636958005_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11663945"
     },
     {
         "ranking": "18",

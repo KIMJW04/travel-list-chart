@@ -37,21 +37,21 @@
     },
     {
         "ranking": "7",
+        "title": "디저트39 부평중앙점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220510_20%2F1652146806270DHs73_JPEG%2FKakaoTalk_20220510_103414931_18.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1041903737"
+    },
+    {
+        "ranking": "8",
         "title": "원적산공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTA2MDVfNjMg%2FMDAxNjIyODg0MzI2NDQ4.kB2_1Us7fl8UgSSJ5fBW7V6qdLYG162Trr-ZL_0z9HIg.GDwyXxOZvGbfWXtuNqUnOY2um-t92iRQfX822fWadEEg.JPEG.mjbj0423%2F20210531%25A3%25DF155207.jpg%23900x1851&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/16900892"
     },
     {
-        "ranking": "8",
+        "ranking": "9",
         "title": "에키노마에",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220228_95%2F1646023850968T1tgv_JPEG%2FIMG_20211223_013723_098.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37392455"
-    },
-    {
-        "ranking": "9",
-        "title": "디저트39 부평중앙점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220510_20%2F1652146806270DHs73_JPEG%2FKakaoTalk_20220510_103414931_18.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1041903737"
     },
     {
         "ranking": "10",
@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "고망고",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240422_51%2F1713750554996doqQR_JPEG%2F289BED20-37F7-499C-8FDA-0AB2054EB00C.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1874511350"
-    },
-    {
-        "ranking": "13",
         "title": "갸또드레브",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230123_191%2F1674463713483rfMYs_JPEG%2F1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1677499075"
+    },
+    {
+        "ranking": "13",
+        "title": "고망고",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240422_51%2F1713750554996doqQR_JPEG%2F289BED20-37F7-499C-8FDA-0AB2054EB00C.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1874511350"
     },
     {
         "ranking": "14",
@@ -91,15 +91,15 @@
     },
     {
         "ranking": "16",
-        "title": "피스 온 베이글",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231017_163%2F1697546665886OXQTL_JPEG%2Ftemp_file.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1094700575"
-    },
-    {
-        "ranking": "17",
         "title": "LIBERTY",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191009_183%2F1570630361387xq4Mg_PNG%2F7h-vxsXVnAgsHAjN0uQxcNNB.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1111300689"
+    },
+    {
+        "ranking": "17",
+        "title": "피스 온 베이글",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231017_163%2F1697546665886OXQTL_JPEG%2Ftemp_file.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1094700575"
     },
     {
         "ranking": "18",

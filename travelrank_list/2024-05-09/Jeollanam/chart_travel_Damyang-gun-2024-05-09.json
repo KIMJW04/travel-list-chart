@@ -1,21 +1,21 @@
 [
     {
         "ranking": "1",
-        "title": "밀밀",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231117_47%2F1700215559044Pwuld_JPEG%2FIMG_2800.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1261959941"
-    },
-    {
-        "ranking": "2",
         "title": "옥담",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201110_144%2F1604983904829axYyo_JPEG%2FCbHkkzeBWzkSLGprPLmMQN2W.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1908471700"
     },
     {
-        "ranking": "3",
+        "ranking": "2",
         "title": "소쇄원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_240%2F1440986596873PKtLJ_JPEG%2F106460614432561_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13103624"
+    },
+    {
+        "ranking": "3",
+        "title": "밀밀",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231117_47%2F1700215559044Pwuld_JPEG%2FIMG_2800.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1261959941"
     },
     {
         "ranking": "4",
@@ -25,15 +25,15 @@
     },
     {
         "ranking": "5",
-        "title": "담양곤충박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_202%2F1690519430947wRA3B_JPEG%2F%25B4%25E3%25BE%25E7.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1693373575"
-    },
-    {
-        "ranking": "6",
         "title": "담양관방제림",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_11%2F1441045610729y6SvI_JPEG%2F13491356_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491356"
+    },
+    {
+        "ranking": "6",
+        "title": "담양곤충박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_202%2F1690519430947wRA3B_JPEG%2F%25B4%25E3%25BE%25E7.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1693373575"
     },
     {
         "ranking": "7",
@@ -43,27 +43,27 @@
     },
     {
         "ranking": "8",
-        "title": "담양샌드",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240324_72%2F1711217674695KN6sU_JPEG%2FDSC06620.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1125459723"
-    },
-    {
-        "ranking": "9",
         "title": "죽녹원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_55%2F1441039846433lI0kz_PNG%2F116167587170723_0.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11797921"
     },
     {
-        "ranking": "10",
-        "title": "오프더커프",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230925_275%2F1695612287714z9Ldx_JPEG%2Ftemp_file.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1117632385"
+        "ranking": "9",
+        "title": "담양샌드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240324_72%2F1711217674695KN6sU_JPEG%2FDSC06620.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1125459723"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "미각&담양양갱",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_224%2F1715051459046cSuUm_PNG%2FKakaoTalk_20240507_100447437_15.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1229409167"
+    },
+    {
+        "ranking": "11",
+        "title": "오프더커프",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230925_275%2F1695612287714z9Ldx_JPEG%2Ftemp_file.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1117632385"
     },
     {
         "ranking": "12",

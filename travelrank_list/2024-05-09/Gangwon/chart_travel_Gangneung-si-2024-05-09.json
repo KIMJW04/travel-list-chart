@@ -25,15 +25,15 @@
     },
     {
         "ranking": "5",
-        "title": "갤러리밥스",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201225_142%2F16089010109417mdTJ_JPEG%2F0Ut8any7WhmMuK5wUquM9fZ-.JPG.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13495154"
-    },
-    {
-        "ranking": "6",
         "title": "테라로사 커피공장 강릉본점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200422_278%2F1587531042172TgXbr_JPEG%2FV-ta0vOWwlwKQkmnI-B9s7ja.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/10968214"
+    },
+    {
+        "ranking": "6",
+        "title": "갤러리밥스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201225_142%2F16089010109417mdTJ_JPEG%2F0Ut8any7WhmMuK5wUquM9fZ-.JPG.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13495154"
     },
     {
         "ranking": "7",
@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "엔드 투 앤드",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240217_192%2F1708137433398SwlR2_JPEG%2FKakaoTalk_20220428_125126172_04.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1270162518"
-    },
-    {
-        "ranking": "16",
         "title": "솔올미술관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240422_59%2F171375969376162nXy_JPEG%2FEL5A1851-1-F-F.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1114642960"
+    },
+    {
+        "ranking": "16",
+        "title": "엔드 투 앤드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240217_192%2F1708137433398SwlR2_JPEG%2FKakaoTalk_20220428_125126172_04.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1270162518"
     },
     {
         "ranking": "17",

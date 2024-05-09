@@ -37,15 +37,15 @@
     },
     {
         "ranking": "7",
-        "title": "사오",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221111_163%2F1668170741197I8ak5_JPEG%2F1661600356848.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1795464585"
-    },
-    {
-        "ranking": "8",
         "title": "글램킹 글램핑",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190913_297%2F1568304208786mokk1_JPEG%2Fj3tKgBhdS5xSj_MH9howlsVH.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1136482064"
+    },
+    {
+        "ranking": "8",
+        "title": "사오",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221111_163%2F1668170741197I8ak5_JPEG%2F1661600356848.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1795464585"
     },
     {
         "ranking": "9",

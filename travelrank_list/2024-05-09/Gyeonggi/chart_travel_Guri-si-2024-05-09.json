@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "퐁퐁플라워 롯데백화점 구리센터",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_142%2F1701401237799Hi3NG_JPEG%2FKakaoTalk_20231201_121423790.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1043770174"
-    },
-    {
-        "ranking": "16",
         "title": "구리 토평 가족캠핑장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170821_65%2F1503313719896JQOUt_JPEG%2FNs-SKSpk9S-Uvdqw8wkxbfja.JPG.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1558043540"
+    },
+    {
+        "ranking": "16",
+        "title": "퐁퐁플라워 롯데백화점 구리센터",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_142%2F1701401237799Hi3NG_JPEG%2FKakaoTalk_20231201_121423790.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1043770174"
     },
     {
         "ranking": "17",

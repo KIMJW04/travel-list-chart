@@ -49,15 +49,15 @@
     },
     {
         "ranking": "9",
-        "title": "헐스밴드",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230512_164%2F1683883593509wB4FI_JPEG%2FIMG_20230512_090601_969.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1595149187"
-    },
-    {
-        "ranking": "10",
         "title": "둔촌갯벌체험장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220503_136%2F1651551499999X40N6_JPEG%2F20220501_135228.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1288900478"
+    },
+    {
+        "ranking": "10",
+        "title": "헐스밴드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230512_164%2F1683883593509wB4FI_JPEG%2FIMG_20230512_090601_969.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1595149187"
     },
     {
         "ranking": "11",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
+        "title": "남해유배문학관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240229_6%2F1709165563717kDXGi_JPEG%2F%25C1%25A4%25B8%25E9_-_%25BA%25B9%25BB%25E7%25BA%25BB.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13530757"
+    },
+    {
+        "ranking": "19",
         "title": "전도갯벌체험장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181015_66%2F1539579523319n2mLx_JPEG%2FoFR0Askn-KeeA-70rWl3RjuU.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1663601559"
     },
     {
-        "ranking": "19",
-        "title": "남해촌집 화소반",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200630_21%2F1593496642742FOT0g_JPEG%2FYTtOTwnWx8avdCEVfqyP3HPB.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1359912709"
-    },
-    {
         "ranking": "20",
-        "title": "남해유배문학관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240229_6%2F1709165563717kDXGi_JPEG%2F%25C1%25A4%25B8%25E9_-_%25BA%25B9%25BB%25E7%25BA%25BB.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13530757"
+        "title": "몽돌해변",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjExMDdfMzcg%2FMDAxNjY3NzgyMzYxODU0.65t0LMVaxuz-N0T8YC5sZ--VeDl8z48q8VDLO75aiJIg.odJTX7JFROpQupsNJVvS-ziE47xytRrVM0_-y2ZrnhQg.JPEG.honson11%2F%25B8%25F9%25B5%25B9%25C7%25D8%25BA%25AF3.jpg%23580x580&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19743922"
     }
 ]

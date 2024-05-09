@@ -19,21 +19,21 @@
     },
     {
         "ranking": "4",
-        "title": "완도해양치유센터",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231128_39%2F17011537993930NPIl_JPEG%2F0A8A9847.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1535741213"
-    },
-    {
-        "ranking": "5",
         "title": "장도청해진장보고유적",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_159%2F1423211936437KDIW1_JPEG%2F%25C0%25FC%25B3%25B2_%25C3%25BB%25C7%25D8%25C1%25F8%25C0%25AF%25C0%25FB%25C1%25F6_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/20103072"
     },
     {
-        "ranking": "6",
+        "ranking": "5",
         "title": "해변공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA0MDZfOTAg%2FMDAxNjQ5MjAyNzYzNzkz.EwUojDg7kD37bUQ1r7AGzFPl8QvJ3sEaMc38PZVrmrEg.0dUXy06vJB-Kv1HzV_RpgsEZPC2RZWYtvjJqUo8K5FAg.JPEG.belljin2%2F1649201398555.jpg%23891x613&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/20521491"
+    },
+    {
+        "ranking": "6",
+        "title": "완도해양치유센터",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231128_39%2F17011537993930NPIl_JPEG%2F0A8A9847.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1535741213"
     },
     {
         "ranking": "7",
@@ -79,15 +79,15 @@
     },
     {
         "ranking": "14",
-        "title": "완도정도리구계등",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMjlfMjg2%2FMDAxNTE3MTgyNjU1MDMy.6xmfz1L68R18fSyzmZNTAppDEAHUflKPlGjOQ7lbH4Ug.WR0VwWeD46PCiBGOM91YIBm3--beRadFaHP6kYpyFQcg.JPEG.namdokorea%2F19598901_1534499596664762_2952452774851578997_n.jpg%23960x540&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/17170086"
-    },
-    {
-        "ranking": "15",
         "title": "전라남도완도자연휴양림",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA1MjJfMjQw%2FMDAxNTI2OTg1NTA5NDI3.yV9Xteq8dImLl0CtAHqCUCuVKykSxsH1IU94IoXRZWYg.51K3hBzRWMWJHKH1zSn1eICq0D59iJI2wlLsyduGuyQg.JPEG.rktlqjtl2%2F1526891284280.jpg%23900x675&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1977211933"
+    },
+    {
+        "ranking": "15",
+        "title": "완도정도리구계등",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMjlfMjg2%2FMDAxNTE3MTgyNjU1MDMy.6xmfz1L68R18fSyzmZNTAppDEAHUflKPlGjOQ7lbH4Ug.WR0VwWeD46PCiBGOM91YIBm3--beRadFaHP6kYpyFQcg.JPEG.namdokorea%2F19598901_1534499596664762_2952452774851578997_n.jpg%23960x540&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/17170086"
     },
     {
         "ranking": "16",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "완도타워",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_74%2F1441053624903s6KXO_JPEG%2F106072548930555_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13042251"
-    },
-    {
-        "ranking": "20",
         "title": "중앙시장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_42%2F1441025252502TsYIo_JPEG%2F116355505261422_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13347559"
+    },
+    {
+        "ranking": "20",
+        "title": "완도타워",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_74%2F1441053624903s6KXO_JPEG%2F106072548930555_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13042251"
     }
 ]

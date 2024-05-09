@@ -79,15 +79,15 @@
     },
     {
         "ranking": "14",
-        "title": "커피마나코하",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230516_74%2F1684245425590kpPMp_JPEG%2F00._%25B9%25E8%25B0%25E6%25C0%25CC%25B9%25CC%25C1%25F6%25B7%25CE%25B0%25ED.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1604078888"
-    },
-    {
-        "ranking": "15",
         "title": "카페오드레요",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210621_189%2F1624244225772Xmath_JPEG%2FWyN9K6auyE-KJf5DihGw3FJ6.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/469709234"
+    },
+    {
+        "ranking": "15",
+        "title": "커피마나코하",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230516_74%2F1684245425590kpPMp_JPEG%2F00._%25B9%25E8%25B0%25E6%25C0%25CC%25B9%25CC%25C1%25F6%25B7%25CE%25B0%25ED.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1604078888"
     },
     {
         "ranking": "16",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "웰리힐리파크 루지",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240503_295%2F1714703823627GkJJp_JPEG%2FKSJ02144.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1221378688"
-    },
-    {
-        "ranking": "20",
         "title": "풍수원성당",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles1.naver.net%2F20150721_288%2Fwoojtjt_143748408518302jpz_JPEG%2FIMG_0009.JPG&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13163313"
+    },
+    {
+        "ranking": "20",
+        "title": "웰리힐리파크 루지",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240503_295%2F1714703823627GkJJp_JPEG%2FKSJ02144.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1221378688"
     }
 ]

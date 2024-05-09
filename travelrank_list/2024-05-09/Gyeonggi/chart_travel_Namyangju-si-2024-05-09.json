@@ -37,27 +37,27 @@
     },
     {
         "ranking": "7",
-        "title": "산들소리",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230503_83%2F1683090783812EnIba_JPEG%2FKakaoTalk_20230503_141223590.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13068233"
-    },
-    {
-        "ranking": "8",
-        "title": "로이테",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230710_44%2F1688989627042aW7rE_JPEG%2FIMG_5963.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1483012662"
-    },
-    {
-        "ranking": "9",
         "title": "물의정원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_98%2F1441004890453hVIq7_JPEG%2F156769588041832_1.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/35506762"
     },
     {
-        "ranking": "10",
+        "ranking": "8",
         "title": "가람 베이커리",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230918_266%2F1694978128141YXf81_JPEG%2F%25C8%25AD%25C0%25CC%25C6%25AE%25B7%25D11.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1977976174"
+    },
+    {
+        "ranking": "9",
+        "title": "산들소리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230503_83%2F1683090783812EnIba_JPEG%2FKakaoTalk_20230503_141223590.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13068233"
+    },
+    {
+        "ranking": "10",
+        "title": "로이테",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230710_44%2F1688989627042aW7rE_JPEG%2FIMG_5963.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1483012662"
     },
     {
         "ranking": "11",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "덕소자연사박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170413_204%2F1492049747838ddKSV_JPEG%2F186363514567662_0.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/31610350"
-    },
-    {
-        "ranking": "20",
         "title": "봉선사",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_273%2F14410136244910D8f8_JPEG%2F116574595721949_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11663924"
+    },
+    {
+        "ranking": "20",
+        "title": "덕소자연사박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170413_204%2F1492049747838ddKSV_JPEG%2F186363514567662_0.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/31610350"
     }
 ]

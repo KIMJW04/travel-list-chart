@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "시즌글램핑",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_60%2F17013314550042uauB_JPEG%2FKakaoTalk_20231130_170323994_03.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1104404759"
-    },
-    {
-        "ranking": "19",
         "title": "대원사계곡",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_159%2F1440992236351r8mp7_JPEG%2F11491139_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11491139"
+    },
+    {
+        "ranking": "19",
+        "title": "시즌글램핑",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_60%2F17013314550042uauB_JPEG%2FKakaoTalk_20231130_170323994_03.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1104404759"
     },
     {
         "ranking": "20",

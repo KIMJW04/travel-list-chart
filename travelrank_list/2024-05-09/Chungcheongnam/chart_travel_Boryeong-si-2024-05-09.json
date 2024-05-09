@@ -19,15 +19,15 @@
     },
     {
         "ranking": "4",
-        "title": "죽도",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_248%2F1441008679931SziLy_JPEG%2F11629122_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11629122"
-    },
-    {
-        "ranking": "5",
         "title": "죽도 상화원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181223_13%2F1545492597677arMX3_JPEG%2FjMqAo6NpI3pqeFaoQax1PuT0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/34325453"
+    },
+    {
+        "ranking": "5",
+        "title": "죽도",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_248%2F1441008679931SziLy_JPEG%2F11629122_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11629122"
     },
     {
         "ranking": "6",
@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
-        "title": "개화예술공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231006_190%2F1696604232506QLVg8_JPEG%2FIMG_7944.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/12024809"
-    },
-    {
-        "ranking": "10",
         "title": "바다듬 루프탑카페",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220831_54%2F1661926173588xuRaP_JPEG%2F1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1635643270"
     },
     {
+        "ranking": "10",
+        "title": "개화예술공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231006_190%2F1696604232506QLVg8_JPEG%2FIMG_7944.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/12024809"
+    },
+    {
         "ranking": "11",
-        "title": "코랄커피",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200429_39%2F158816515347548J1g_PNG%2FFQPIRs9-dcM64vJVGxjKw-7q.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/21535890"
+        "title": "천북굴단지",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMjhfMTcy%2FMDAxNzA2NDQzODExMzQ5.-toEuhtMeirXVmuWKH2uu9pA28uBLIHGG1rm9EvIdhMg.50frYLE1Prz8PUg4Tp0XKCy-bBomMXFp0W0_3UcoYYgg.JPEG.cseyo%2FIMG_3660.JPG%234032x3024&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/17715970"
     },
     {
         "ranking": "12",
@@ -73,9 +73,9 @@
     },
     {
         "ranking": "13",
-        "title": "천북굴단지",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMjhfMTcy%2FMDAxNzA2NDQzODExMzQ5.-toEuhtMeirXVmuWKH2uu9pA28uBLIHGG1rm9EvIdhMg.50frYLE1Prz8PUg4Tp0XKCy-bBomMXFp0W0_3UcoYYgg.JPEG.cseyo%2FIMG_3660.JPG%234032x3024&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/17715970"
+        "title": "코랄커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200429_39%2F158816515347548J1g_PNG%2FFQPIRs9-dcM64vJVGxjKw-7q.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/21535890"
     },
     {
         "ranking": "14",
@@ -91,32 +91,32 @@
     },
     {
         "ranking": "16",
-        "title": "용두해수욕장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_245%2F1440992297729jAMTb_JPEG%2F157155537051800_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11491760"
-    },
-    {
-        "ranking": "17",
         "title": "군헌갯벌체험학습장",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA5MTFfMjcg%2FMDAxNjk0MzYxODU0NTU5.yVV41ipZ9_hFHfM0nmhOxcUvvs2_DKFM5BLAeNtp0Lwg.abefsgBQjrWwT2CMPPlT7slxfjHdwDAISZGwsHkCCY8g.JPEG.toymusic7942%2FKakaoTalk_20230911_010005464_09.jpg%234032x3024&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/17712637"
     },
     {
-        "ranking": "18",
-        "title": "천북 청보리밭",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240402_1%2F1712022721341m80jj_JPEG%2F4%25BF%25F9%25C3%25BB%25BA%25B8%25B8%25AE.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1729653551"
-    },
-    {
-        "ranking": "19",
+        "ranking": "17",
         "title": "라스칼라",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220211_106%2F1644576523352sDUB4_JPEG%2F%25B6%25F3%25BD%25BA%25C4%25AE%25B6%25F3.JPG&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/32591662"
     },
     {
-        "ranking": "20",
+        "ranking": "18",
+        "title": "용두해수욕장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_245%2F1440992297729jAMTb_JPEG%2F157155537051800_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11491760"
+    },
+    {
+        "ranking": "19",
         "title": "Have it",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230814_135%2F1692017606977g5CP4_JPEG%2F20230809_194611.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1744824650"
+    },
+    {
+        "ranking": "20",
+        "title": "천북 청보리밭",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240402_1%2F1712022721341m80jj_JPEG%2F4%25BF%25F9%25C3%25BB%25BA%25B8%25B8%25AE.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1729653551"
     }
 ]

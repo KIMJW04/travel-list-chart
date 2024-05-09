@@ -85,27 +85,27 @@
     },
     {
         "ranking": "15",
-        "title": "죠스글램핑",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220610_79%2F1654822564347N43ra_JPEG%2Fimage.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1492723076"
-    },
-    {
-        "ranking": "16",
-        "title": "인디언숲캠프닉",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220725_53%2F1658694571921RF1Uy_JPEG%2FScreenshot_20220725-051604_Gallery.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1310189811"
-    },
-    {
-        "ranking": "17",
         "title": "퍼스트커피랩 동두천점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231106_37%2F16992604312670zrci_JPEG%2FKakaoTalk_20231106_174303560.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1417461219"
     },
     {
-        "ranking": "18",
+        "ranking": "16",
+        "title": "죠스글램핑",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220610_79%2F1654822564347N43ra_JPEG%2Fimage.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1492723076"
+    },
+    {
+        "ranking": "17",
         "title": "스타벅스 동두천DT점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37929130"
+    },
+    {
+        "ranking": "18",
+        "title": "인디언숲캠프닉",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220725_53%2F1658694571921RF1Uy_JPEG%2FScreenshot_20220725-051604_Gallery.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1310189811"
     },
     {
         "ranking": "19",

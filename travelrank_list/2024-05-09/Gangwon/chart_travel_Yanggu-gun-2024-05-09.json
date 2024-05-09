@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "약수골캠프촌",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240408_91%2F17125520866344uWuE_JPEG%2F%25BD%25A3%25BC%25D3%25B5%25FB%25B7%25CE_1.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1180812050"
-    },
-    {
-        "ranking": "14",
         "title": "인문학 마을 캠핑장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230429_166%2F1682749601155egSBJ_JPEG%2FIMG_9206.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1441091490"
+    },
+    {
+        "ranking": "14",
+        "title": "약수골캠프촌",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240408_91%2F17125520866344uWuE_JPEG%2F%25BD%25A3%25BC%25D3%25B5%25FB%25B7%25CE_1.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1180812050"
     },
     {
         "ranking": "15",
@@ -97,21 +97,21 @@
     },
     {
         "ranking": "17",
+        "title": "양구농사꾼",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240102_147%2F1704187230768GiYoL_JPEG%2F1000050518.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1457623544"
+    },
+    {
+        "ranking": "18",
         "title": "호얌",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231104_23%2F1699063111119QLHBl_JPEG%2F1672769978722.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1913489743"
     },
     {
-        "ranking": "18",
+        "ranking": "19",
         "title": "르쏠레이475카페글램핑",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230811_94%2F1691738175667srCEr_JPEG%2FKakaoTalk_20230811_160213511.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1695364255"
-    },
-    {
-        "ranking": "19",
-        "title": "양구농사꾼",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240102_147%2F1704187230768GiYoL_JPEG%2F1000050518.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1457623544"
     },
     {
         "ranking": "20",

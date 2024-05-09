@@ -25,15 +25,15 @@
     },
     {
         "ranking": "5",
-        "title": "국립신시도자연휴양림",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210303_28%2F1614747561063TiEuP_JPEG%2F5hg1UcUVdjyYEjYXP7QhVJKg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1409606082"
-    },
-    {
-        "ranking": "6",
         "title": "신흥동일본식가옥",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_201%2F14410456883177zrA6_JPEG%2F13491827_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491827"
+    },
+    {
+        "ranking": "6",
+        "title": "국립신시도자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210303_28%2F1614747561063TiEuP_JPEG%2F5hg1UcUVdjyYEjYXP7QhVJKg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1409606082"
     },
     {
         "ranking": "7",
@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
+        "title": "테디베어뮤지엄 군산",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160905_72%2F1473068861646hQEUR_JPEG%2FIMGL4914.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37915220"
+    },
+    {
+        "ranking": "10",
         "title": "선유도해수욕장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_282%2F1440992296828nLrRJ_JPEG%2F157155537124359_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11491731"
     },
     {
-        "ranking": "10",
+        "ranking": "11",
         "title": "군산과자조합",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220923_189%2F1663900825907btFP7_JPEG%2F1663575037586.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1403620046"
-    },
-    {
-        "ranking": "11",
-        "title": "테디베어뮤지엄 군산",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160905_72%2F1473068861646hQEUR_JPEG%2FIMGL4914.JPG&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37915220"
     },
     {
         "ranking": "12",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "영국빵집",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20151124_289%2F1448349011348O8hbY_JPEG%2F167074564029833_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/17137443"
-    },
-    {
-        "ranking": "20",
         "title": "영화[8월의크리스마스]촬영지",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA0MjdfMTc0%2FMDAxNTg3OTYxOTk2NzEy.SjYZb13b4kIwKhNzwRzCoFHiQgSDNnCNRyGihcXfZiUg.BoYgDk-p9EpaFibkTy2oBGJ7VUio_Mr0i5h2qw5S2I8g.JPEG.angel_mingky%2FDSC08814.JPG%233936x2624&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/35977906"
+    },
+    {
+        "ranking": "20",
+        "title": "푸르던",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240430_165%2F1714480763733irlly_PNG%2FIMG_9399.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1545775703"
     }
 ]

@@ -37,21 +37,21 @@
     },
     {
         "ranking": "7",
+        "title": "무한의 다리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191025_262%2F1571984616176wQrlm_JPEG%2FR8i-vyKdu1qKC1ZnC6NWdOhk.JPG.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1394479230"
+    },
+    {
+        "ranking": "8",
         "title": "팔금도",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_172%2F1441045661451aI8cd_JPEG%2F157155537256234_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491679"
     },
     {
-        "ranking": "8",
+        "ranking": "9",
         "title": "자은도",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_25%2F1441045705836WN1t9_JPEG%2F157155537253149_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491940"
-    },
-    {
-        "ranking": "9",
-        "title": "무한의 다리",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191025_262%2F1571984616176wQrlm_JPEG%2FR8i-vyKdu1qKC1ZnC6NWdOhk.JPG.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1394479230"
     },
     {
         "ranking": "10",

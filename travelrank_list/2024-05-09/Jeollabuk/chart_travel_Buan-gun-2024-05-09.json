@@ -43,15 +43,15 @@
     },
     {
         "ranking": "8",
-        "title": "국립새만금간척박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231006_289%2F1696578926676H12TA_JPEG%2F221201_%25B1%25B9%25B8%25B3%25BB%25F5%25B8%25B8%25B1%25DD%25B0%25A3%25C3%25B4%25B9%25DA%25B9%25B0%25B0%25FC_%252812%2529.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1457232109"
-    },
-    {
-        "ranking": "9",
         "title": "부안청자박물관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_131%2F1440993465529jfsUG_JPEG%2F11882488_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11882488"
+    },
+    {
+        "ranking": "9",
+        "title": "국립새만금간척박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231006_289%2F1696578926676H12TA_JPEG%2F221201_%25B1%25B9%25B8%25B3%25BB%25F5%25B8%25B8%25B1%25DD%25B0%25A3%25C3%25B4%25B9%25DA%25B9%25B0%25B0%25FC_%252812%2529.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1457232109"
     },
     {
         "ranking": "10",
@@ -67,21 +67,21 @@
     },
     {
         "ranking": "12",
-        "title": "알땅카페",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231203_104%2F1701607545560iiRCQ_JPEG%2F%25BE%25CB%25B6%25A53.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1801285617"
-    },
-    {
-        "ranking": "13",
         "title": "대한불교조계종 내소사",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_222%2F1441013654784NqsFr_JPEG%2F11664060_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11664060"
     },
     {
-        "ranking": "14",
+        "ranking": "13",
         "title": "모항갯벌해수욕장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_250%2F1441038754767wGIhJ_JPEG%2F157155523134304_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/36072156"
+    },
+    {
+        "ranking": "14",
+        "title": "알땅카페",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231203_104%2F1701607545560iiRCQ_JPEG%2F%25BE%25CB%25B6%25A53.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1801285617"
     },
     {
         "ranking": "15",

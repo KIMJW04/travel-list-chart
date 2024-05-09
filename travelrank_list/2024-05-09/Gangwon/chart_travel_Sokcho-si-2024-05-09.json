@@ -37,33 +37,33 @@
     },
     {
         "ranking": "7",
-        "title": "속초해수욕장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_118%2F1440992297003ljlnp_JPEG%2F157155537020287_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11491735"
-    },
-    {
-        "ranking": "8",
         "title": "시드누아 속초점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220724_235%2F1658667542656ygCU8_JPEG%2FScreenshot_20220724-215438_Gallery.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1886520527"
     },
     {
-        "ranking": "9",
-        "title": "국립산악박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220823_180%2F1661242794860lk779_JPEG%2F%25B1%25B9%25B8%25B3%25BB%25EA%25BE%25C7%25B9%25DA%25B9%25B0%25B0%25FC_%25C0%25FC%25B0%25E6.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/632250327"
+        "ranking": "8",
+        "title": "속초해수욕장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_118%2F1440992297003ljlnp_JPEG%2F157155537020287_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11491735"
     },
     {
-        "ranking": "10",
+        "ranking": "9",
         "title": "라또래요",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210206_105%2F1612581479952IdO5V_PNG%2FiWmPKct7TaBmqwLYkVDMu2kO.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1982144351"
     },
     {
+        "ranking": "10",
+        "title": "국립산악박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220823_180%2F1661242794860lk779_JPEG%2F%25B1%25B9%25B8%25B3%25BB%25EA%25BE%25C7%25B9%25DA%25B9%25B0%25B0%25FC_%25C0%25FC%25B0%25E6.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/632250327"
+    },
+    {
         "ranking": "11",
-        "title": "카페 긷",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240208_149%2F1707358726365uwdqf_JPEG%2F1000008634.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1140350156"
+        "title": "앤커피스토리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171123_60%2F15114340000526QAKM_JPEG%2FGx77DBMMCKwr5iFbqmzFD2SE.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1843423969"
     },
     {
         "ranking": "12",
@@ -73,21 +73,21 @@
     },
     {
         "ranking": "13",
-        "title": "앤커피스토리",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171123_60%2F15114340000526QAKM_JPEG%2FGx77DBMMCKwr5iFbqmzFD2SE.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1843423969"
+        "title": "카페 긷",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240208_149%2F1707358726365uwdqf_JPEG%2F1000008634.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1140350156"
     },
     {
         "ranking": "14",
-        "title": "다이나믹메이즈 속초",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20231031_166%2F1698731997751HCClP_JPEG%2F600-2.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37673496"
-    },
-    {
-        "ranking": "15",
         "title": "흰다정",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190523_255%2F1558605082736AXYa5_JPEG%2FG-cydK6YUDY9WnDGh7gHJQ2N.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1059588955"
+    },
+    {
+        "ranking": "15",
+        "title": "다이나믹메이즈 속초",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20231031_166%2F1698731997751HCClP_JPEG%2F600-2.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37673496"
     },
     {
         "ranking": "16",
