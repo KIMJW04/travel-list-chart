@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
+        "title": "봉무공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_273%2F1441024023071B7gi3_JPEG%2F116278613351919_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13343446"
+    },
+    {
+        "ranking": "10",
         "title": "신세계백화점 대구점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200619_73%2F159257848381543UdH_JPEG%2FKC9_YGA_WZbM4-86DJlMafeG.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/38003935"
     },
     {
-        "ranking": "10",
+        "ranking": "11",
         "title": "바운스트램폴린파크 동대구 신세계백화점 센터",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230919_196%2F1695098752016fuRcb_JPEG%2F%25B8%25DE%25C0%25CE.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/892204469"
-    },
-    {
-        "ranking": "11",
-        "title": "봉무공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_273%2F1441024023071B7gi3_JPEG%2F116278613351919_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13343446"
     },
     {
         "ranking": "12",

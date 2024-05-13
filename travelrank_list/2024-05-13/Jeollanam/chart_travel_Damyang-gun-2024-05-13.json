@@ -7,9 +7,9 @@
     },
     {
         "ranking": "2",
-        "title": "옥담",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201110_144%2F1604983904829axYyo_JPEG%2FCbHkkzeBWzkSLGprPLmMQN2W.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1908471700"
+        "title": "죽녹원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_55%2F1441039846433lI0kz_PNG%2F116167587170723_0.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11797921"
     },
     {
         "ranking": "3",
@@ -19,9 +19,9 @@
     },
     {
         "ranking": "4",
-        "title": "죽녹원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_55%2F1441039846433lI0kz_PNG%2F116167587170723_0.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11797921"
+        "title": "옥담",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201110_144%2F1604983904829axYyo_JPEG%2FCbHkkzeBWzkSLGprPLmMQN2W.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1908471700"
     },
     {
         "ranking": "5",
@@ -43,21 +43,21 @@
     },
     {
         "ranking": "8",
+        "title": "미각&담양양갱",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_224%2F1715051459046cSuUm_PNG%2FKakaoTalk_20240507_100447437_15.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1229409167"
+    },
+    {
+        "ranking": "9",
         "title": "담양곤충박물관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_202%2F1690519430947wRA3B_JPEG%2F%25B4%25E3%25BE%25E7.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1693373575"
     },
     {
-        "ranking": "9",
+        "ranking": "10",
         "title": "담양샌드",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240324_72%2F1711217674695KN6sU_JPEG%2FDSC06620.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1125459723"
-    },
-    {
-        "ranking": "10",
-        "title": "미각&담양양갱",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_224%2F1715051459046cSuUm_PNG%2FKakaoTalk_20240507_100447437_15.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1229409167"
     },
     {
         "ranking": "11",
@@ -85,21 +85,21 @@
     },
     {
         "ranking": "15",
-        "title": "수비니어",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230612_244%2F1686545021079wMKM3_JPEG%2FKakaoTalk_20230612_125931102_08.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1113587037"
-    },
-    {
-        "ranking": "16",
         "title": "메타프로방스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190611_25%2F1560227890750XJLMN_JPEG%2FeM9L1U31w4YSSeDcSHUlgQDW.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37089467"
     },
     {
-        "ranking": "17",
+        "ranking": "16",
         "title": "카페하녹",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221211_106%2F1670749321098OQeAT_JPEG%2F2BFD3175-EB93-479D-8226-D859DA35831B.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1043356647"
+    },
+    {
+        "ranking": "17",
+        "title": "수비니어",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230612_244%2F1686545021079wMKM3_JPEG%2FKakaoTalk_20230612_125931102_08.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1113587037"
     },
     {
         "ranking": "18",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "한국대나무박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20140407_188%2F1396854371904vw5kT_JPEG%2F%25C0%25FC%25B3%25B2_%25B4%25EB%25B3%25AA%25B9%25AB%25B9%25DA%25B9%25B0%25B0%25FC_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11620661"
-    },
-    {
-        "ranking": "20",
         "title": "카페 어텐션플리즈",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211215_133%2F1639571152323iAiAb_JPEG%2FIMG_3966.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1751330363"
+    },
+    {
+        "ranking": "20",
+        "title": "원조 해풍쑥초콜릿 쓖",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240508_227%2F1715131118756vum9C_JPEG%2FInShot_20240508_101319478.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1060479457"
     }
 ]

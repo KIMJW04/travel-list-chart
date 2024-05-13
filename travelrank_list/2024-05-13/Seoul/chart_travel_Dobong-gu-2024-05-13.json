@@ -73,9 +73,9 @@
     },
     {
         "ranking": "13",
-        "title": "쌍문동커피",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220714_140%2F1657760398344jrd1u_JPEG%2FIMG_20220531_160910_409.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37488823"
+        "title": "모래스푼",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191202_71%2F1575213043220VpyfE_JPEG%2FNEcpTS7PF5RBzF5y8K_QV0gQ.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/31906060"
     },
     {
         "ranking": "14",
@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "수제 디저트카페 꿀소담",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230425_216%2F1682408113175W7fjH_JPEG%2F1313.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1519339864"
+        "title": "쌍문동커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220714_140%2F1657760398344jrd1u_JPEG%2FIMG_20220531_160910_409.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37488823"
     },
     {
         "ranking": "16",
-        "title": "모래스푼",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191202_71%2F1575213043220VpyfE_JPEG%2FNEcpTS7PF5RBzF5y8K_QV0gQ.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/31906060"
+        "title": "수제 디저트카페 꿀소담",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230425_216%2F1682408113175W7fjH_JPEG%2F1313.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1519339864"
     },
     {
         "ranking": "17",
@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "우연히 만난 슬라임카페",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240423_183%2F1713836305104J2g9k_JPEG%2FF5CDBD4D-79B2-42DE-966D-FF0A0FB8D160.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38305238"
-    },
-    {
-        "ranking": "19",
         "title": "키즈팡팡",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200513_190%2F1589348194230F4PKH_JPEG%2FBwsX4cYsnvtlf-FuGEaEeiI5.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1326413351"
+    },
+    {
+        "ranking": "19",
+        "title": "키블리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200527_53%2F1590568082183zcOrh_JPEG%2F2-1.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/596750301"
     },
     {
         "ranking": "20",

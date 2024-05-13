@@ -31,21 +31,21 @@
     },
     {
         "ranking": "6",
-        "title": "서산류방택천문기상과학관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171120_173%2F1511163321005r73Y1_JPEG%2FkpUyHOUBX966f0xdgwpFCv3i.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13500006"
-    },
-    {
-        "ranking": "7",
         "title": "중앙호수공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA0MTFfMSAg%2FMDAxNzEyODI5NzE1MzUw.VoZE2NoC1Tg9tyiKcVMk0sDSkJDEUolLHyAe-TLdRWcg.VJ4iRTKfdJxx1QdudHBLdEBLqHA8AnqB_-yhJuEINIkg.JPEG%2FIMG_8474.jpg%23480x480&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/17572684"
     },
     {
-        "ranking": "8",
+        "ranking": "7",
         "title": "서산 해미읍성",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200328_260%2F1585363037243vyXEJ_JPEG%2FA0hA6IUYfzB4L5syDrpccFYL.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13193481"
+    },
+    {
+        "ranking": "8",
+        "title": "서산류방택천문기상과학관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171120_173%2F1511163321005r73Y1_JPEG%2FkpUyHOUBX966f0xdgwpFCv3i.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13500006"
     },
     {
         "ranking": "9",
@@ -55,15 +55,15 @@
     },
     {
         "ranking": "10",
-        "title": "간월도",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_144%2F1441045673625Neyd0_JPEG%2F157155537134554_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491742"
-    },
-    {
-        "ranking": "11",
         "title": "소진담 서산점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220613_194%2F1655127394109dTqnL_JPEG%2F20220613_223117.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1959536144"
+    },
+    {
+        "ranking": "11",
+        "title": "간월도",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_144%2F1441045673625Neyd0_JPEG%2F157155537134554_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13491742"
     },
     {
         "ranking": "12",
@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "쉼이있는정원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA1MDFfMjgx%2FMDAxNjgyODg5ODM3NzU4.30RtuaDYiwwmoFe6Fp0Xqd19jQX5AusFZmILChxpjdog.ykjmzfbc89-tXs9G6jAG8MMzo6hygfdALsQ-S4i4rNUg.JPEG.skewerd%2F20230430%25A3%25DF133512.jpg%23900x675&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1979209903"
-    },
-    {
-        "ranking": "14",
         "title": "서산 용현리 마애여래삼존상",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_114%2F1423209014717zECrc_JPEG%2F%25C3%25E6%25B3%25B2_%25BF%25EB%25C7%25F6%25B8%25AE%25B8%25B6%25BE%25D6%25BF%25A9%25B7%25A1%25BB%25EF%25C1%25B8%25BB%25F3_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13345796"
+    },
+    {
+        "ranking": "14",
+        "title": "쉼이있는정원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA1MDFfMjgx%2FMDAxNjgyODg5ODM3NzU4.30RtuaDYiwwmoFe6Fp0Xqd19jQX5AusFZmILChxpjdog.ykjmzfbc89-tXs9G6jAG8MMzo6hygfdALsQ-S4i4rNUg.JPEG.skewerd%2F20230430%25A3%25DF133512.jpg%23900x675&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1979209903"
     },
     {
         "ranking": "15",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "카페성연",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_88%2F1704768815074spnD5_JPEG%2F%252870%2529.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1265354495"
-    },
-    {
-        "ranking": "19",
         "title": "카페 가온",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230219_149%2F1676774982924z1r1R_JPEG%2F17F50DAE-B929-4F27-8F50-5ADFA4EEA8F1.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1150864584"
     },
     {
+        "ranking": "19",
+        "title": "카페성연",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_88%2F1704768815074spnD5_JPEG%2F%252870%2529.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1265354495"
+    },
+    {
         "ranking": "20",
-        "title": "진저보이 해미",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200507_236%2F1588814872319mv2ph_JPEG%2Fb2rVtBhfecfsMKH5_R3t_Ktb.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1196168195"
+        "title": "서산목장카페",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240308_238%2F1709889761204rLiYV_JPEG%2FKakaoTalk_20240308_180730797_11.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1723481607"
     }
 ]

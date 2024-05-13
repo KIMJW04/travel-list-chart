@@ -25,21 +25,21 @@
     },
     {
         "ranking": "5",
-        "title": "5.18민주화운동기록관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191021_134%2F1571653418468Xf4xG_JPEG%2FX-hkUgFcGDg9xiiYGKKSBqwv.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36379602"
-    },
-    {
-        "ranking": "6",
         "title": "헬로애니멀 광주점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200919_188%2F1600499266556awcBl_JPEG%2FFEILVlVS-XbCkOFIDjG9pr7H.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1083707137"
     },
     {
-        "ranking": "7",
+        "ranking": "6",
         "title": "궁전제과 충장점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160705_277%2F1467707692587EiXa9_JPEG%2F_64.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13297601"
+    },
+    {
+        "ranking": "7",
+        "title": "5.18민주화운동기록관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191021_134%2F1571653418468Xf4xG_JPEG%2FX-hkUgFcGDg9xiiYGKKSBqwv.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/36379602"
     },
     {
         "ranking": "8",
@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "소뇨",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_115%2F154765193409702edN_JPEG%2FmDuxXM-NGuOj8t6T3oP392nV.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/62520424"
-    },
-    {
-        "ranking": "13",
         "title": "그랩앤고",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240217_146%2F1708095760391H2vy2_JPEG%2FIMG_1332.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1244858816"
+    },
+    {
+        "ranking": "13",
+        "title": "소뇨",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190117_115%2F154765193409702edN_JPEG%2FmDuxXM-NGuOj8t6T3oP392nV.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/62520424"
     },
     {
         "ranking": "14",
@@ -97,15 +97,15 @@
     },
     {
         "ranking": "17",
-        "title": "소맥베이커리",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170831_137%2F1504156456697eBWtz_JPEG%2FARG6ZH3mhu4PO6KcT1RFrxQF.JPG.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/34589988"
-    },
-    {
-        "ranking": "18",
         "title": "지산유원지",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220913_75%2F1663052843690lJ39O_JPEG%2FKakaoTalk_20220913_160436503.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491613"
+    },
+    {
+        "ranking": "18",
+        "title": "소맥베이커리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170831_137%2F1504156456697eBWtz_JPEG%2FARG6ZH3mhu4PO6KcT1RFrxQF.JPG.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/34589988"
     },
     {
         "ranking": "19",

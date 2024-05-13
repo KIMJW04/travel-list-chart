@@ -91,32 +91,32 @@
     },
     {
         "ranking": "16",
-        "title": "송월동동화마을",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191119_95%2F1574165857543Me2ly_JPEG%2FJTSJWgC-xPv3aAhpgcN2Pdy_.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/34590409"
-    },
-    {
-        "ranking": "17",
-        "title": "영종씨사이드 레일바이크",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190530_42%2F1559175635462Wz7XL_JPEG%2Fyj_reilbike_intro.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/538583323"
-    },
-    {
-        "ranking": "18",
         "title": "인천학생과학관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190222_281%2F1550802062997Jr9Cc_JPEG%2FrDcDGGjISFhP6Y8PVQDC0LcO.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/19801527"
     },
     {
-        "ranking": "19",
+        "ranking": "17",
         "title": "자유공원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_285%2F14410072198904zK2P_JPEG%2F106859504765799_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11622439"
     },
     {
-        "ranking": "20",
+        "ranking": "18",
         "title": "킹콩낚시",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230906_20%2F1693960777751eFpaw_JPEG%2F%25C5%25B7%25C4%25E18%25C8%25A3.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1388016420"
+    },
+    {
+        "ranking": "19",
+        "title": "월미테마파크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160411_52%2F146036867745008We4_JPEG%2F176361588777285_0.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13286619"
+    },
+    {
+        "ranking": "20",
+        "title": "마이랜드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190523_136%2F15585722670893KLoH_JPEG%2FeYusgk3O4h2_2wTmYPA5cIJj.JPG.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/12764316"
     }
 ]

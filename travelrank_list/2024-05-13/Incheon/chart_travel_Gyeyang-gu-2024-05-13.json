@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "로즈스텔라정원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_178%2F1686128261972jHbHE_JPEG%2F2D703A65-EFEF-4EF4-8C4A-A26236E8E7EB.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37642562"
-    },
-    {
-        "ranking": "20",
         "title": "루츠프레소 커피로스터스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_263%2F1702893060025JfnhW_JPEG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-002_%25281%2529.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1361834221"
+    },
+    {
+        "ranking": "20",
+        "title": "로즈스텔라정원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_178%2F1686128261972jHbHE_JPEG%2F2D703A65-EFEF-4EF4-8C4A-A26236E8E7EB.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37642562"
     }
 ]

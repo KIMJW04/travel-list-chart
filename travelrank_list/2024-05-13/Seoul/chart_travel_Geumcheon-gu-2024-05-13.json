@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "카페구움",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240417_289%2F1713282442961kSYhV_JPEG%2F1000014282.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1963024229"
-    },
-    {
-        "ranking": "16",
         "title": "닥터밸런스 마리오아울렛 가산점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211217_289%2F1639726154599AsBKl_JPEG%2F%25B0%25A1%25BB%25EA%25C1%25A1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1577639851"
+    },
+    {
+        "ranking": "16",
+        "title": "카페구움",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240417_289%2F1713282442961kSYhV_JPEG%2F1000014282.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1963024229"
     },
     {
         "ranking": "17",

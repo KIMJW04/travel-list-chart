@@ -67,21 +67,21 @@
     },
     {
         "ranking": "12",
-        "title": "찬우물 체험 동물농장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191212_229%2F1576122798908YOK90_JPEG%2FV4fc3OD6BAQ7vUbkHt_0RnvU.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1826290696"
-    },
-    {
-        "ranking": "13",
         "title": "일산호수",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_67%2F1441045705132Fug62_JPEG%2F13491935_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491935"
     },
     {
+        "ranking": "13",
+        "title": "찬우물 체험 동물농장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191212_229%2F1576122798908YOK90_JPEG%2FV4fc3OD6BAQ7vUbkHt_0RnvU.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1826290696"
+    },
+    {
         "ranking": "14",
-        "title": "옐로우지브라 일산곤충박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230703_190%2F16883650676366epns_JPEG%2FKakaoTalk_20230703_151726386.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1080766775"
+        "title": "한국마사회 원당목장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_300%2F1440993603596ormbd_JPEG%2F11882817_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11882817"
     },
     {
         "ranking": "15",
@@ -103,9 +103,9 @@
     },
     {
         "ranking": "18",
-        "title": "한국마사회 원당목장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_300%2F1440993603596ormbd_JPEG%2F11882817_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11882817"
+        "title": "옐로우지브라 일산곤충박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230703_190%2F16883650676366epns_JPEG%2FKakaoTalk_20230703_151726386.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1080766775"
     },
     {
         "ranking": "19",

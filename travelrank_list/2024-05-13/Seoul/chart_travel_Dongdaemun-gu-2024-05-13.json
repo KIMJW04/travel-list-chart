@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
+        "title": "간데메공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_74%2F1441038261658UPPHC_JPEG%2F116574574051956_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13448171"
+    },
+    {
+        "ranking": "10",
         "title": "한시십일분",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201108_44%2F1604825769003wuas7_JPEG%2FpYCTks08K356Srii-2Xan95-.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1431249739"
     },
     {
-        "ranking": "10",
+        "ranking": "11",
         "title": "이문동커피집 크럼블로스터스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231111_171%2F16996287143735iH0W_JPEG%2Ftemp_file.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1141283550"
-    },
-    {
-        "ranking": "11",
-        "title": "간데메공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_74%2F1441038261658UPPHC_JPEG%2F116574574051956_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13448171"
     },
     {
         "ranking": "12",
@@ -73,21 +73,21 @@
     },
     {
         "ranking": "13",
-        "title": "롯데백화점 청량리점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220824_122%2F16613224832840ruHa_JPEG%2F%25B9%25E9%25C8%25AD%25C1%25A1_%25C3%25BB%25B7%25AE%25B8%25AE%25C1%25A1_D01_R.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/12133975"
-    },
-    {
-        "ranking": "14",
         "title": "스타벅스 청량리역사점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1555336463"
     },
     {
-        "ranking": "15",
+        "ranking": "14",
         "title": "READSTREET COFFEE",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230912_179%2F1694481493110VN2aB_JPEG%2FIMG_3972.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1165897818"
+    },
+    {
+        "ranking": "15",
+        "title": "롯데백화점 청량리점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220824_122%2F16613224832840ruHa_JPEG%2F%25B9%25E9%25C8%25AD%25C1%25A1_%25C3%25BB%25B7%25AE%25B8%25AE%25C1%25A1_D01_R.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/12133975"
     },
     {
         "ranking": "16",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "베러댄",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191023_170%2F1571789900884PtAha_JPEG%2FSBYM3Enj6MXPIpV9PY78faSM.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1372247665"
-    },
-    {
-        "ranking": "19",
         "title": "쁘띠몽드 장안점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211213_73%2F16394005028859eqx2_JPEG%2F20211209_165431.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/204577132"
     },
     {
-        "ranking": "20",
+        "ranking": "19",
         "title": "오르앤지드",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240223_128%2F1708662258357pyA97_JPEG%2FKakaoTalk_20240221_133407196_12.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/52340568"
+    },
+    {
+        "ranking": "20",
+        "title": "베러댄",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191023_170%2F1571789900884PtAha_JPEG%2FSBYM3Enj6MXPIpV9PY78faSM.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1372247665"
     }
 ]

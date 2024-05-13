@@ -20,7 +20,7 @@
     {
         "ranking": "4",
         "title": "스위디",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240509_229%2F1715234563107yDwHg_JPEG%2F%25C5%25A9%25B7%25E7%25C5%25B0_%25281%2529.JPG&type=f210_210_domesearch",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240512_72%2F1715508108416xmcB8_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25B8%25DE%25C0%25CE_%25BB%25E7%25C1%25F8.JPG&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1581009380"
     },
     {
@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "넉아웃",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230125_96%2F1674619353539dlSVi_JPEG%2FKakaoTalk_20230123_224156210_04.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/954654381"
-    },
-    {
-        "ranking": "14",
         "title": "퍼프베이커리",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210522_296%2F1621672298504DXvtJ_JPEG%2FfQfXgvcmSLORKLy-9U-C65Jx.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1750412645"
+    },
+    {
+        "ranking": "14",
+        "title": "넉아웃",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230125_96%2F1674619353539dlSVi_JPEG%2FKakaoTalk_20230123_224156210_04.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/954654381"
     },
     {
         "ranking": "15",

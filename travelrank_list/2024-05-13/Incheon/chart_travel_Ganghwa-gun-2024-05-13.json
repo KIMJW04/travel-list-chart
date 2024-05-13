@@ -13,15 +13,15 @@
     },
     {
         "ranking": "3",
-        "title": "강화평화전망대",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_89%2F1441060687439Tv28S_JPEG%2F106373493162338_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13096060"
-    },
-    {
-        "ranking": "4",
         "title": "전등사",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180208_196%2F1518058637500vkUfv_JPEG%2FhJcjVUQx7LZcsLZLl6tgBWh4.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11664022"
+    },
+    {
+        "ranking": "4",
+        "title": "강화평화전망대",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_89%2F1441060687439Tv28S_JPEG%2F106373493162338_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13096060"
     },
     {
         "ranking": "5",
@@ -31,39 +31,39 @@
     },
     {
         "ranking": "6",
-        "title": "더 라두",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240404_236%2F1712225540505fSDqL_JPEG%2F20230918_155551.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1715084069"
-    },
-    {
-        "ranking": "7",
-        "title": "매화마름",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_45%2F17071993406340OoC3_JPEG%2FKakaoTalk_20240206_145644476.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13520996"
-    },
-    {
-        "ranking": "8",
         "title": "카페109하우스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240429_162%2F1714373365603d4QFq_JPEG%2F110.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1128084164"
     },
     {
-        "ranking": "9",
+        "ranking": "7",
+        "title": "더 라두",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240404_236%2F1712225540505fSDqL_JPEG%2F20230918_155551.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1715084069"
+    },
+    {
+        "ranking": "8",
         "title": "마호가니 강화점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_105%2F1712277217252CzxdB_PNG%2F20240405_093311.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1992213114"
     },
     {
-        "ranking": "10",
-        "title": "케이131",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220530_127%2F16538931836936ofUE_JPEG%2F1.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1804965256"
+        "ranking": "9",
+        "title": "매화마름",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_45%2F17071993406340OoC3_JPEG%2FKakaoTalk_20240206_145644476.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13520996"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "토크라피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_155%2F16981386678540d2rh_JPEG%2F20231012_154913.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1535829022"
+    },
+    {
+        "ranking": "11",
+        "title": "케이131",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220530_127%2F16538931836936ofUE_JPEG%2F1.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1804965256"
     },
     {
         "ranking": "12",
@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "두운리",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240112_149%2F1705062881694yJC3A_JPEG%2FIMG_3712.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1217549082"
-    },
-    {
-        "ranking": "14",
         "title": "보문사",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_66%2F14410136471390bBdd_JPEG%2F126761578749994_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11664021"
+    },
+    {
+        "ranking": "14",
+        "title": "두운리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240112_149%2F1705062881694yJC3A_JPEG%2FIMG_3712.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1217549082"
     },
     {
         "ranking": "15",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "장화리일몰조망지",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMjBfOTAg%2FMDAxNzA1NzU3NjY5MjYz.q2fHe9MDSZsGcGAQRSkHnc6UdIeyk1aTx99n8G3S_bIg.02ilgXdMbFUekd1ZB_wy-KH8QImVp8LxNO2f8PiSOEEg.JPEG.jsj382%2FKakaoTalk_20240120_205309593_08.jpg%234032x3024&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/21460978"
+        "title": "동막해변",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_34%2F1441045563331viIuh_JPEG%2F157155536971229_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13491056"
     },
     {
         "ranking": "20",
-        "title": "마니산",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_116%2F1441045573966Nt6q1_JPEG%2F13491129_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491129"
+        "title": "장화리일몰조망지",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMjBfOTAg%2FMDAxNzA1NzU3NjY5MjYz.q2fHe9MDSZsGcGAQRSkHnc6UdIeyk1aTx99n8G3S_bIg.02ilgXdMbFUekd1ZB_wy-KH8QImVp8LxNO2f8PiSOEEg.JPEG.jsj382%2FKakaoTalk_20240120_205309593_08.jpg%234032x3024&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/21460978"
     }
 ]

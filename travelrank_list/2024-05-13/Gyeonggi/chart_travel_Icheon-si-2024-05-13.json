@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "55도",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_136%2F1669369662954eAUVB_JPEG%2F54016D40-8E56-4113-B3B4-8F7FF5591F65.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1131686115"
-    },
-    {
-        "ranking": "16",
         "title": "이천도예마을",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20140820_204%2Fetrain777_14085144332921iymX_JPEG%2F%25C0%25CC%25C3%25B5%25B5%25B5%25C0%25DA%25B1%25E2%25B8%25B6%25C0%25BB7.jpg%23690x460&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/34581355"
+    },
+    {
+        "ranking": "16",
+        "title": "55도",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_136%2F1669369662954eAUVB_JPEG%2F54016D40-8E56-4113-B3B4-8F7FF5591F65.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1131686115"
     },
     {
         "ranking": "17",
@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "카페 아누반",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230516_242%2F1684223998014yjRbG_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2023-05-16_%25BF%25C0%25C8%25C4_4.40.35.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1006621771"
-    },
-    {
-        "ranking": "19",
         "title": "어바웃네이처",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240127_234%2F1706344485667HKEMK_JPEG%2FKakaoTalk_20240123_171954763.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/33850903"
+    },
+    {
+        "ranking": "19",
+        "title": "카페 아누반",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230516_242%2F1684223998014yjRbG_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2023-05-16_%25BF%25C0%25C8%25C4_4.40.35.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1006621771"
     },
     {
         "ranking": "20",

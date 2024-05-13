@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "신림계곡",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA4MTdfMTEx%2FMDAxNjkyMjgxMTc2NTM4.3K0W2xrRFiuYq046nUKJMO15RMRUZjJJ2U12LUZCViYg.FXoKy4hW7fduSFUU5jNmBggBaMcJY-vcly4uQm3ziykg.JPEG.s600105%2F20230817%25A3%25DF170130.jpg%23900x969&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1958767644"
-    },
-    {
-        "ranking": "19",
         "title": "빙동댕",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230421_186%2F1682053317614MRoxr_JPEG%2F1652165381929.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1787298877"
     },
     {
-        "ranking": "20",
+        "ranking": "19",
         "title": "옐로우버터드림",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240509_159%2F1715233930601oejyG_JPEG%2F%25A4%25B5.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1406386323"
+    },
+    {
+        "ranking": "20",
+        "title": "비건마마",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240102_243%2F1704187148265gRgTf_JPEG%2FKakaoTalk_Image_2024-01-02-18-10-46_012.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1867166179"
     }
 ]

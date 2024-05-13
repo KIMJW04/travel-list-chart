@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "양산호수공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAxMjJfMjcz%2FMDAxNDg1MDg5MjUyOTMw.HSgVYkoY7XzbGEjPOE4fGV4VxOLsJ8TUPoCFR-OImE8g.WNV9Ji9i-6wYGYXFt7Sod8RIk2nFzd7CtOBOhYvN48Ig.JPEG.tmfdhd2%2F20170119_171742.jpg%23740x443&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38676472"
-    },
-    {
-        "ranking": "13",
         "title": "광주역사민속박물관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200706_101%2F1593999596725sDdQK_JPEG%2FSUw_NzQH8thxQxmmPmkNJFgg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/12204703"
+    },
+    {
+        "ranking": "13",
+        "title": "양산호수공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAxMjJfMjcz%2FMDAxNDg1MDg5MjUyOTMw.HSgVYkoY7XzbGEjPOE4fGV4VxOLsJ8TUPoCFR-OImE8g.WNV9Ji9i-6wYGYXFt7Sod8RIk2nFzd7CtOBOhYvN48Ig.JPEG.tmfdhd2%2F20170119_171742.jpg%23740x443&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38676472"
     },
     {
         "ranking": "14",

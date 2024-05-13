@@ -13,21 +13,21 @@
     },
     {
         "ranking": "3",
-        "title": "국제선센터 템플스테이",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_200%2F1488272497980r0IgM_JPEG%2F_1.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/392262876"
-    },
-    {
-        "ranking": "4",
         "title": "파티세리소나",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_266%2F1701643497500fVOcC_JPEG%2F1701643486187.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37257127"
     },
     {
-        "ranking": "5",
+        "ranking": "4",
         "title": "카멜리온",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180315_174%2F1521108482865gK75D_JPEG%2FHByYVX70maezFqwjlQR4Hcd5.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1722123158"
+    },
+    {
+        "ranking": "5",
+        "title": "국제선센터 템플스테이",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170228_200%2F1488272497980r0IgM_JPEG%2F_1.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/392262876"
     },
     {
         "ranking": "6",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "하니앤손스",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210319_26%2F1616140624234130Kx_JPEG%2FbypI_4weKyrvWfA02ZEemHHu.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1984355198"
-    },
-    {
-        "ranking": "20",
         "title": "잼잼키즈룸",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_239%2F1704284510628YxwcH_JPEG%2FD0F2FA03-200B-4A85-BAD7-50EDD25363C1.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1668063121"
+    },
+    {
+        "ranking": "20",
+        "title": "파티세리소나 2호점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230504_265%2F1683167723610UuK3Q_JPEG%2F20230108_103442.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1972446082"
     }
 ]

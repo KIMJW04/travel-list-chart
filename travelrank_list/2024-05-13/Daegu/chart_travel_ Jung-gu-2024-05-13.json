@@ -37,51 +37,51 @@
     },
     {
         "ranking": "7",
-        "title": "카페플로리안 forest breeze",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240224_136%2F1708778926494bCdTR_JPEG%2FIMG_3849.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/19392131"
-    },
-    {
-        "ranking": "8",
         "title": "인더매스 삼덕",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_217%2F1712973139251eSNgG_JPEG%2F%25C0%25CE%25B4%25F5%25B8%25C5%25BB%25EF%25B4%25F6_%25C5%25A9%25B7%25E7%25C5%25B0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1625372637"
     },
     {
-        "ranking": "9",
+        "ranking": "8",
         "title": "삼송빵집 본점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200510_106%2F1589094151318RrDw0_JPEG%2FzHfA5u0YZ4pRgWdAjT_6y-DO.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/15956340"
     },
     {
-        "ranking": "10",
+        "ranking": "9",
         "title": "슬로우터틀 동성로점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200311_264%2F15839147439465FVCK_JPEG%2FaLBNqZkovQXelJuSQRxIoC1l.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1504873562"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "이얼즈",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220712_177%2F16576020688332h5h8_JPEG%2F8D6DF056-0192-4B81-8468-020236D4C6AE.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1304127896"
     },
     {
-        "ranking": "12",
+        "ranking": "11",
         "title": "대구근대역사관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231010_239%2F1696912775357uD6hX_JPEG%2F2._%25B0%25F8%25BD%25C4_%25C0%25FC%25B0%25E6%2528%25C0%25FC%25BC%25B1%25C1%25A6%25B0%25C5%2529_%25BF%25EB%25B7%25AE%25C3%25E0%25BC%25D2.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/19886569"
     },
     {
-        "ranking": "13",
+        "ranking": "12",
         "title": "이씨씨커피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210629_213%2F1624923691518EPzwR_JPEG%2FEjc9bumUF_H_jj1ZUUgzr41a.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1387663727"
     },
     {
-        "ranking": "14",
+        "ranking": "13",
         "title": "스타벅스 대구종로고택점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1318910127"
+    },
+    {
+        "ranking": "14",
+        "title": "카페플로리안 forest breeze",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240224_136%2F1708778926494bCdTR_JPEG%2FIMG_3849.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19392131"
     },
     {
         "ranking": "15",

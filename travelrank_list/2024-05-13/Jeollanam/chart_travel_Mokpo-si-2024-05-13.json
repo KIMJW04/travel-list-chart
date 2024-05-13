@@ -1,15 +1,15 @@
 [
     {
         "ranking": "1",
-        "title": "코롬방제과점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220501_74%2F1651382766789wP7yd_JPEG%2FKakaoTalk_20220501_134543366_01.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1221239040"
-    },
-    {
-        "ranking": "2",
         "title": "목포해상케이블카 북항승강장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221130_284%2F1669777761020gNafI_JPEG%2Fdsf.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1962607432"
+    },
+    {
+        "ranking": "2",
+        "title": "코롬방제과점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220501_74%2F1651382766789wP7yd_JPEG%2FKakaoTalk_20220501_134543366_01.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1221239040"
     },
     {
         "ranking": "3",
@@ -25,33 +25,33 @@
     },
     {
         "ranking": "5",
-        "title": "목포자연사박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_243%2F1440999307486TBi0m_JPEG%2F11579623_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11579623"
-    },
-    {
-        "ranking": "6",
         "title": "페어링",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220627_130%2F1656299965098I349o_JPEG%2FKakaoTalk_20220627_121714051_03.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1577501181"
     },
     {
-        "ranking": "7",
-        "title": "목포근대역사관 1관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231115_162%2F1700013525664xOTWu_JPEG%2F%25B1%25D9%25B4%25EB%25BF%25AA%25BB%25E7%25B0%25FC1%25B0%25FC_%25C0%25FC%25B0%25E6.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1281942881"
+        "ranking": "6",
+        "title": "목포자연사박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_243%2F1440999307486TBi0m_JPEG%2F11579623_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11579623"
     },
     {
-        "ranking": "8",
+        "ranking": "7",
         "title": "커피창고로",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220821_238%2F1661087530908JURDz_JPEG%2FKakaoTalk_20220821_215805244.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1484544973"
     },
     {
-        "ranking": "9",
+        "ranking": "8",
         "title": "갓바위",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAyMTlfMjAg%2FMDAxNTE5MDE2NTY2OTUx.Yv1F8O0arNoOjai33uOPCOE69f25mJusJfdj9fBqzAkg.zY6YlJymb-LdmRexfX-b1P5buiXBzdOHuoaDMx-XyL4g.JPEG.py1978%2F18.jpg%23650x488&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/34581434"
+    },
+    {
+        "ranking": "9",
+        "title": "목포근대역사관 1관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231115_162%2F1700013525664xOTWu_JPEG%2F%25B1%25D9%25B4%25EB%25BF%25AA%25BB%25E7%25B0%25FC1%25B0%25FC_%25C0%25FC%25B0%25E6.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1281942881"
     },
     {
         "ranking": "10",
@@ -85,9 +85,9 @@
     },
     {
         "ranking": "15",
-        "title": "카페델마르",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221001_24%2F16645538164319I8JT_JPEG%2F1606296656550-0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1338668703"
+        "title": "오무아",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240408_173%2F1712563373715xfMWu_JPEG%2FKakaoTalk_20240408_170236999.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1737058016"
     },
     {
         "ranking": "16",
@@ -97,15 +97,15 @@
     },
     {
         "ranking": "17",
-        "title": "오무아",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240408_173%2F1712563373715xfMWu_JPEG%2FKakaoTalk_20240408_170236999.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1737058016"
+        "title": "카페델마르",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221001_24%2F16645538164319I8JT_JPEG%2F1606296656550-0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1338668703"
     },
     {
         "ranking": "18",
-        "title": "목포근대역사관 2관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200706_164%2F1594018426346Njfh8_JPEG%2FIGzdXjVtY-1bn3G37pLxYsyj.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1322973306"
+        "title": "유달산조각공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_200%2F1441007205521gLFDt_JPEG%2F116351506967477_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11622384"
     },
     {
         "ranking": "19",

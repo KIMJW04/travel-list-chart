@@ -25,15 +25,15 @@
     },
     {
         "ranking": "5",
-        "title": "무우루",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180104_97%2F1515038314138unAVM_JPEG%2FzxJ2HFmRoCcFZdK0-MHE_aMp.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1847763663"
-    },
-    {
-        "ranking": "6",
         "title": "지리산 스카이런",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230621_55%2F1687333706354KbaSM_JPEG%2FKakaoTalk_20230621_163729624.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1251512655"
+    },
+    {
+        "ranking": "6",
+        "title": "무우루",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180104_97%2F1515038314138unAVM_JPEG%2FzxJ2HFmRoCcFZdK0-MHE_aMp.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1847763663"
     },
     {
         "ranking": "7",
@@ -55,39 +55,39 @@
     },
     {
         "ranking": "10",
-        "title": "지리산역사문화관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190428_56%2F1556415525163SiQCR_JPEG%2FpXit0kZ9FBfIiDA1-Pd_GEjf.JPG.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1757070948"
-    },
-    {
-        "ranking": "11",
         "title": "곡성섬진강천문대",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_15%2F1441015166841WTWwf_JPEG%2F106379505726982_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/12259737"
     },
     {
-        "ranking": "12",
+        "ranking": "11",
         "title": "천은사에서",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240318_139%2F1710721883475koCb4_JPEG%2FKakaoTalk_20240202_222643291_02.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1953566970"
     },
     {
-        "ranking": "13",
-        "title": "섬진강수달생태공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220216_137%2F1644992029220Pa2A4_JPEG%2Forg_e450d8617a3afb15_1636011656000.JPG&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1755192483"
-    },
-    {
-        "ranking": "14",
+        "ranking": "12",
         "title": "천개의향나무숲",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190715_213%2F1563152178351rcebk_JPEG%2F760Zozt7qlcR1DtmmH8_9dQs.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1206961145"
     },
     {
-        "ranking": "15",
+        "ranking": "13",
         "title": "번덕뜰 체험농장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210722_288%2F1626925775439e5c1q_JPEG%2FJVIIL3gR4-m_AapCXN_OVtfX.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1320073950"
+    },
+    {
+        "ranking": "14",
+        "title": "섬진강수달생태공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220216_137%2F1644992029220Pa2A4_JPEG%2Forg_e450d8617a3afb15_1636011656000.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1755192483"
+    },
+    {
+        "ranking": "15",
+        "title": "지리산역사문화관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190428_56%2F1556415525163SiQCR_JPEG%2FpXit0kZ9FBfIiDA1-Pd_GEjf.JPG.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1757070948"
     },
     {
         "ranking": "16",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
+        "title": "구례화엄사",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_248%2F1441013648656FMcr6_JPEG%2F106980534168877_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11664033"
+    },
+    {
+        "ranking": "19",
         "title": "카페 안음",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230313_237%2F1678717111337rqjvp_JPEG%2F049EA3BF-659C-4170-A86F-C7BB22D87A89.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1801507180"
     },
     {
-        "ranking": "19",
-        "title": "지리산천은사",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200709_170%2F1594298670666Fc0YT_JPEG%2F5Nob62YWwIA0D_meub50tmM3.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11664032"
-    },
-    {
         "ranking": "20",
-        "title": "구례화엄사",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_248%2F1441013648656FMcr6_JPEG%2F106980534168877_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11664033"
+        "title": "지리산호수공원오토캠핑장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230327_218%2F16799051601647oPpq_JPEG%2F20230325_191055.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38688771"
     }
 ]

@@ -73,27 +73,27 @@
     },
     {
         "ranking": "13",
-        "title": "성수동대림창고갤러리",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220705_23%2F1656959975816l90nE_JPEG%2FKakaoTalk_Photo_2022-07-05-03-39-03_004.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37910590"
-    },
-    {
-        "ranking": "14",
         "title": "니커버커베이글 성수점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_49%2F1708569467795boiqg_JPEG%2FIMG_2342.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1468687611"
     },
     {
-        "ranking": "15",
+        "ranking": "14",
         "title": "5to7",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231017_201%2F1697511815419woDXj_JPEG%2F%25B1%25D7%25B7%25EC_1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1508243090"
     },
     {
-        "ranking": "16",
+        "ranking": "15",
         "title": "아쿠아산타 성수카페",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_219%2F170847988984218mot_JPEG%2F1708479746331.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1517487358"
+    },
+    {
+        "ranking": "16",
+        "title": "성수동대림창고갤러리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220705_23%2F1656959975816l90nE_JPEG%2FKakaoTalk_Photo_2022-07-05-03-39-03_004.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37910590"
     },
     {
         "ranking": "17",

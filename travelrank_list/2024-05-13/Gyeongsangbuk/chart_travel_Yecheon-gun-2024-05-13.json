@@ -61,21 +61,21 @@
     },
     {
         "ranking": "11",
-        "title": "용궁특별시",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210714_198%2F1626255573137VRjh0_JPEG%2F-bVSdbPYEAwuDNSefeW09f_h.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1580468229"
-    },
-    {
-        "ranking": "12",
         "title": "스타벅스 경북도청대로점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1107956780"
     },
     {
-        "ranking": "13",
+        "ranking": "12",
         "title": "카페라밀 경북도청점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230815_279%2F1692106013713pSnbk_JPEG%2F1000004490.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1243349646"
+    },
+    {
+        "ranking": "13",
+        "title": "용궁특별시",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210714_198%2F1626255573137VRjh0_JPEG%2F-bVSdbPYEAwuDNSefeW09f_h.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1580468229"
     },
     {
         "ranking": "14",
@@ -97,26 +97,26 @@
     },
     {
         "ranking": "17",
-        "title": "하이방방고",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzAyMDNfMTMg%2FMDAxNjc1NDA3MDQyNDc1.UqiftQElgzWlC6RRp3o7t0DddQs_2HYSHOpqQb9G8hgg.d-0oS0-a0pX-zmN7l2bc8x7gbIqlVwDCBE5odYSTDHIg.JPEG.5516030%2F20230202%25A3%25DF132026.jpg%23900x1598&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1477096581"
-    },
-    {
-        "ranking": "18",
         "title": "예천박물관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210819_30%2F1629356919642YKWs0_JPEG%2FK3SY4_4_MGDlZgCX4pOD_RsV.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/38495771"
     },
     {
-        "ranking": "19",
+        "ranking": "18",
         "title": "투썸플레이스 예천남본점",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMTNfNjYg%2FMDAxNzA3ODI5NDMyNzU4.QhrYq4_hN3SbpOQeh3Onw2v9Q6FXQo42jl825IiBK_0g.gnTWt7TsGTwjltGF2lXt2J_FkAeGajHU43P-XbC0BoYg.JPEG.wondeok9%2F20240211%25A3%25DF164853.jpg%23900x506&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1895535971"
     },
     {
+        "ranking": "19",
+        "title": "사운즈커피미니 경북도청점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240308_236%2F1709830733429nD2WB_JPEG%2FKakaoTalk_20240308_014948490.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1598336927"
+    },
+    {
         "ranking": "20",
-        "title": "곤충나라사과테마파크오토캠핑장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230927_6%2F1695787297417eA87u_JPEG%2FKakaoTalk_20230927_125912911.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1149227394"
+        "title": "소백산하늘자락공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA0MjBfMjQy%2FMDAxNzEzNTk4OTA4NDEz.EYRrq2rS4ckNAKy1Tr3XPVdzZn8-T_9Hl-LVrfWEEvYg.b7lmK9k0NJd2mWX1RpnDOWRuNSW1BI0fuOYftF-FeeEg.JPEG%2Fsns%25C4%25BF%25B9%25F6.jpg%23756x756&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1340581476"
     }
 ]

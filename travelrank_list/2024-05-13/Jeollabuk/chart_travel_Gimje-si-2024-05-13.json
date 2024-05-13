@@ -31,21 +31,21 @@
     },
     {
         "ranking": "6",
-        "title": "대율담",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230921_192%2F169528555886034Ba2_PNG%2F%25B4%25EB%25C0%25B2%25B4%25E3_7.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1383572017"
-    },
-    {
-        "ranking": "7",
         "title": "금산사 템플스테이",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180123_94%2F1516689786897996dE_PNG%2FK-168.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/194305819"
     },
     {
-        "ranking": "8",
+        "ranking": "7",
         "title": "헤이그라운드",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230718_167%2F1689626343307kLuPz_JPEG%2F79F649B1-32C3-41C7-B788-2E2C018D933D.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1315119807"
+    },
+    {
+        "ranking": "8",
+        "title": "대율담",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230921_192%2F169528555886034Ba2_PNG%2F%25B4%25EB%25C0%25B2%25B4%25E3_7.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1383572017"
     },
     {
         "ranking": "9",
@@ -61,27 +61,27 @@
     },
     {
         "ranking": "11",
-        "title": "휘게팜",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230217_32%2F1676627231258tdtFu_JPEG%2FKakaoTalk_20230217_184558022.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1171671208"
-    },
-    {
-        "ranking": "12",
         "title": "늘숲",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240420_46%2F1713593952185dxpMl_JPEG%2FIMG_3469.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1796520530"
     },
     {
-        "ranking": "13",
+        "ranking": "12",
         "title": "문화체육공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAzMjZfMTg1%2FMDAxNzExNDU5Njk2MjQ5.7cePVt8gA2Wf3I2gyqD1UPtZK-4Iei5aXch988Xl8icg.VvpBs-ab54209IP14IUNhnYIOYwM8a6eJPlIdtQ3s2wg.JPEG%2F%25C6%25F7%25BD%25BA%25C5%25CD%2528%25BC%25BC%25B7%25CE%25C7%25FC%2529.JPG%233509x4961&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/16721055"
     },
     {
-        "ranking": "14",
+        "ranking": "13",
         "title": "이디야커피 새만금수국섬DI점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230913_67%2F16945840802774iudm_JPEG%2FKakaoTalk_20230906_114000235.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1185960051"
+    },
+    {
+        "ranking": "14",
+        "title": "휘게팜",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230217_32%2F1676627231258tdtFu_JPEG%2FKakaoTalk_20230217_184558022.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1171671208"
     },
     {
         "ranking": "15",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
+        "title": "오버그로우",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230828_263%2F1693154182444d7XqX_JPEG%2FIMG_4899.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1362816635"
+    },
+    {
+        "ranking": "19",
         "title": "미즈노씨네 트리하우스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230126_47%2F1674706764878Fvlp2_JPEG%2FB76B5BCC-E164-4FF7-A37A-2CC7944FBE12.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/658896719"
     },
     {
-        "ranking": "19",
-        "title": "김정선 베이커리카페",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210603_168%2F1622699309409iE2X4_JPEG%2FbY2iV9ZNy63oZAuVAAM7DhXz.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1515944154"
-    },
-    {
         "ranking": "20",
-        "title": "오버그로우",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230828_263%2F1693154182444d7XqX_JPEG%2FIMG_4899.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1362816635"
+        "title": "소프라",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221104_256%2F16675343585576TSNw_JPEG%2FC17F8260-D602-43C8-A9BC-4D6C004B45DD.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1067907345"
     }
 ]

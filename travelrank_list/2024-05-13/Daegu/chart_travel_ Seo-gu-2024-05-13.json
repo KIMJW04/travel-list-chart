@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "스타벅스 대구평리DT점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37408385"
-    },
-    {
-        "ranking": "13",
         "title": "레이즈커피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231220_51%2F1703052797173RiexK_JPEG%2FKakaoTalk_20231210_164430813_02.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1848649006"
+    },
+    {
+        "ranking": "13",
+        "title": "스타벅스 대구평리DT점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37408385"
     },
     {
         "ranking": "14",
@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "카페이랑",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230816_112%2F1692166158385THtwL_JPEG%2F%25C0%25CC%25B6%25FB02.JPG&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36200023"
-    },
-    {
-        "ranking": "19",
         "title": "까레몽",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230710_62%2F1688974050229OURTQ_JPEG%2F6BB2D1B0-461E-4CB4-B883-BC4C5A2717FB.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/12965606"
+    },
+    {
+        "ranking": "19",
+        "title": "카페이랑",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230816_112%2F1692166158385THtwL_JPEG%2F%25C0%25CC%25B6%25FB02.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/36200023"
     },
     {
         "ranking": "20",

@@ -61,9 +61,9 @@
     },
     {
         "ranking": "11",
-        "title": "추추",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240117_175%2F1705481450451fX6lc_JPEG%2FIMG_0357.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1411041917"
+        "title": "빙계계곡",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_5%2F1441045593428QCH7i_JPEG%2F13491255_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13491255"
     },
     {
         "ranking": "12",
@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "스윗띵",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220313_204%2F1647181936898KqCDx_JPEG%2F8F29666D-248A-4CF8-BE04-A0752C4D1F82.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1773638114"
+        "title": "추추",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240117_175%2F1705481450451fX6lc_JPEG%2FIMG_0357.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1411041917"
     },
     {
         "ranking": "14",
-        "title": "빙계계곡",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_5%2F1441045593428QCH7i_JPEG%2F13491255_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491255"
+        "title": "스윗띵",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220313_204%2F1647181936898KqCDx_JPEG%2F8F29666D-248A-4CF8-BE04-A0752C4D1F82.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1773638114"
     },
     {
         "ranking": "15",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "꽃이 숲을 이루다",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220318_61%2F1647599862791mk9h7_JPEG%2F20220312_152619.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1442339213"
-    },
-    {
-        "ranking": "20",
         "title": "산운생태공원",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_237%2F14410349989033lTzJ_JPEG%2F126956604540185_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/20118997"
+    },
+    {
+        "ranking": "20",
+        "title": "의성공설전통시장",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAxMjJfMjU0%2FMDAxNTc5NjU5MTQ1OTUx.N1OURS8wmXCXGkm9OMWZHd_p_NzITeM7I5ryyBWiwrsg.E_ythQ0hYy39K9XdygNJtvkMTPES9qpHDXvi_fxFOuog.JPEG.ojhloo4%2F1579659137536.jpg%234032x3024&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1689822760"
     }
 ]
