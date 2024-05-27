@@ -67,21 +67,21 @@
     },
     {
         "ranking": "12",
-        "title": "행구수변공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA4MTNfNzUg%2FMDAxNjkxOTEyMDMyNDU2.uCT6-Ytt6NCGSPctjMXgjTbcZJFt9ECuFy3u1SgAHrwg.W9OP31gfAXcM7ZrErNm2eV3z89UJLuYeBlL8iDTNGvEg.JPEG.salley2005%2F7A3A0002.jpg%23900x600&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36016701"
-    },
-    {
-        "ranking": "13",
         "title": "캄파슬로우",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221212_164%2F1670851595130FiGwX_PNG%2Fcampalogo.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/35296495"
     },
     {
-        "ranking": "14",
+        "ranking": "13",
         "title": "오빠딸기",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_207%2F1701396749011Ev0oW_JPEG%2F1701396729555.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1690338398"
+    },
+    {
+        "ranking": "14",
+        "title": "행구수변공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA4MTNfNzUg%2FMDAxNjkxOTEyMDMyNDU2.uCT6-Ytt6NCGSPctjMXgjTbcZJFt9ECuFy3u1SgAHrwg.W9OP31gfAXcM7ZrErNm2eV3z89UJLuYeBlL8iDTNGvEg.JPEG.salley2005%2F7A3A0002.jpg%23900x600&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/36016701"
     },
     {
         "ranking": "15",

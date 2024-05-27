@@ -25,21 +25,21 @@
     },
     {
         "ranking": "5",
+        "title": "365세이프타운",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230530_70%2F1685413821145etBud_JPEG%2F%25C8%25AD%25B8%25E9_%25C4%25B8%25C3%25B3_2023-05-30_112854.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/31101993"
+    },
+    {
+        "ranking": "6",
         "title": "황지연못",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_140%2F14410146816380JiaH_JPEG%2F13289605_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13289605"
     },
     {
-        "ranking": "6",
+        "ranking": "7",
         "title": "태백고생대자연사박물관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_242%2F1441050253760uP8qy_JPEG%2F116954578327985_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13526954"
-    },
-    {
-        "ranking": "7",
-        "title": "365세이프타운",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230530_70%2F1685413821145etBud_JPEG%2F%25C8%25AD%25B8%25E9_%25C4%25B8%25C3%25B3_2023-05-30_112854.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/31101993"
     },
     {
         "ranking": "8",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "꽃피는봄날",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221024_132%2F1666569211321BQaUb_JPEG%2FCB63C0F9-24AE-4A9F-AAA8-CAFAC5F3FC8E.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37186168"
+        "title": "황지자유시장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_64%2F1441024630532TUVxI_JPEG%2F116281573260846_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13346201"
     }
 ]

@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
-        "title": "페즈",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200715_26%2F15947961154008J614_JPEG%2FZsm0976RxokiuW1w3vkQtUP2.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1174440881"
-    },
-    {
-        "ranking": "19",
-        "title": "태화강국가정원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA5MDFfMjk4%2FMDAxNTM1Nzg3MDU2ODA5.zM5yyUxDedtYMe0JgIFLk_2wZDJLiWVple6Ib2FBr5Eg.plqL72_B2hBFe4xckWaExW3Ih4Cs39hueQHeSC0ErSog.JPEG.ulsan-namgu%2F_HES8450.jpg%23700x467&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1101131409"
-    },
-    {
-        "ranking": "20",
         "title": "그리다빵 울산점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211202_130%2F1638371005495m11PC_JPEG%2FE4A05CFD-648D-4F7F-AD85-CC1E9BE9A33E.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1718023805"
+    },
+    {
+        "ranking": "19",
+        "title": "크로플유 X 라푀유",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211013_23%2F1634050960423b0MVt_JPEG%2F-GVHVuXXiZkm5nq3OGHfYTB2.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1325586123"
+    },
+    {
+        "ranking": "20",
+        "title": "태화강국가정원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODA5MDFfMjk4%2FMDAxNTM1Nzg3MDU2ODA5.zM5yyUxDedtYMe0JgIFLk_2wZDJLiWVple6Ib2FBr5Eg.plqL72_B2hBFe4xckWaExW3Ih4Cs39hueQHeSC0ErSog.JPEG.ulsan-namgu%2F_HES8450.jpg%23700x467&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1101131409"
     }
 ]

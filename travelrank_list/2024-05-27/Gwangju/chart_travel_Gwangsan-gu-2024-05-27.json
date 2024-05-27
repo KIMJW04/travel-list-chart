@@ -67,21 +67,21 @@
     },
     {
         "ranking": "12",
+        "title": "쑥스초코파이",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220425_202%2F1650861866429GCYl7_JPEG%2FIMG_3006.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37754829"
+    },
+    {
+        "ranking": "13",
         "title": "황룡친수공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160418_57%2Fhaelee0321_1460956005749xJLCk_PNG%2FDSC07845.png%231000x666&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37769031"
     },
     {
-        "ranking": "13",
+        "ranking": "14",
         "title": "cafe 마카리조",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_108%2F1669378592820MwMWm_JPEG%2FScreenshot_20221125-211351_KakaoTalk.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37468129"
-    },
-    {
-        "ranking": "14",
-        "title": "쑥스초코파이",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220425_202%2F1650861866429GCYl7_JPEG%2FIMG_3006.JPG&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37754829"
     },
     {
         "ranking": "15",
@@ -91,21 +91,21 @@
     },
     {
         "ranking": "16",
-        "title": "쌍암공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20151116_195%2Fgwangju_city_1447635470013wuyDR_JPEG%2F2.jpg%23740x555&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/19828339"
-    },
-    {
-        "ranking": "17",
         "title": "롯데아울렛 광주수완점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220901_29%2F1662007640998V0jk5_JPEG%2F%25BE%25C6%25BF%25EF%25B7%25BF_%25BC%25F6%25BF%25CF%25C1%25A1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1437999353"
     },
     {
-        "ranking": "18",
+        "ranking": "17",
         "title": "교집홈",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_43%2F1712633602356LP0oC_JPEG%2FIMG_2552.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1522673793"
+    },
+    {
+        "ranking": "18",
+        "title": "쌍암공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20151116_195%2Fgwangju_city_1447635470013wuyDR_JPEG%2F2.jpg%23740x555&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19828339"
     },
     {
         "ranking": "19",

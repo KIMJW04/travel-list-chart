@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "광명에디슨뮤지엄",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240430_251%2F17144486653693etEN_JPEG%2FKakaoTalk_20240429_150313365_01.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1187838697"
-    },
-    {
-        "ranking": "14",
         "title": "수플레이스",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_77%2F1715931740681IEPDl_JPEG%2F20240504_125348_polarr.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1860305891"
+    },
+    {
+        "ranking": "14",
+        "title": "광명에디슨뮤지엄",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240430_251%2F17144486653693etEN_JPEG%2FKakaoTalk_20240429_150313365_01.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1187838697"
     },
     {
         "ranking": "15",

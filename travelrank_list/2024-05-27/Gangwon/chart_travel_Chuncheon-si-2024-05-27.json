@@ -13,33 +13,33 @@
     },
     {
         "ranking": "3",
-        "title": "해피초원목장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220811_279%2F1660183687086qYqOa_JPEG%2FScreenshot_2021-10-11_164617.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/30943701"
-    },
-    {
-        "ranking": "4",
         "title": "제이드가든",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240523_32%2F1716444979718zKWTH_JPEG%2F%25C1%25A6%25C0%25CC%25B5%25E5%25B0%25A1%25B5%25E7%25BC%25F6%25B8%25F1%25BF%25F8%2528hansfoto%2529_%25287%2529%25281%2529_%2528%25B8%25DE%25C0%25CE_1%2529.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/19928010"
     },
     {
-        "ranking": "5",
-        "title": "김유정 레일바이크",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231115_152%2F1700037150334RHYSl_JPEG%2FDSC_6679.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/20579322"
+        "ranking": "4",
+        "title": "해피초원목장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220811_279%2F1660183687086qYqOa_JPEG%2FScreenshot_2021-10-11_164617.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/30943701"
     },
     {
-        "ranking": "6",
+        "ranking": "5",
         "title": "춘천 삼악산 호수케이블카 의암호정차장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220420_9%2F1650444108774uePkC_JPEG%2F%25C6%25F7%25B8%25CB%25BA%25AF%25C8%25AF1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1091212887"
     },
     {
-        "ranking": "7",
+        "ranking": "6",
         "title": "산토리니",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231101_109%2F1698827492736ATWP5_JPEG%2FIMG_9246.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11821473"
+    },
+    {
+        "ranking": "7",
+        "title": "김유정 레일바이크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231115_152%2F1700037150334RHYSl_JPEG%2FDSC_6679.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/20579322"
     },
     {
         "ranking": "8",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
+        "title": "춘천숲자연휴양림",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230514_216%2F1684048707770rlwrf_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/12947095"
+    },
+    {
+        "ranking": "19",
         "title": "소양강스카이워크",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191002_81%2F1569946043924kK8RV_JPEG%2FOeerLnhdBmo_FEJ5oGCRKvTR.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/38220085"
     },
     {
-        "ranking": "19",
+        "ranking": "20",
         "title": "강촌레일파크 경강레일바이크",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180912_285%2F1536713978172hIcRz_JPEG%2F5LsAsWsxZ1sSNuXYak7cXVrQ.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/30840801"
-    },
-    {
-        "ranking": "20",
-        "title": "춘천숲자연휴양림",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230514_216%2F1684048707770rlwrf_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/12947095"
     }
 ]

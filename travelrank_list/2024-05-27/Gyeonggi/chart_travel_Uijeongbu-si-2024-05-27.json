@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
-        "title": "의정부천문대",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190517_198%2F1558080789000Ki6VM_JPEG%2FYT_pvKkr2XBeyhZFenMNJGBt.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1735113411"
-    },
-    {
-        "ranking": "10",
         "title": "카페 세렌디피티",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231006_189%2F16965840268851wn8I_JPEG%2FKakaoTalk_20231006_181932885.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1225132011"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "직동근린공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160414_169%2Fhope_city_1460607741117CxnSN_JPEG%2F%25C1%25F7%25B5%25BF%25B0%25F8%25BF%25F8%25BA%25A2%25B2%25C95.jpg%23900x506&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/19230729"
+    },
+    {
+        "ranking": "11",
+        "title": "의정부천문대",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190517_198%2F1558080789000Ki6VM_JPEG%2FYT_pvKkr2XBeyhZFenMNJGBt.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1735113411"
     },
     {
         "ranking": "12",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "투앤디",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190918_271%2F1568736446140MxjJ5_JPEG%2FR1VLwmlNDlMjwQO_mlrv1FIL.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1905786076"
-    },
-    {
-        "ranking": "20",
         "title": "베오주택",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230418_141%2F1681800009302j7O1c_JPEG%2FF0D34CC9-545E-4587-8E66-BBC80A5D5C7F.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1288722163"
+    },
+    {
+        "ranking": "20",
+        "title": "투앤디",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190918_271%2F1568736446140MxjJ5_JPEG%2FR1VLwmlNDlMjwQO_mlrv1FIL.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1905786076"
     }
 ]

@@ -67,33 +67,33 @@
     },
     {
         "ranking": "12",
-        "title": "성보촌",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MjhfNTQg%2FMDAxNjU2NDEyODE5MTYw.c3NOmWwA9pJq58Qj96PkkPaZCUjgeRhbefzmvYu8Nckg.LcqUATIyPcBAxmfnT9ivMdLGsgVmG4VC7QPWuJni_Wkg.JPEG.anamsalda%2FKakaoTalk_20220622_092718941_10.jpg%234000x3000&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37594292"
-    },
-    {
-        "ranking": "13",
         "title": "문경 용추계곡",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20150604_79%2Fbban0917_1433391202254ODGXH_JPEG%2FDSC09159.JPG%23740x555&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491069"
     },
     {
-        "ranking": "14",
+        "ranking": "13",
         "title": "뉴욕제과",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190724_7%2F156392231814199JQO_JPEG%2FWkRP8pPopJlEoOR38ThtaS81.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13436980"
     },
     {
-        "ranking": "15",
+        "ranking": "14",
         "title": "문경단산 관광모노레일",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230422_100%2F1682150450934HzECj_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AFKakaoTalk_20230419_093357226_05.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1356820801"
     },
     {
-        "ranking": "16",
+        "ranking": "15",
         "title": "운달산",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160311_154%2Frockyu205_1457661491185lpDQ9_JPEG%2F%25BF%25EE%25B4%25DE%25BB%25EA_020.jpg%23900x1350&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491022"
+    },
+    {
+        "ranking": "16",
+        "title": "성보촌",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA2MjhfNTQg%2FMDAxNjU2NDEyODE5MTYw.c3NOmWwA9pJq58Qj96PkkPaZCUjgeRhbefzmvYu8Nckg.LcqUATIyPcBAxmfnT9ivMdLGsgVmG4VC7QPWuJni_Wkg.JPEG.anamsalda%2FKakaoTalk_20220622_092718941_10.jpg%234000x3000&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37594292"
     },
     {
         "ranking": "17",

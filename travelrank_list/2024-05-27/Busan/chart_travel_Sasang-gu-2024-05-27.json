@@ -25,15 +25,15 @@
     },
     {
         "ranking": "5",
-        "title": "우디브룩",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240506_6%2F1714955778198npD6b_JPEG%2FIMG_4808.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/16789702"
-    },
-    {
-        "ranking": "6",
         "title": "VSANT",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240227_111%2F1709032426139UB8ae_JPEG%2F1F42B1BA-DD54-446E-A91F-1CB91837C11E.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1782673103"
+    },
+    {
+        "ranking": "6",
+        "title": "우디브룩",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240506_6%2F1714955778198npD6b_JPEG%2FIMG_4808.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/16789702"
     },
     {
         "ranking": "7",
@@ -67,51 +67,51 @@
     },
     {
         "ranking": "12",
-        "title": "설빙 부산사상점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230706_13%2F1688607174654pc3yW_PNG%2F%25C8%25AD%25B8%25E9_%25C4%25B8%25C3%25B3_2023-07-06_102622.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/35507420"
-    },
-    {
-        "ranking": "13",
         "title": "쿼피집",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240510_34%2F1715316827553Avs3V_PNG%2FKakaoTalk_20240510_135150071_03.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1876206189"
     },
     {
-        "ranking": "14",
+        "ranking": "13",
         "title": "카페이띠",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190411_55%2F1554952265288bIVAi_JPEG%2FLErJdGCniMcnCVzfbxsSAhWV.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1859125959"
     },
     {
-        "ranking": "15",
-        "title": "운수사",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_114%2F1441023006620Aiwda_PNG%2F116574594163122_0.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13337753"
+        "ranking": "14",
+        "title": "설빙 부산사상점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230706_13%2F1688607174654pc3yW_PNG%2F%25C8%25AD%25B8%25E9_%25C4%25B8%25C3%25B3_2023-07-06_102622.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/35507420"
     },
     {
-        "ranking": "16",
+        "ranking": "15",
         "title": "콜라보하우스 조이",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240417_86%2F1713349579186PsPha_JPEG%2F%25B8%25DE%25C0%25CE%25C0%25CC%25B9%25CC%25C1%25F6jpg_%25B4%25EB%25C1%25F6_1.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1675745286"
     },
     {
-        "ranking": "17",
-        "title": "삼락강변체육공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_273%2F1441045595703M8U5I_JPEG%2F13491275_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491275"
+        "ranking": "16",
+        "title": "운수사",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_114%2F1441023006620Aiwda_PNG%2F116574594163122_0.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13337753"
     },
     {
-        "ranking": "18",
+        "ranking": "17",
         "title": "헬로밀가루 부산사상점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190802_214%2F1564731980592vOiym_JPEG%2FKakaoTalk_20190802_163643181_14.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1935238968"
     },
     {
-        "ranking": "19",
+        "ranking": "18",
         "title": "사상생활사박물관",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMjNfNTYg%2FMDAxNTE2NjY5MjY0NjQx.UEbKVzM1wX0wyJGUNC4032MOQLPJZ2DOmxIIt5-xpLcg.5wWBgU-wIw8L2PE-9frHoY0lVfg2M5bKosm9oHWHj40g.JPEG.jaeminski%2F20160731_105926.jpg%232048x1152&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/36411228"
+    },
+    {
+        "ranking": "19",
+        "title": "스타벅스 사상주례DT점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1511149816"
     },
     {
         "ranking": "20",

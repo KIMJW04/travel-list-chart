@@ -31,15 +31,15 @@
     },
     {
         "ranking": "6",
-        "title": "통영유람선터미널",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_48%2F1705897534042eXhre_JPEG%2F%25B7%25B9%25C0%25CC%25BE%25EE_6.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/34347103"
-    },
-    {
-        "ranking": "7",
         "title": "이순신공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMDdfMjU2%2FMDAxNTE1MjU1NjU3MzA5.nz3vGiMNJYIS620E9ejZQbI5rb71h-opoYVFaNaDm3Qg.lzH2MabAhpkMhyS6R3PbzvKsIUy2IGX-zEYdI5jpk1Yg.JPEG.yungiyun7788%2FIMG_0109.JPG%232880x1920&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/19589173"
+    },
+    {
+        "ranking": "7",
+        "title": "통영유람선터미널",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_48%2F1705897534042eXhre_JPEG%2F%25B7%25B9%25C0%25CC%25BE%25EE_6.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/34347103"
     },
     {
         "ranking": "8",
@@ -97,9 +97,9 @@
     },
     {
         "ranking": "17",
-        "title": "나폴리농원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220813_102%2F1660375351567V2n2X_JPEG%2F20220505_144359.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/44334658"
+        "title": "욕지도",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzEwMTBfMzYg%2FMDAxNTA3NjMyODA5NzQ1.BhVlfdiQlpo9T_pLt_VbQvLl4zpKaVa2yZDcXAVpbWsg.DVAbuqkBtwhWWnMfARiwfCsvNPD_vF3-bG-YKaUo6Lwg.JPEG.maemilee%2FIMG_1159.jpg%235472x3648&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13491457"
     },
     {
         "ranking": "18",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "욕지도",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzEwMTBfMzYg%2FMDAxNTA3NjMyODA5NzQ1.BhVlfdiQlpo9T_pLt_VbQvLl4zpKaVa2yZDcXAVpbWsg.DVAbuqkBtwhWWnMfARiwfCsvNPD_vF3-bG-YKaUo6Lwg.JPEG.maemilee%2FIMG_1159.jpg%235472x3648&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491457"
-    },
-    {
-        "ranking": "20",
         "title": "통영수산과학관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230519_12%2F1684463724102YkXsy_JPEG%2FKakaoTalk_20230228_103828808.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11795841"
+    },
+    {
+        "ranking": "20",
+        "title": "나폴리농원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220813_102%2F1660375351567V2n2X_JPEG%2F20220505_144359.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/44334658"
     }
 ]

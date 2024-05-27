@@ -37,27 +37,27 @@
     },
     {
         "ranking": "7",
-        "title": "그라운드시소 성수",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220805_124%2F1659658554938mj9vz_JPEG%2F1.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1567169009"
-    },
-    {
-        "ranking": "8",
         "title": "다이버츄",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240519_94%2F1716104227435DgDyV_JPEG%2F1000035854.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1928705869"
     },
     {
-        "ranking": "9",
-        "title": "구욱희씨 서울숲 본점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240418_18%2F1713432046290PJ044_JPEG%2FKakaoTalk_20240418_174340904.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1712521730"
+        "ranking": "8",
+        "title": "그라운드시소 성수",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220805_124%2F1659658554938mj9vz_JPEG%2F1.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1567169009"
     },
     {
-        "ranking": "10",
+        "ranking": "9",
         "title": "스트로베리32 성수점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220523_119%2F1653272171046fdIP0_JPEG%2FKakaoTalk_20220523_111221786_04.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1128626529"
+    },
+    {
+        "ranking": "10",
+        "title": "구욱희씨 서울숲 본점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240418_18%2F1713432046290PJ044_JPEG%2FKakaoTalk_20240418_174340904.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1712521730"
     },
     {
         "ranking": "11",
@@ -73,9 +73,9 @@
     },
     {
         "ranking": "13",
-        "title": "라프레플루트",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_223%2F1712280901528Qt3Rb_JPEG%2FIMG_6883.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1966521856"
+        "title": "어니언 성수",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230612_255%2F1686562488552F0Omh_PNG%2FLOGO.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38561949"
     },
     {
         "ranking": "14",
@@ -85,15 +85,15 @@
     },
     {
         "ranking": "15",
-        "title": "니커버커베이글 성수점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_49%2F1708569467795boiqg_JPEG%2FIMG_2342.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1468687611"
+        "title": "라프레플루트",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_223%2F1712280901528Qt3Rb_JPEG%2FIMG_6883.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1966521856"
     },
     {
         "ranking": "16",
-        "title": "어니언 성수",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230612_255%2F1686562488552F0Omh_PNG%2FLOGO.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38561949"
+        "title": "니커버커베이글 성수점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_49%2F1708569467795boiqg_JPEG%2FIMG_2342.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1468687611"
     },
     {
         "ranking": "17",

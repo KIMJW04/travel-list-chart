@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "용궁특별시",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210714_198%2F1626255573137VRjh0_JPEG%2F-bVSdbPYEAwuDNSefeW09f_h.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1580468229"
-    },
-    {
-        "ranking": "13",
         "title": "봉덕창고",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221103_191%2F1667474286244jGUft_JPEG%2F01CD59A1-8290-476E-AB83-BE94A144A743.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1199286526"
+    },
+    {
+        "ranking": "13",
+        "title": "용궁특별시",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210714_198%2F1626255573137VRjh0_JPEG%2F-bVSdbPYEAwuDNSefeW09f_h.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1580468229"
     },
     {
         "ranking": "14",
@@ -103,15 +103,15 @@
     },
     {
         "ranking": "18",
-        "title": "예천박물관",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210819_30%2F1629356919642YKWs0_JPEG%2FK3SY4_4_MGDlZgCX4pOD_RsV.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38495771"
-    },
-    {
-        "ranking": "19",
         "title": "사운즈커피미니 경북도청점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240308_236%2F1709830733429nD2WB_JPEG%2FKakaoTalk_20240308_014948490.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1598336927"
+    },
+    {
+        "ranking": "19",
+        "title": "베르트카페 경북도청점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220206_48%2F16441240980172ATBq_JPEG%2Fimage.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1171675801"
     },
     {
         "ranking": "20",

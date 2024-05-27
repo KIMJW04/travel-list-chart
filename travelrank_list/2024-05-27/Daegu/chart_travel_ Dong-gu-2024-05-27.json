@@ -25,27 +25,27 @@
     },
     {
         "ranking": "5",
-        "title": "봉무공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_273%2F1441024023071B7gi3_JPEG%2F116278613351919_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13343446"
-    },
-    {
-        "ranking": "6",
         "title": "옻골마을",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_228%2F1423211837684uEtQH_JPEG%2F%25B4%25EB%25B1%25B8_%25BF%25CC%25B0%25F1%25B8%25B6%25C0%25BB_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/20061817"
     },
     {
-        "ranking": "7",
+        "ranking": "6",
         "title": "커들포드",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230513_110%2F1683940991417aEvAF_JPEG%2FIMG_5588.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1641911157"
     },
     {
+        "ranking": "7",
+        "title": "봉무공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_273%2F1441024023071B7gi3_JPEG%2F116278613351919_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13343446"
+    },
+    {
         "ranking": "8",
-        "title": "브리니 팔공",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220527_173%2F1653659359783f0kTo_JPEG%2F%25BA%25EA%25B8%25AE%25B4%25CF.%25C6%25C8%25B0%25F8.1-1IMG_0025.JPG&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1907192021"
+        "title": "신세계백화점 대구점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200619_73%2F159257848381543UdH_JPEG%2FKC9_YGA_WZbM4-86DJlMafeG.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38003935"
     },
     {
         "ranking": "9",
@@ -55,9 +55,9 @@
     },
     {
         "ranking": "10",
-        "title": "신세계백화점 대구점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200619_73%2F159257848381543UdH_JPEG%2FKC9_YGA_WZbM4-86DJlMafeG.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/38003935"
+        "title": "브리니 팔공",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220527_173%2F1653659359783f0kTo_JPEG%2F%25BA%25EA%25B8%25AE%25B4%25CF.%25C6%25C8%25B0%25F8.1-1IMG_0025.JPG&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1907192021"
     },
     {
         "ranking": "11",
@@ -73,9 +73,9 @@
     },
     {
         "ranking": "13",
-        "title": "프랭크프랭크",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210206_34%2F1612574453839FFB8A_JPEG%2FQxTmw2AZhw9t-y5dtr4jkI9z.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1388331944"
+        "title": "팔공산 동화사 템플스테이",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160817_32%2Fwldms1109_1471404146925bnlIM_JPEG%2FattachImage_3331596690.jpeg%23320x240&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13576404"
     },
     {
         "ranking": "14",
@@ -91,9 +91,9 @@
     },
     {
         "ranking": "16",
-        "title": "팔공산 동화사 템플스테이",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160817_32%2Fwldms1109_1471404146925bnlIM_JPEG%2FattachImage_3331596690.jpeg%23320x240&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13576404"
+        "title": "프랭크프랭크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210206_34%2F1612574453839FFB8A_JPEG%2FQxTmw2AZhw9t-y5dtr4jkI9z.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1388331944"
     },
     {
         "ranking": "17",
@@ -103,9 +103,9 @@
     },
     {
         "ranking": "18",
-        "title": "율하체육공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20150917_48%2Fdgdonggu_1442474303309KCbsz_JPEG%2F1.jpg%23650x406&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/19663133"
+        "title": "애리스커피스탠드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200801_246%2F1596236224761mW8Gq_JPEG%2FxkS7vmR8dGoFa-GbzKZcTENA.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1778363634"
     },
     {
         "ranking": "19",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "애리스커피스탠드",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200801_246%2F1596236224761mW8Gq_JPEG%2FxkS7vmR8dGoFa-GbzKZcTENA.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1778363634"
+        "title": "레이지모닝 동대구점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200422_43%2F1587536266074d3BBg_JPEG%2FzQ5TYpDbCrZty4_IG1J8v-S9.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1556904025"
     }
 ]

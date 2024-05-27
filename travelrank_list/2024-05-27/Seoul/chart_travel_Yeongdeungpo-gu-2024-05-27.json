@@ -7,21 +7,21 @@
     },
     {
         "ranking": "2",
-        "title": "선유도공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_198%2F1441015806377WHGbe_JPEG%2F12366522_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/12366522"
-    },
-    {
-        "ranking": "3",
         "title": "여의도 이크루즈",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210809_113%2F1628482903892APuuP_JPEG%2F%25C6%25AE%25B8%25AE%25C5%25B8%25B4%25CF%25BE%25C6%25C8%25A3_%25283%2529.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11591016"
     },
     {
-        "ranking": "4",
+        "ranking": "3",
         "title": "테디뵈르하우스 더현대서울점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_17%2F1695698345703nnOwq_JPEG%2FKakaoTalk_Photo_2023-09-26-12-18-19_006.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1096877686"
+    },
+    {
+        "ranking": "4",
+        "title": "선유도공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_198%2F1441015806377WHGbe_JPEG%2F12366522_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/12366522"
     },
     {
         "ranking": "5",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "폰트 문래점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220406_47%2F1649205846440PbTrS_JPEG%2Fpont_mullae_001.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1018584089"
+        "title": "명화라이브홀",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMDFfMjI4%2FMDAxNzA0MDgzMjk0NjI5.ZUhIY8I2onqEBdoSkAs_FdGdb-cDK2iMM7k4srL8rfsg.s-x8ykGevLlSH7vzaBgK7HLRq3lwBQ3el3fG_hoDICMg.JPEG.heart-en%2FKakaoTalk_20240101_122036055_10.jpg%231050x1400&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1116466201"
     },
     {
         "ranking": "20",
-        "title": "강변서재",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230921_41%2F1695279804701dvihJ_JPEG%2F3.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1489831691"
+        "title": "폰트 문래점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220406_47%2F1649205846440PbTrS_JPEG%2Fpont_mullae_001.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1018584089"
     }
 ]

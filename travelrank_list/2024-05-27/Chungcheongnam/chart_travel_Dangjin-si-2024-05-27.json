@@ -31,15 +31,15 @@
     },
     {
         "ranking": "6",
-        "title": "왜목마을 해수욕장",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMzBfMTQ5%2FMDAxNzA2NjEwNDY0NzMx.K-DHaVC5LueBLSyNo50BJH8BgLk1EYOacjNVeUWe7lsg.uOxtofftwZrY5uYae5_mWegWB6IiFANpq3RQgOJ3fTcg.JPEG.hkhj8083%2FJIN01209.jpg%232040x1360&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/306487611"
-    },
-    {
-        "ranking": "7",
         "title": "장고항",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_251%2F1441045540569v9hC5_JPEG%2F157155536962730_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13490898"
+    },
+    {
+        "ranking": "7",
+        "title": "왜목마을 해수욕장",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAxMzBfMTQ5%2FMDAxNzA2NjEwNDY0NzMx.K-DHaVC5LueBLSyNo50BJH8BgLk1EYOacjNVeUWe7lsg.uOxtofftwZrY5uYae5_mWegWB6IiFANpq3RQgOJ3fTcg.JPEG.hkhj8083%2FJIN01209.jpg%232040x1360&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/306487611"
     },
     {
         "ranking": "8",
@@ -85,21 +85,21 @@
     },
     {
         "ranking": "15",
-        "title": "한진포구",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMTJfMjQ1%2FMDAxNTE1Njg0NDUxNjI0._bA9JoqJSH_qCQ_y3UOwFPP1vQuhgnQy0kIW5KtQZrwg.TPkRaCP1vr6bY-wDEzky_9PsN25Hu6d4rJd-jk5Xvkwg.JPEG.awalt%2FDSC_5109.jpg%231536x1920&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/19816218"
-    },
-    {
-        "ranking": "16",
         "title": "미미커피방앗간",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_97%2F1715938640980vVvGf_PNG%2F%25C6%25F7%25BD%25BA%25C5%25CD.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1668159465"
     },
     {
-        "ranking": "17",
+        "ranking": "16",
         "title": "독일빵집1호점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190821_257%2F1566355809656XC80Q_JPEG%2FgVY0VFEGHAhonsohiGDTdRur.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/17486194"
+    },
+    {
+        "ranking": "17",
+        "title": "한진포구",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAxMTJfMjQ1%2FMDAxNTE1Njg0NDUxNjI0._bA9JoqJSH_qCQ_y3UOwFPP1vQuhgnQy0kIW5KtQZrwg.TPkRaCP1vr6bY-wDEzky_9PsN25Hu6d4rJd-jk5Xvkwg.JPEG.awalt%2FDSC_5109.jpg%231536x1920&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/19816218"
     },
     {
         "ranking": "18",

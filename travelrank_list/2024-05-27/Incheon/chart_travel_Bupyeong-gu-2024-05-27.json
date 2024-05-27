@@ -67,15 +67,15 @@
     },
     {
         "ranking": "12",
-        "title": "접견실",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200115_100%2F1579073276222qDNym_JPEG%2F_EYS4pKHIuWBfuXKwM8YHVgb.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1555840990"
-    },
-    {
-        "ranking": "13",
         "title": "에키노마에",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220228_95%2F1646023850968T1tgv_JPEG%2FIMG_20211223_013723_098.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37392455"
+    },
+    {
+        "ranking": "13",
+        "title": "접견실",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200115_100%2F1579073276222qDNym_JPEG%2F_EYS4pKHIuWBfuXKwM8YHVgb.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1555840990"
     },
     {
         "ranking": "14",
@@ -91,15 +91,15 @@
     },
     {
         "ranking": "16",
-        "title": "론트커피",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211122_85%2F1637558381654W3C7X_JPEG%2FDSC02660_%25BA%25B9%25BB%25E7-2.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1069430174"
-    },
-    {
-        "ranking": "17",
         "title": "부평안전체험관",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODAyMjBfMTE4%2FMDAxNTE5MTE3MjMzMjU5.p-cV0O0oNtp7UlfrumCdvvoaPVzLOInKKdxjY_PP6fcg.2Js7irGaISi0APg751EbDT3IKN4oJcpAjUe0D7ZB-tsg.JPEG.incheontogi%2F%25BA%25CE%25C6%25F2%25BE%25C8%25C0%25FC%25C3%25BC%25C7%25E8%25B0%25FC_%25289%2529.JPG%23966x644&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/21668784"
+    },
+    {
+        "ranking": "17",
+        "title": "론트커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211122_85%2F1637558381654W3C7X_JPEG%2FDSC02660_%25BA%25B9%25BB%25E7-2.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1069430174"
     },
     {
         "ranking": "18",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "올드타운",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240508_259%2F17151427780949M78k_JPEG%2F89E1705A-DD01-4FF4-BB9F-9444F87EE725.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1856267449"
+        "title": "카페르고",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_199%2F17084959924870oNz9_PNG%2F%25C3%25CA%25B7%25CF%25B7%25CE%25B0%25ED.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1213768174"
     }
 ]

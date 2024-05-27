@@ -19,21 +19,21 @@
     },
     {
         "ranking": "4",
-        "title": "배알도수변공원",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160516_291%2Fthestar1166_1463385727063llevh_JPEG%2F20160507_184119.jpg%23740x555&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/17012479"
-    },
-    {
-        "ranking": "5",
         "title": "백운산자연휴양림",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_222%2F142320868889124Lgd_JPEG%2F%25C0%25FC%25B3%25B2_%25B1%25A4%25BE%25E7%25B9%25E9%25BF%25EE%25BB%25EA%25C0%25DA%25BF%25AC%25C8%25DE%25BE%25E7%25B8%25B2_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13188231"
     },
     {
-        "ranking": "6",
+        "ranking": "5",
         "title": "백운산",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_29%2F14410456413867fEGO_JPEG%2F116957568560354_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491547"
+    },
+    {
+        "ranking": "6",
+        "title": "배알도수변공원",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160516_291%2Fthestar1166_1463385727063llevh_JPEG%2F20160507_184119.jpg%23740x555&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/17012479"
     },
     {
         "ranking": "7",
@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "구루커피",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200122_120%2F1579704258972MiE0l_JPEG%2FAuxockzYTOj2P1FjqwPhyD1Q.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1291995927"
-    },
-    {
-        "ranking": "14",
         "title": "섬진강매화마을",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMTdfMjY1%2FMDAxNzA4MTc0NTMyMzc0.tDuBiOAzL2fYwWLH9qXl3c548tNIlYBnRDt3iKEcTAQg.fPif_9IavgkRV3GG3YHTGkLBUCjyfYIiVc_cTX10LV4g.JPEG.pqdbwls%2F20240217095739%25A3%25DFIMG%25A3%25DF1404.JPG%23900x600&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/34573645"
+    },
+    {
+        "ranking": "14",
+        "title": "구루커피",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200122_120%2F1579704258972MiE0l_JPEG%2FAuxockzYTOj2P1FjqwPhyD1Q.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1291995927"
     },
     {
         "ranking": "15",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "광양역사문화관",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2F20160407_148%2Fbbalgan00_1459991858399JDg9y_JPEG%2FIMG_7659.JPG%23740x493&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/17017656"
+        "title": "스타벅스 전남광양DT점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/59695169"
     }
 ]

@@ -79,15 +79,15 @@
     },
     {
         "ranking": "14",
-        "title": "소진담 서산점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220613_194%2F1655127394109dTqnL_JPEG%2F20220613_223117.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1959536144"
-    },
-    {
-        "ranking": "15",
         "title": "용현계곡",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA3MTlfNjEg%2FMDAxNTAwNDQ4NzA1MDE0.TLEqMwEsVrnu8I4zSyNwGcEnlCHpDfunP65KhM-zIVcg.9_kXVL4qu9bDT3DK05QG3NhZx9fKWgx2mHIZvGkvoKwg.JPEG.alchemyer00%2F1500448420543.jpg%23650x867&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11491228"
+    },
+    {
+        "ranking": "15",
+        "title": "소진담 서산점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220613_194%2F1655127394109dTqnL_JPEG%2F20220613_223117.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1959536144"
     },
     {
         "ranking": "16",
@@ -97,15 +97,15 @@
     },
     {
         "ranking": "17",
-        "title": "한가로이",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230503_54%2F1683091288584dV2iw_JPEG%2F1683090462979.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1967028106"
-    },
-    {
-        "ranking": "18",
         "title": "벌천포해수욕장",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_219%2F1423210056737BvOoB_JPEG%2F%25C3%25E6%25B3%25B2_%25B9%25FA%25C3%25B5%25C6%25F7%25C7%25D8%25BC%25F6%25BF%25E5%25C0%25E5_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491756"
+    },
+    {
+        "ranking": "18",
+        "title": "한가로이",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230503_54%2F1683091288584dV2iw_JPEG%2F1683090462979.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1967028106"
     },
     {
         "ranking": "19",

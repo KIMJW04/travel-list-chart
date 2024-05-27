@@ -49,21 +49,21 @@
     },
     {
         "ranking": "9",
-        "title": "커피루나",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211230_228%2F1640828014027S5BN8_JPEG%2F20211230_102044.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/682080303"
-    },
-    {
-        "ranking": "10",
         "title": "울진 왕피천 케이블카",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220726_260%2F1658816107369i8Cp8_JPEG%2FKakaoTalk_20200629_133042900_06.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1192023797"
     },
     {
-        "ranking": "11",
+        "ranking": "10",
         "title": "민물고기생태체험관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_280%2F1441039459829WwHEi_GIF%2F11795940_0.gif&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11795940"
+    },
+    {
+        "ranking": "11",
+        "title": "커피루나",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211230_228%2F1640828014027S5BN8_JPEG%2F20211230_102044.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/682080303"
     },
     {
         "ranking": "12",

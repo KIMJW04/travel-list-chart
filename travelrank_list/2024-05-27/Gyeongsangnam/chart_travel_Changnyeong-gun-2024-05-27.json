@@ -49,15 +49,15 @@
     },
     {
         "ranking": "9",
-        "title": "원오브",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230329_296%2F1680059253342SicoV_JPEG%2F3FEE59A8-8D74-4EAD-9A8F-3BE335430389.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1910616002"
-    },
-    {
-        "ranking": "10",
         "title": "우포늪",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_113%2F1441045700264uDdGp_JPEG%2F116780535249070_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13491907"
+    },
+    {
+        "ranking": "10",
+        "title": "원오브",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230329_296%2F1680059253342SicoV_JPEG%2F3FEE59A8-8D74-4EAD-9A8F-3BE335430389.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1910616002"
     },
     {
         "ranking": "11",
@@ -79,15 +79,15 @@
     },
     {
         "ranking": "14",
-        "title": "알리KENYA스타커피 창녕점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210823_296%2F16297203108428yHJl_JPEG%2FItH40VYBOEPCuQm-3RCjeEJ-.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1996367680"
-    },
-    {
-        "ranking": "15",
         "title": "산과구름아래",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200523_299%2F15902142550128mEjE_JPEG%2FB14IvAZGA4XZ143n-tgT2wdE.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1009304216"
+    },
+    {
+        "ranking": "15",
+        "title": "알리KENYA스타커피 창녕점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210823_296%2F16297203108428yHJl_JPEG%2FItH40VYBOEPCuQm-3RCjeEJ-.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1996367680"
     },
     {
         "ranking": "16",

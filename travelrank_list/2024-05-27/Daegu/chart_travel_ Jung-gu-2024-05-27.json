@@ -55,15 +55,15 @@
     },
     {
         "ranking": "10",
-        "title": "삼송빵집 본점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200510_106%2F1589094151318RrDw0_JPEG%2FzHfA5u0YZ4pRgWdAjT_6y-DO.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/15956340"
-    },
-    {
-        "ranking": "11",
         "title": "롤러커피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180209_87%2F1518138770533MjoO4_JPEG%2FsNqtCw6dnI5O9fB5ihIIiyNE.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/120079934"
+    },
+    {
+        "ranking": "11",
+        "title": "삼송빵집 본점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200510_106%2F1589094151318RrDw0_JPEG%2FzHfA5u0YZ4pRgWdAjT_6y-DO.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/15956340"
     },
     {
         "ranking": "12",
@@ -115,8 +115,8 @@
     },
     {
         "ranking": "20",
-        "title": "레이저아레나 대구",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220930_21%2F1664536070634pSKxs_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5%25C6%25C4%25C0%25CF_20220930_195315.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1079466300"
+        "title": "팡팡팡",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230317_276%2F1679046988756xcjpW_JPEG%2FKakaoTalk_20230317_185103771_02.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1347974588"
     }
 ]

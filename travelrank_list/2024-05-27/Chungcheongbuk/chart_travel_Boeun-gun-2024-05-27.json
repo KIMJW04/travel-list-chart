@@ -31,15 +31,15 @@
     },
     {
         "ranking": "6",
-        "title": "말티재 전망대",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAzMDNfNDgg%2FMDAxNjE0NzU3NTIyNjg3.hyjSaFDuIFMnucrUUfZq526YOd9y_PUMrgvZvjTmyo4g._T7KdUTGI2nuimuyb5SwjymTqbdr9Utt0NcnqtGbWkkg.JPEG.zjffja1539%2F20210303%25A3%25DF162416.jpg%23900x426&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1543834331"
-    },
-    {
-        "ranking": "7",
         "title": "속리산테마파크 모노레일",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211108_196%2F1636350083504BTwPg_JPEG%2FN9rqGSg-M01LNVqqLE-pqzRt.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1154972222"
+    },
+    {
+        "ranking": "7",
+        "title": "말티재 전망대",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAzMDNfNDgg%2FMDAxNjE0NzU3NTIyNjg3.hyjSaFDuIFMnucrUUfZq526YOd9y_PUMrgvZvjTmyo4g._T7KdUTGI2nuimuyb5SwjymTqbdr9Utt0NcnqtGbWkkg.JPEG.zjffja1539%2F20210303%25A3%25DF162416.jpg%23900x426&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1543834331"
     },
     {
         "ranking": "8",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "둥지캠핑장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220511_218%2F1652246204844yLRYU_JPEG%2Forg_4ef0bb5f985b1432_1651908874000.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1364695011"
+        "title": "속리산알프스캠핑장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210125_25%2F1611542028347yyuF1_JPEG%2FIMG_20191113_115341_349.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37165743"
     },
     {
         "ranking": "20",
-        "title": "속리산 사내리 캠핑장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240326_12%2F1711423881523EJHfJ_JPEG%2FKakaoTalk_20240326_070753227_05.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1674514052"
+        "title": "둥지캠핑장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220511_218%2F1652246204844yLRYU_JPEG%2Forg_4ef0bb5f985b1432_1651908874000.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1364695011"
     }
 ]

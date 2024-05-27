@@ -43,15 +43,15 @@
     },
     {
         "ranking": "8",
-        "title": "장동산림욕장",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA1MDlfMTgg%2FMDAxNDk0MzM4OTYyODM5.6yGTyFx-TE_fBNkyCgQOXrDTf8msODM7D1DTSRDHmKcg.73gD90uK73S5ZxHZOCNWWARc8eeJJj9t6L4tSIvMFUMg.JPEG.iamromy%2FIMG_7383.jpg%23930x620&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/20080620"
-    },
-    {
-        "ranking": "9",
         "title": "삼삼카페",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201028_66%2F1603875359863pj4sK_JPEG%2F3SnzxT1p4EHfbeLxkdBRyuDQ.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1456708273"
+    },
+    {
+        "ranking": "9",
+        "title": "장동산림욕장",
+        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA1MDlfMTgg%2FMDAxNDk0MzM4OTYyODM5.6yGTyFx-TE_fBNkyCgQOXrDTf8msODM7D1DTSRDHmKcg.73gD90uK73S5ZxHZOCNWWARc8eeJJj9t6L4tSIvMFUMg.JPEG.iamromy%2FIMG_7383.jpg%23930x620&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/20080620"
     },
     {
         "ranking": "10",
@@ -73,15 +73,15 @@
     },
     {
         "ranking": "13",
-        "title": "스타벅스 신탄진금강DT점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1699102626"
-    },
-    {
-        "ranking": "14",
         "title": "라운지티",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240323_281%2F1711150352757U2y0I_JPEG%2F2-2.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1447870173"
+    },
+    {
+        "ranking": "14",
+        "title": "스타벅스 신탄진금강DT점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190828_93%2F1566953601239OT9MQ_PNG%2FxX7Wv642gXMoTI0DAv0hRymS.png&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1699102626"
     },
     {
         "ranking": "15",
@@ -103,20 +103,20 @@
     },
     {
         "ranking": "18",
+        "title": "오늘의빵집",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240305_212%2F1709628560225HjVBL_JPEG%2F1000002591.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1900801725"
+    },
+    {
+        "ranking": "19",
         "title": "오렌지블로썸 베이커리카페",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230125_11%2F16746102546991DN6Q_PNG%2F%25B7%25CE%25B0%25ED1_%25282%2529.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37621064"
     },
     {
-        "ranking": "19",
+        "ranking": "20",
         "title": "꽁냥꽁냥",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240509_245%2F1715190954512BX0Gg_JPEG%2F1715190087039.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1373458319"
-    },
-    {
-        "ranking": "20",
-        "title": "투썸플레이스 신탄진대청호점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_261%2F1703759100287LJsNS_JPEG%2FKakaoTalk_20231228_164739899_05.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1235319366"
     }
 ]

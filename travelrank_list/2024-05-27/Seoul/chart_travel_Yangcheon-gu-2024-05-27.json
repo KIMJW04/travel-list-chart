@@ -61,21 +61,21 @@
     },
     {
         "ranking": "11",
-        "title": "브론토 비건쿠키",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_78%2F1702179593957leFAr_JPEG%2FIMG_5131.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1562126551"
-    },
-    {
-        "ranking": "12",
         "title": "보사노바 베이커리랩 신정점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230724_171%2F1690188343554rhLBS_JPEG%2F%25B8%25C5%25C0%25E5-%25C0%25CC%25B9%25CC%25C1%25F61.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1972099413"
     },
     {
-        "ranking": "13",
+        "ranking": "12",
         "title": "카페히든",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210620_49%2F1624168067755MntQu_JPEG%2FPcTuBMpQJtARm2P_7qtjYYTw.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1492095548"
+    },
+    {
+        "ranking": "13",
+        "title": "브론토 비건쿠키",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_78%2F1702179593957leFAr_JPEG%2FIMG_5131.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1562126551"
     },
     {
         "ranking": "14",
@@ -97,26 +97,26 @@
     },
     {
         "ranking": "17",
-        "title": "신월당",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190905_77%2F1567663676883qMATV_JPEG%2FGci1TTUI-ANjTzwbb2cZyisH.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1406974848"
-    },
-    {
-        "ranking": "18",
-        "title": "카페 제하",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20171011_279%2F15077319221935fYdI_JPEG%2FG8oy04aRyn1IJaxuVprtRY8j.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1456059128"
-    },
-    {
-        "ranking": "19",
         "title": "파티세리소나 2호점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230504_265%2F1683167723610UuK3Q_JPEG%2F20230108_103442.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1972446082"
     },
     {
+        "ranking": "18",
+        "title": "블루밀",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181228_262%2F15460063073035gj5N_JPEG%2FEccgYThEUX6FTMNBS3SImvzU.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/38641779"
+    },
+    {
+        "ranking": "19",
+        "title": "신월당",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190905_77%2F1567663676883qMATV_JPEG%2FGci1TTUI-ANjTzwbb2cZyisH.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1406974848"
+    },
+    {
         "ranking": "20",
-        "title": "로운아트홀",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAzMDFfMjMg%2FMDAxNzA5Mjk4OTE2ODU0.e46WoraY9CB6msUMRozDEX1RJnHn7Mex9KGICt9phJ8g.B3DCNoH7Eay4yA0rNXN3OSZa8XW6qHBme-8w9aEXxNsg.JPEG%2FSE-04724de5-fb71-4d6e-bfb2-beb4422c4e55.jpg%231594x1594&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1334330268"
+        "title": "화이트리에 목동점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240120_237%2F1705680365235bCLM6_JPEG%2FIMG_5804.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1844395426"
     }
 ]

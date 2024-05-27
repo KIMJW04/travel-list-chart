@@ -1,15 +1,15 @@
 [
     {
         "ranking": "1",
-        "title": "소노벨 변산 오션플레이",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230719_212%2F16897244066617JlU0_JPEG%2F%25BC%25D2%25B3%25EB%25BA%25A7%25BA%25AF%25BB%25EA_10.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13474414"
-    },
-    {
-        "ranking": "2",
         "title": "슬지제빵소",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230824_293%2F16928874870151kSvU_JPEG%2FIMG_1839.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/310430508"
+    },
+    {
+        "ranking": "2",
+        "title": "소노벨 변산 오션플레이",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230719_212%2F16897244066617JlU0_JPEG%2F%25BC%25D2%25B3%25EB%25BA%25A7%25BA%25AF%25BB%25EA_10.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13474414"
     },
     {
         "ranking": "3",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "신재생에너지테마파크",
-        "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMzA3MDFfMjMw%2FMDAxNjg4MTkxOTQ4ODE1.hlLWOrmbYw0hzUv6W2Hwg_-ZxXQRM9t79lcf7MvckZcg.XVC6akUH01POcHhDfrC2WukdrjJt1t8ZoG51MxYswPsg.JPEG.wwilove%2FIMG_8173.jpg%23900x676&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/20178029"
+        "title": "변산리조트 워터파크",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220609_182%2F1654757518317dcw4J_JPEG%2Fbanner.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1048618023"
     },
     {
         "ranking": "20",
-        "title": "내소힐링캠프",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20210820_203%2F1629420328525Ndnvw_PNG%2Fimage.png&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36826660"
+        "title": "쇼트앤드",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180726_211%2F153257962982838GXq_JPEG%2FTaUpdUlV0MehCZ_0QjXQPQtc.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/312556694"
     }
 ]

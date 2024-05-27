@@ -49,15 +49,15 @@
     },
     {
         "ranking": "9",
-        "title": "카페까미노",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230520_72%2F1684540792924D6jMO_JPEG%2FIMG_4491.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1282942930"
-    },
-    {
-        "ranking": "10",
         "title": "스테이트",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200810_247%2F1597042392927YRFXT_PNG%2F2rIOZPJH-X-bo6wjqNsC_QG2.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1624689052"
+    },
+    {
+        "ranking": "10",
+        "title": "카페까미노",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230520_72%2F1684540792924D6jMO_JPEG%2FIMG_4491.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1282942930"
     },
     {
         "ranking": "11",
@@ -67,9 +67,9 @@
     },
     {
         "ranking": "12",
-        "title": "퍼프베이커리",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210522_296%2F1621672298504DXvtJ_JPEG%2FfQfXgvcmSLORKLy-9U-C65Jx.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1750412645"
+        "title": "온타임",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220717_138%2F1658032623245IABY8_JPEG%2F1658032369810.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1993293282"
     },
     {
         "ranking": "13",
@@ -79,33 +79,33 @@
     },
     {
         "ranking": "14",
-        "title": "온타임",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220717_138%2F1658032623245IABY8_JPEG%2F1658032369810.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1993293282"
-    },
-    {
-        "ranking": "15",
         "title": "런닝맨 부산점",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211028_180%2F1635395045946Y4st7_JPEG%2F%25B7%25B1%25B4%25D7%25B8%25C7_1000.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1620140708"
     },
     {
-        "ranking": "16",
+        "ranking": "15",
         "title": "넉아웃",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230125_96%2F1674619353539dlSVi_JPEG%2FKakaoTalk_20230123_224156210_04.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/954654381"
     },
     {
-        "ranking": "17",
+        "ranking": "16",
         "title": "서면미술관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240325_232%2F1711333689163si049_JPEG%2F%25C0%25B0%25B0%25A2%25C7%25FC_%25C0%25CE%25B0%25A3_%25C0%25FC%25BD%25C3%25C6%25F7%25BD%25BA%25C5%25CD_2.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1683673968"
     },
     {
-        "ranking": "18",
+        "ranking": "17",
         "title": "마리앤쥬",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_207%2F1700720457767lcSpk_JPEG%2FIMG_3202.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1368239677"
+    },
+    {
+        "ranking": "18",
+        "title": "퍼프베이커리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210522_296%2F1621672298504DXvtJ_JPEG%2FfQfXgvcmSLORKLy-9U-C65Jx.jpeg.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1750412645"
     },
     {
         "ranking": "19",

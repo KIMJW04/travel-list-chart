@@ -13,15 +13,15 @@
     },
     {
         "ranking": "3",
-        "title": "장사해수욕장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_123%2F1441045578229Lh7L8_JPEG%2F157155537061695_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/13491159"
-    },
-    {
-        "ranking": "4",
         "title": "공원해파랑",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200728_181%2F1595943030720EsMXl_JPEG%2FsM3EYnWvvrWPljK242E1E5hY.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/756809840"
+    },
+    {
+        "ranking": "4",
+        "title": "장사해수욕장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_123%2F1441045578229Lh7L8_JPEG%2F157155537061695_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/13491159"
     },
     {
         "ranking": "5",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "삼사해상산책로",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_57%2F14232127959393dTSQ_JPEG%2F%25B0%25E6%25BA%25CF_%25BF%25B5%25B4%25F6%25BB%25EF%25BB%25E7%25C7%25D8%25BB%25F3%25BB%25EA%25C3%25A5%25B7%25CE_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36246783"
-    },
-    {
-        "ranking": "20",
         "title": "괴시리 전통마을",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzExMDlfNDYg%2FMDAxNTEwMjM4NTU1Njg1.onXLGyTU4IYIdPUos_stqBZBmdqBtjLrh9dSeRmVxzgg.S_8P1e3qDuL70c1ehacVjbJ0XNlFjKQ7HCCaR1hoYGgg.JPEG.rayam%2FDSC_4969.JPG%231280x854&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/20064230"
+    },
+    {
+        "ranking": "20",
+        "title": "삼사해상산책로",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150206_57%2F14232127959393dTSQ_JPEG%2F%25B0%25E6%25BA%25CF_%25BF%25B5%25B4%25F6%25BB%25EF%25BB%25E7%25C7%25D8%25BB%25F3%25BB%25EA%25C3%25A5%25B7%25CE_1.JPG%3Ftype%3Dm500_500&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/36246783"
     }
 ]

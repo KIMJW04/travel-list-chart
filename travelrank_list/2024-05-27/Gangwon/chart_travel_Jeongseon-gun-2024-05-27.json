@@ -25,15 +25,15 @@
     },
     {
         "ranking": "5",
-        "title": "화암동굴",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160831_145%2F14726316442223k6AF_JPEG%2Fhwaam.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/20259866"
-    },
-    {
-        "ranking": "6",
         "title": "하이원리조트 운암정",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_111%2F17146564286748KWFw_JPEG%2FIMG_6233.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1748137360"
+    },
+    {
+        "ranking": "6",
+        "title": "화암동굴",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20160831_145%2F14726316442223k6AF_JPEG%2Fhwaam.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/20259866"
     },
     {
         "ranking": "7",
@@ -79,15 +79,15 @@
     },
     {
         "ranking": "14",
-        "title": "글램인스타",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230510_160%2F16837260297620MnDV_JPEG%2F1day%252B1day.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1450753770"
-    },
-    {
-        "ranking": "15",
         "title": "타임캡슐공원",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMDJfMjk3%2FMDAxNzA2ODQ4OTg5MTQw.Da1d9zAMhogQNF3yENmCt7K-lSWrZ5NRi8Cba9KAEYEg.yhTTGmEDS-xzfkho4EwAQYFCdhUKp8A1G3-QnA859r4g.JPEG.han4869%2F20240114_105125.jpg%234000x2252&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/20087781"
+    },
+    {
+        "ranking": "15",
+        "title": "글램인스타",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230510_160%2F16837260297620MnDV_JPEG%2F1day%252B1day.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1450753770"
     },
     {
         "ranking": "16",

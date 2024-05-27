@@ -49,33 +49,33 @@
     },
     {
         "ranking": "9",
+        "title": "카페숨",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_168%2F171084815228744bKa_JPEG%2F1000008353.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1906255551"
+    },
+    {
+        "ranking": "10",
         "title": "아울카페",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220714_269%2F1657767373975M3qbH_JPEG%2F315EF6D9-3E01-47E1-BE5F-CF463B7F408C.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1358647983"
     },
     {
-        "ranking": "10",
-        "title": "미즈노씨네 트리하우스",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230126_47%2F1674706764878Fvlp2_JPEG%2FB76B5BCC-E164-4FF7-A37A-2CC7944FBE12.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/658896719"
-    },
-    {
         "ranking": "11",
-        "title": "카페선암리",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220826_222%2F1661492213242YLAur_JPEG%2FKakaoTalk_Photo_2022-08-26-14-33-36_002.jpeg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1734739819"
-    },
-    {
-        "ranking": "12",
         "title": "헤이그라운드",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230718_167%2F1689626343307kLuPz_JPEG%2F79F649B1-32C3-41C7-B788-2E2C018D933D.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1315119807"
     },
     {
+        "ranking": "12",
+        "title": "카페선암리",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220826_222%2F1661492213242YLAur_JPEG%2FKakaoTalk_Photo_2022-08-26-14-33-36_002.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1734739819"
+    },
+    {
         "ranking": "13",
-        "title": "카페숨",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_168%2F171084815228744bKa_JPEG%2F1000008353.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1906255551"
+        "title": "미즈노씨네 트리하우스",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230126_47%2F1674706764878Fvlp2_JPEG%2FB76B5BCC-E164-4FF7-A37A-2CC7944FBE12.jpeg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/658896719"
     },
     {
         "ranking": "14",
@@ -97,9 +97,9 @@
     },
     {
         "ranking": "17",
-        "title": "카페마마",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210607_80%2F1623050669312BrGOt_JPEG%2FM7_yZRtLEI8Qbs4KA4UVZ5Nk.jpeg.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1679325998"
+        "title": "모다아울렛 전주김제점",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200810_143%2F1597019359413EDcg9_JPEG%2FG97iCZ-fAmkkpBvp81TioLVe.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1809060987"
     },
     {
         "ranking": "18",
@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "모다아울렛 전주김제점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200810_143%2F1597019359413EDcg9_JPEG%2FG97iCZ-fAmkkpBvp81TioLVe.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1809060987"
-    },
-    {
-        "ranking": "20",
         "title": "소프라",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221104_256%2F16675343585576TSNw_JPEG%2FC17F8260-D602-43C8-A9BC-4D6C004B45DD.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1067907345"
+    },
+    {
+        "ranking": "20",
+        "title": "늘숲",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240420_46%2F1713593952185dxpMl_JPEG%2FIMG_3469.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1796520530"
     }
 ]

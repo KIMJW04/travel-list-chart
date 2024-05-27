@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "목재문화체험장",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210511_272%2F16207206139389rh9W_JPEG%2FIojIa8VQl77TAOheQ9AaawZ1.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/488523842"
-    },
-    {
-        "ranking": "20",
         "title": "진해드림파크",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210512_248%2F1620779310375XVQF5_JPEG%2FjXQu110Oo-ppVNpkKluASslI.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/13049938"
+    },
+    {
+        "ranking": "20",
+        "title": "목재문화체험장",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210511_272%2F16207206139389rh9W_JPEG%2FIojIa8VQl77TAOheQ9AaawZ1.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/488523842"
     }
 ]

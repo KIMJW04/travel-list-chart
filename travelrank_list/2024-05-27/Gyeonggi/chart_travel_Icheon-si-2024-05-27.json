@@ -55,15 +55,15 @@
     },
     {
         "ranking": "10",
-        "title": "덕평공룡수목원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240513_289%2F1715587100464ikBld_JPEG%2FKakaoTalk_20240513_165118756.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/36505156"
-    },
-    {
-        "ranking": "11",
         "title": "피아뜰 돼지보러오면돼지",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240525_154%2F17166133368360nCby_PNG%2F%25C7%25F6%25C3%25E6%25C0%25CF.png&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/37411238"
+    },
+    {
+        "ranking": "11",
+        "title": "덕평공룡수목원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240513_289%2F1715587100464ikBld_JPEG%2FKakaoTalk_20240513_165118756.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/36505156"
     },
     {
         "ranking": "12",

@@ -109,14 +109,14 @@
     },
     {
         "ranking": "19",
-        "title": "어드레스&붐도넛",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230710_120%2F1688964763066phKaw_JPEG%2F1688964229810.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1816603964"
-    },
-    {
-        "ranking": "20",
         "title": "초서",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221215_212%2F1671067295395NKxBi_JPEG%2F59AD14A2-8BF4-4849-9E1B-48E40C3B4185.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1139787841"
+    },
+    {
+        "ranking": "20",
+        "title": "어드레스&붐도넛",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230710_120%2F1688964763066phKaw_JPEG%2F1688964229810.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/1816603964"
     }
 ]

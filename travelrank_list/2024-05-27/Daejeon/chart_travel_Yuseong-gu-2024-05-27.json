@@ -7,15 +7,15 @@
     },
     {
         "ranking": "2",
-        "title": "엑스포 과학공원",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_109%2F1441007004036THbKz_JPEG%2F116359528661902_0.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/11621573"
-    },
-    {
-        "ranking": "3",
         "title": "국립중앙과학관",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150901_44%2F1441038774735ld6B1_JPEG%2F11784252_0.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/11784252"
+    },
+    {
+        "ranking": "3",
+        "title": "엑스포 과학공원",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_109%2F1441007004036THbKz_JPEG%2F116359528661902_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11621573"
     },
     {
         "ranking": "4",
@@ -85,38 +85,38 @@
     },
     {
         "ranking": "15",
-        "title": "꾸드뱅",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240404_108%2F1712215188448lwT9U_JPEG%2F%25B4%25DC%25C3%25BC%25BB%25E7%25C1%25F8_2024.04.04.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/37865853"
-    },
-    {
-        "ranking": "16",
         "title": "Leafful",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231114_26%2F16999166507384AfL5_JPEG%2FA952455B-BAC9-41F9-9AB7-7BA65AC82402.jpeg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1077185546"
     },
     {
-        "ranking": "17",
+        "ranking": "16",
         "title": "대전시립박물관",
         "image_url": "https://search.pstatic.net/common?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzA5MDlfMjEy%2FMDAxNTA0ODk3MjM0Mjg1.eF84hWeL0j0L43hKeMO5vxLK26um90lOFHEzDxRYBbYg.BRjPXHi_aPagN9Y9Gdt2KkS7QFJEISdEIbgNJttPD-4g.JPEG.a1k1%2FDSC_4464.JPG%23922x622&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/21713157"
     },
     {
-        "ranking": "18",
+        "ranking": "17",
         "title": "탑립커피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211208_285%2F1638972492833fqbMi_JPEG%2FIMG_20210723_144102_489.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1590259185"
     },
     {
-        "ranking": "19",
+        "ranking": "18",
         "title": "아케이드커피",
         "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191219_170%2F1576732914661Tpqof_JPEG%2FgMNXr7VsE77DShP0eZO8yApN.jpeg.jpg&type=f210_210_domesearch",
         "link": "https://map.naver.com/v5/entry/place/1504314729"
     },
     {
+        "ranking": "19",
+        "title": "꾸드뱅",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20240404_108%2F1712215188448lwT9U_JPEG%2F%25B4%25DC%25C3%25BC%25BB%25E7%25C1%25F8_2024.04.04.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/37865853"
+    },
+    {
         "ranking": "20",
-        "title": "현대프리미엄아울렛 대전점",
-        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220722_138%2F1658468219295SiULw_JPEG%2F5W3A5390.jpg&type=f210_210_domesearch",
-        "link": "https://map.naver.com/v5/entry/place/1089023247"
+        "title": "지질박물관",
+        "image_url": "https://search.pstatic.net/common?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_159%2F1441006767024qyrhm_JPEG%2F11620552_0.jpg&type=f210_210_domesearch",
+        "link": "https://map.naver.com/v5/entry/place/11620552"
     }
 ]
