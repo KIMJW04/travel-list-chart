@@ -16,7 +16,6 @@ current_date = datetime.now().strftime("%Y-%m-%d")
 
 # 한글 지역명과 영어 지역명 대응하는 딕셔너리 생성
 korean_administrative_units_list = {
-korean_administrative_units_list = {
     "Seoul": {
         "서울강남구": "Gangnam-gu",
         "서울강동구": "Gangdong-gu",
