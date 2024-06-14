@@ -62,14 +62,14 @@ korean_administrative_units_list = {
         "부산해운대구": "Haeundae-gu"
     },
     "Daegu": {
-        "대구달성군": " Dalseong-gun",
-        "대구남구": " Nam-gu",
-        "대구달서구": " Dalseo-gu",
-        "대구동구": " Dong-gu",
-        "대구북구": " Buk-gu",
-        "대구서구": " Seo-gu",
-        "대구수성구": " Suseong-gu",
-        "대구중구": " Jung-gu"
+        "대구달성군": "Dalseong-gun",
+        "대구남구": "Nam-gu",
+        "대구달서구": "Dalseo-gu",
+        "대구동구": "Dong-gu",
+        "대구북구": "Buk-gu",
+        "대구서구": "Seo-gu",
+        "대구수성구": "Suseong-gu",
+        "대구중구": "Jung-gu"
     },
     "Incheon": {
         "인천강화군": "Ganghwa-gun",
@@ -77,8 +77,6 @@ korean_administrative_units_list = {
         "인천계양구": "Gyeyang-gu",
         "인천남구": "Nam-gu",
         "인천남동구": "Namdong-gu",
-        "인천동구": "Dong-gu",
-        "인천부평구": "Bupyeong-gu",
         "인천서구": "Seo-gu",
         "인천연수구": "Yeonsu-gu",
         "인천중구": "Jung-gu"
@@ -111,7 +109,6 @@ korean_administrative_units_list = {
         "경기도고양시": "Goyang-si",
         "경기도과천시": "Gwacheon-si",
         "경기도광명시": "Gwangmyeong-si",
-        "경기도광주시": "Gwangju-si",
         "경기도구리시": "Guri-si",
         "경기도군포시": "Gunpo-si",
         "경기도김포시": "Gimpo-si",
@@ -128,7 +125,6 @@ korean_administrative_units_list = {
         "경기도여주시": "Yeoju-si",
         "경기도오산시": "Osan-si",
         "경기도용인시": "Yongin-si",
-        "경기도의왕시": "Uiwang-si",
         "경기도의정부시": "Uijeongbu-si",
         "경기도이천시": "Icheon-si",
         "경기도파주시": "Paju-si",
@@ -148,7 +144,6 @@ korean_administrative_units_list = {
         "강원도원주시": "Wonju-si",
         "강원도춘천시": "Chuncheon-si",
         "강원도태백시": "Taebaek-si",
-        "강원도고성군": "Goseong-gun",
         "강원도양구군": "Yanggu-gun",
         "강원도양양군": "Yangyang-gun",
         "강원도영월군": "Yeongwol-gun",
@@ -174,7 +169,6 @@ korean_administrative_units_list = {
         "충청북도진천군": "Jincheon-gun"
     },
     "Chungcheongnam": {
-        "충청남도계룡시": "Gyeryong-si",
         "충청남도공주시": "Gongju-si",
         "충청남도논산시": "Nonsan-si",
         "충청남도당진시": "Dangjin-si",
@@ -195,10 +189,7 @@ korean_administrative_units_list = {
         "전락북도김제시": "Gimje-si",
         "전락북도남원시": "Namwon-si",
         "전락북도익산시": "Iksan-si",
-        "전락북도전주시": "Jeonju-si",
         "전락북도정읍시": "Jeongeup-si",
-        "전락북도고창군": "Gochang-gun",
-        "전락북도무주군": "Muju-gun",
         "전락북도부안군": "Buan-gun",
         "전락북도순창군": "Sunchang-gun",
         "전락북도완주군": "Wanju-gun",
@@ -231,7 +222,6 @@ korean_administrative_units_list = {
         "전라남도화순군": "Hwasun-gun"
     },
     "Gyeongsangbuk": {
-        "경산북도경산시": "Gyeongsan-si",
         "경산북도경주시": "Gyeongju-si",
         "경산북도구미시": "Gumi-si",
         "경산북도김천시": "Gimcheon-si",
@@ -242,8 +232,6 @@ korean_administrative_units_list = {
         "경산북도영천시": "Yeongcheon-si",
         "경산북도포항시": "Pohang-si",
         "경산북도고령군": "Goryeong-gun",
-        "경산북도군위군": "Gunwi-gun",
-        "경산북도봉화군": "Bonghwa-gun",
         "경산북도성주군": "Seongju-gun",
         "경산북도영덕군": "Yeongdeok-gun",
         "경산북도영양군": "Yeongyang-gun",
@@ -265,7 +253,6 @@ korean_administrative_units_list = {
         "경상남도창원시": "Changwon-si",
         "경상남도통영시": "Tongyeong-si",
         "경상남도거창군": "Geochang-gun",
-        "경상남도고성군": "Goseong-gun",
         "경상남도남해군": "Namhae-gun",
         "경상남도산청군": "Sancheong-gun",
         "경상남도의령군": "Uiryeong-gun",
@@ -279,7 +266,6 @@ korean_administrative_units_list = {
         "제주도제주시": "Jeju-si"
     }
 }
-
 
 # 현재 날짜로 된 폴더 생성
 base_folder_path = os.path.join(os.getcwd(), "travelrank_list", current_date)
@@ -303,7 +289,7 @@ for city, districts in korean_administrative_units_list.items():
         browser.get(url)
 
         # 페이지가 완전히 로드될 때까지 대기
-        WebDriverWait(browser, 2).until(EC.visibility_of_element_located((By.CLASS_NAME, "main_pack")))
+        WebDriverWait(browser, 5).until(EC.visibility_of_element_located((By.CLASS_NAME, "main_pack")))
 
         # 페이지 소스를 가져와서 파싱
         html_source_updated = browser.page_source
@@ -334,7 +320,7 @@ for city, districts in korean_administrative_units_list.items():
             place_id = travel['link']
             new_url = f"https://pcmap.place.naver.com/place/{place_id}/home"
             browser.get(new_url)
-            WebDriverWait(browser, 2).until(EC.visibility_of_element_located((By.ID, "app-root")))
+            WebDriverWait(browser, 5).until(EC.visibility_of_element_located((By.ID, "app-root")))
 
             detail_html_source = browser.page_source
             detail_soup = BeautifulSoup(detail_html_source, 'html.parser')
@@ -364,11 +350,24 @@ for city, districts in korean_administrative_units_list.items():
             if addresses_element:
                 addresses_text = addresses_element.text.strip()
 
+            # JavaScript에서 x와 y의 값을 첫 번째 줄부터 찾아서 저장
+            script_text = detail_soup.find('script', text=re.compile(r'window\.__APOLLO_STATE__')).string
+            x = ""
+            y = ""
+            x_match = re.search(r'"x":"(.*?)"', script_text)
+            y_match = re.search(r'"y":"(.*?)"', script_text)
+            if x_match:
+                x = x_match.group(1)
+            if y_match:
+                y = y_match.group(1)
+
             travel.update({
                 'title_cate': span_text,
                 'human_review': human_review,
                 'blog_review': blog_review,
-                'addresses': addresses_text
+                'addresses': addresses_text,
+                'x': x,
+                'y': y
             })
 
         # 파일명 생성 및 데이터 저장
