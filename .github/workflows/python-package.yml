@@ -26,19 +26,19 @@ jobs:
 
     - name: Install libraries
       run: |
-        pip install requests
-        pip install pandas
-        pip install beautifulsoup4
-        pip install lxml
-        pip install selenium
-        pip install webdriver_manager
+        pip install requests pandas beautifulsoup4 lxml selenium webdriver_manager
 
     - name: Run Python script with retry
       run: |
         RETRIES=3
         for i in $(seq 1 $RETRIES); do
-          python3 travelrank.py && break || echo "Attempt $i failed. Retrying in 10 seconds..." && sleep 10
+          python travelrank.py && break || echo "Attempt $i failed. Retrying in 10 seconds..." && sleep 10
         done
+
+    - name: Fetch and merge remote changes
+      run: |
+        git fetch origin
+        git merge origin/main
 
     - name: Find generated folders
       id: find_folders
@@ -46,7 +46,7 @@ jobs:
         folders=$(find ./travelrank_list -type d -name "$(date +'%Y-%m-%d')")
         echo "Found folder: $folders"
         echo "FOLDERS=$folders" >> $GITHUB_ENV
-    
+
     - name: Upload artifacts
       uses: actions/upload-artifact@v2
       with:
@@ -60,10 +60,11 @@ jobs:
 
     - name: Commit changes
       run: |
+        git status
         git add .
-        git commit -m "Committing travel chart data"
+        git commit -m "Committing travel chart data" || echo "No changes to commit"
 
     - name: Push changes
       uses: ad-m/github-push-action@master
-      with: 
+      with:
         branch: "main"
